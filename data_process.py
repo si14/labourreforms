@@ -211,7 +211,7 @@ def main():
     )
 
     result = Result(
-        last_update=datetime.now(ZoneInfo("Europe/London")) .strftime("%d %B %Y"),
+        last_update=datetime.now(ZoneInfo("Europe/London")).strftime("%d %B %Y"),
         bills=processed_bills,
         stats=stats,
     )

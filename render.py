@@ -1,6 +1,7 @@
 import argparse
 import json
 import shutil
+import hashlib
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
@@ -11,15 +12,26 @@ PUBLIC_PATH = Path("public")
 SRC_PATH = Path("src")
 
 
+def calculate_file_hash(file_path):
+    with open(file_path, "rb") as f:
+        return hashlib.sha256(f.read()).hexdigest()[:8]
+
+
 def render():
     BUILD_PATH.mkdir(exist_ok=True)
 
     with open("data.json", "r") as f:
         data = json.loads(f.read())
 
+    style_css_path = BUILD_PATH / "style.css"
+    if not style_css_path.exists():
+        raise FileNotFoundError(f"style.css not found: {style_css_path}")
+
+    style_hash = calculate_file_hash(style_css_path)
+
     env = Environment(loader=FileSystemLoader(SRC_PATH))
     template = env.get_template("index.html")
-    rendered_content = template.render(**data)
+    rendered_content = template.render(style_hash=style_hash, **data)
     with open(BUILD_PATH / "index.html", "w") as f:
         f.write(rendered_content)
 
