@@ -1,0 +1,45 @@
+name: Daily Data Refresh
+
+on:
+  schedule:
+    # Run at 5am UTC every day
+    - cron: '0 5 * * *'
+  # Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  refresh-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed for pushing to the repository
+    name: Refresh Data and Commit
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Just
+        uses: extractions/setup-just@v2
+        with:
+          just-version: 1.37.0
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "0.7.2"
+          enable-cache: true
+          cache-dependency-glob: "uv.lock"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: ".python-version"
+
+      - name: Refresh data
+        run: just refresh-data
+
+      - name: Commit and push Changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add data.json
+          git diff --staged --quiet || (git commit -m "Auto-update data.json" && git push)

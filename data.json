@@ -1,0 +1,1052 @@
+{
+  "last_update": "04 May 2025",
+  "stats": {
+    "total": 40,
+    "lords": 8,
+    "commons": 11,
+    "final": 0,
+    "enacted": 8
+  },
+  "bills": [
+    {
+      "group": {
+        "id": "economy",
+        "short": "Economy",
+        "title": "Economic stability and growth"
+      },
+      "title": "Budget Responsibility Act",
+      "descriptions": {
+        "theguardian": "<p>Otherwise nicknamed the “Liz Truss bill”, this sets out, in the wake of the short-serving PM’s disastrous mini-budget, that all such fiscal measures must come with an independent assessment by the Office for Budget Responsibility.</p>",
+        "ft": "<p>Measures in this bill are described by the government as delivering a “fiscal lock” by ensuring the Office for Budget Responsibility, the fiscal watchdog, assesses all tax and spending announcements.</p>\n<p>The legislation is partly a political move designed to highlight Labour’s respect for the OBR in contrast with Liz Truss, former Tory prime minister, who refused to get an assessment from the body before her disastrous “mini” Budget in 2022.</p>",
+        "parliament": "<p>A Bill to impose duties on the Treasury and the Office for Budget Responsibility in respect of the announcement of fiscally significant measures.</p>"
+      },
+      "display_stage": "final",
+      "progress": null,
+      "enacted": {
+        "enacted_for": "7 months"
+      },
+      "parliament_id": 3731,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "economy",
+        "short": "Economy",
+        "title": "Economic stability and growth"
+      },
+      "title": "National Wealth Fund Bill",
+      "descriptions": {
+        "theguardian": "<p>Setting out in law one of the government’s main wealth-creating efforts, a £7.3bn capitalised fund to spread investment.</p>",
+        "ft": "<p>This will put the new £7.3bn “national wealth fund” on a permanent statutory footing to deliver state funding to the decarbonisation of heavy industry such as steel, ports and the car industry.</p>\n<p>However, the NWF will not be a new standalone body. Instead the money will be initially spent through the UK Infrastructure Bank with “closer alignment” with another existing state lender called the British Business Bank.</p>",
+        "parliament": null
+      },
+      "display_stage": null,
+      "progress": null,
+      "enacted": null,
+      "parliament_id": null,
+      "context_url": "https://questions-statements.parliament.uk/written-statements/detail/2024-10-14/hcws130"
+    },
+    {
+      "group": {
+        "id": "economy",
+        "short": "Economy",
+        "title": "Economic stability and growth"
+      },
+      "title": "Pension Schemes Bill",
+      "descriptions": {
+        "theguardian": "<p>A broad pensions-based bill covering measures intended to help people get more from their retirement pots.</p>",
+        "ft": "<p>Legislation will place an emphasis on preventing people losing track of various small pension pots by consolidating them. This move will help tackle a problem affecting some 2.8mn pots, according to the Pensions Policy Institute, a think-tank. An accompanying value for money framework is aimed at encouraging better pension fund performance in the interest of economic growth.</p>",
+        "parliament": null
+      },
+      "display_stage": null,
+      "progress": null,
+      "enacted": null,
+      "parliament_id": null,
+      "context_url": "https://www.gov.uk/government/news/pension-reforms-to-go-further-to-unlock-billions-to-drive-growth-and-boost-working-peoples-pension-pots"
+    },
+    {
+      "group": {
+        "id": "economy",
+        "short": "Economy",
+        "title": "Economic stability and growth"
+      },
+      "title": "Planning and Infrastructure Bill",
+      "descriptions": {
+        "theguardian": "<p>One of the government’s main measures, intended to streamline and speed up planning and associated infrastructure needs to get more housing built. It includes a more top-down approach, with penalties for councils that fail to get moving.</p>",
+        "ft": "<p>Planning reform is at the centre of Labour’s ambitions to build houses and deliver renewable energy infrastructure, for example accelerating upgrades to the national grid. Reform of local planning committees is aimed at streamlining processes, while attempts to increase planning authorities’ capacity is aimed at boosting developer and investor confidence.</p>",
+        "parliament": "<p>A Bill to make provision about infrastructure; to make provision about town and country planning; to make provision for a scheme, administered by Natural England, for a nature restoration levy payable by developers; to make provision about development corporations; to make provision about the compulsory purchase of land; to make provision about environmental outcomes reports; and for connected purposes.</p>"
+      },
+      "display_stage": "commons",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passing"
+          },
+          {
+            "stage": "Lords",
+            "state": "future"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "02 May 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3946,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "economy",
+        "short": "Economy",
+        "title": "Economic stability and growth"
+      },
+      "title": "Employment Rights Bill",
+      "descriptions": {
+        "theguardian": "<p>The long-promised bill, coming with a pledge that it will be introduced to parliament in the first 100 days of the government, would ban zero-hours contracts and fire and rehire practices, add extra rights such as on flexible working, and make parental leave, sick pay and protection from unfair dismissal immediate rights.</p>",
+        "ft": "<p>An employment rights bill will enshrine in law a package of measures previously known as Labour’s “New Deal For Working People”. The bill will ban zero-hours contracts, end “fire and rehire” practices, and give immediate access to parental leave and sick pay. It will also make it easier for unions to take strike action by reversing recent Tory legislation.</p>",
+        "parliament": "<p>A Bill to make provision to amend the law relating to employment rights; to make provision about procedure for handling redundancies; to make provision about the treatment of workers involved in the supply of services under certain public contracts; to provide for duties to be imposed on employers in relation to equality; to amend the definition of “employment business” in the Employment Agencies Act 1973; to provide for the establishment of the School Support Staff Negotiating Body and the Social Care Negotiating Bodies; to amend the Seafarers’ Wages Act 2023; to make provision for the implementation of international agreements relating to maritime employment; to make provision about trade unions, industrial action, employers’ associations and the functions of the Certification Officer; to make provision about the enforcement of legislation relating to the labour market; and for connected purposes.</p>"
+      },
+      "display_stage": "lords",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passed"
+          },
+          {
+            "stage": "Lords",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "02 May 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3737,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "economy",
+        "short": "Economy",
+        "title": "Economic stability and growth"
+      },
+      "title": "Passenger Railway Services (Public Ownership) Act",
+      "descriptions": {
+        "theguardian": "<p>A simple bill, but a potentially big change – bringing rail services back into public ownership.</p>",
+        "ft": "<p>The government will bring rail services back into public ownership and amend legislation so a public-sector operator is the default position when current franchise contracts conclude. A new public body, Great British Railways, will also be created alongside measures to combine infrastructure and services under one roof.</p>",
+        "parliament": "<p>A Bill to make provision for passenger railway services to be provided by public sector companies instead of by means of franchises.</p>"
+      },
+      "display_stage": "final",
+      "progress": null,
+      "enacted": {
+        "enacted_for": "5 months"
+      },
+      "parliament_id": 3732,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "economy",
+        "short": "Economy",
+        "title": "Economic stability and growth"
+      },
+      "title": "Railways Bill",
+      "descriptions": {
+        "theguardian": "<p>This would formally establish Great British Railways, the state-run rail firm.</p>",
+        "ft": null,
+        "parliament": null
+      },
+      "display_stage": null,
+      "progress": null,
+      "enacted": null,
+      "parliament_id": null,
+      "context_url": "https://www.gov.uk/government/consultations/a-railway-fit-for-britains-future"
+    },
+    {
+      "group": {
+        "id": "energy",
+        "short": "Energy",
+        "title": "Great British Energy and becoming a Clean Energy Superpower"
+      },
+      "title": "Great British Energy Bill",
+      "descriptions": {
+        "theguardian": "<p>Very much one of the big-ticket bills, this sets up Labour’s long-promised publicly owned clean energy production company.</p>",
+        "ft": "<p>This will set up a new publicly-owned “energy production company” to own and operate clean power projects such as solar and wind in partnership with the private sector. The new group, headquartered in Scotland, will have £8.3bn of new money over the five-year parliament.</p>",
+        "parliament": "<p>A Bill to make provision about Great British Energy.</p>"
+      },
+      "display_stage": "commons",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passing"
+          },
+          {
+            "stage": "Lords",
+            "state": "future"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "01 May 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3738,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "energy",
+        "short": "Energy",
+        "title": "Great British Energy and becoming a Clean Energy Superpower"
+      },
+      "title": "Water (Special Measures) Act",
+      "descriptions": {
+        "theguardian": "<p>A law that taps into the anger about polluted waterways and privatised water companies that includes personal criminal liability for water bosses and powers to ban bonuses if environmental standards are not met.</p>",
+        "ft": "<p>Britain’s struggling water industry will be subjected to new “tough special measures” designed to clean up dirty rivers, lakes and seas. Water bosses will face personal criminal liability for lawbreaking if their companies repeatedly flout sewage regulations. Water regulator Ofwat will get powers to ban executive bonuses if environmental standards are not met.</p>",
+        "parliament": "<p>A Bill to make provision about the regulation, governance and special administration of water companies.</p>"
+      },
+      "display_stage": "final",
+      "progress": null,
+      "enacted": {
+        "enacted_for": "2 months"
+      },
+      "parliament_id": 3751,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "economy",
+        "short": "Economy",
+        "title": "Economic stability and growth"
+      },
+      "title": "Bus Services (No. 2) Bill",
+      "descriptions": {
+        "theguardian": "<p>A measure that could have a big impact, this changes the law to allow local authorities and mayors to bring bus services under local control, rather than being privately run.</p>",
+        "ft": null,
+        "parliament": "<p>A bill to make provision about local and school bus services; and for connected purposes.</p>"
+      },
+      "display_stage": "commons",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Lords",
+            "state": "passed"
+          },
+          {
+            "stage": "Commons",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "01 May 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3910,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "opportunity",
+        "short": "Opportunity",
+        "title": "Break down the barriers to opportunity"
+      },
+      "title": "Renters' Rights Bill",
+      "descriptions": {
+        "theguardian": "<p>Finally introducing an end to “no fault” evictions, as long promised but never delivered by Sunak’s government.</p>",
+        "ft": "<p>This will end Section 21 “no fault” evictions for tenants, removing the threat of arbitrary evictions to increase tenant security. The Tories promised this in 2019 but failed to get similar legislation through parliament before they lost the general election in early July.</p>",
+        "parliament": "<p>A Bill to make provision changing the law about rented homes, including provision abolishing fixed term assured tenancies and assured shorthold tenancies; imposing obligations on landlords and others in relation to rented homes and temporary and supported accommodation; and for connected purposes.</p>"
+      },
+      "display_stage": "lords",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passed"
+          },
+          {
+            "stage": "Lords",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "01 May 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3764,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "opportunity",
+        "short": "Opportunity",
+        "title": "Break down the barriers to opportunity"
+      },
+      "title": "Children’s Wellbeing and Schools Bill",
+      "descriptions": {
+        "theguardian": "<p>Introduces free breakfast clubs in primary schools as well as efforts to make uniforms cheaper.</p>",
+        "ft": null,
+        "parliament": "<p>A Bill to make provision about the safeguarding and welfare of children; about support for children in care or leaving care; about regulation of care workers; about regulation of establishments and agencies under Part 2 of the Care Standards Act 2000; about employment of children; about breakfast club provision and school uniform; about attendance of children at school; about regulation of independent educational institutions; about inspections of schools and colleges; about teacher misconduct; about Academies and teachers at Academies; repealing section 128 of the Education Act 2002; about school places and admissions; about establishing new schools; and for connected purposes.</p>"
+      },
+      "display_stage": "lords",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passed"
+          },
+          {
+            "stage": "Lords",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "02 May 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3909,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "opportunity",
+        "short": "Opportunity",
+        "title": "Break down the barriers to opportunity"
+      },
+      "title": "Leasehold and Commonhold Reform Bill",
+      "descriptions": {
+        "theguardian": "<p>Another housing plan not delivered under Sunak, this attempts to reform the leasehold system, including with a ban on extortionate ground rents and on the sale of new leasehold flats.</p>",
+        "ft": "<p>This draft bill would allow leaseholders to extend their lease and buy their freehold and take over the freeholder’s building management function. There will also be restriction on the sale of new leasehold flats. It also proposes tighter regulation of ground rents for existing leaseholders.</p>",
+        "parliament": null
+      },
+      "display_stage": null,
+      "progress": null,
+      "enacted": null,
+      "parliament_id": null,
+      "context_url": "https://commonslibrary.parliament.uk/leasehold-reform-in-england-and-wales/"
+    },
+    {
+      "group": {
+        "id": "economy",
+        "short": "Economy",
+        "title": "Economic stability and growth"
+      },
+      "title": "English Devolution Bill",
+      "descriptions": {
+        "theguardian": "<p>Another much-touted measure, intended to extend devolution across England and giving mayors and local authorities the opportunity to take on extra powers.</p>",
+        "ft": "<p>The government has promised to make the devolution of powers a default setting for England’s regions. Legislation will establish a new framework to move power out of Westminster, with the aim of empowering local leaders to make decisions over infrastructure planning, transport, skills and employment support.</p>",
+        "parliament": null
+      },
+      "display_stage": null,
+      "progress": null,
+      "enacted": null,
+      "parliament_id": null,
+      "context_url": "https://www.gov.uk/government/publications/english-devolution-white-paper-power-and-partnership-foundations-for-growth/english-devolution-white-paper"
+    },
+    {
+      "group": {
+        "id": "economy",
+        "short": "Economy",
+        "title": "Economic stability and growth"
+      },
+      "title": "High Speed Rail (Crewe to Manchester) Bill",
+      "descriptions": {
+        "theguardian": "<p>An acknowledgment in law that Labour will not resurrect the Birmingham to Manchester leg of HS2, instead focusing on east to west links.</p>",
+        "ft": null,
+        "parliament": "<p>A Bill to make provision for a railway between a junction with Phase 2a of High Speed 2 south of Crewe in Cheshire and Manchester Piccadilly Station; for a railway between Hoo Green in Cheshire and a junction with the West Coast Main Line at Bamfurlong, south of Wigan; and for connected purposes.</p>"
+      },
+      "display_stage": "commons",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passing"
+          },
+          {
+            "stage": "Lords",
+            "state": "future"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "02 August 2024"
+      },
+      "enacted": null,
+      "parliament_id": 3094,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "security",
+        "short": "Security",
+        "title": "Secure borders, cracking down on anti-social behaviour and taking back our streets"
+      },
+      "title": "Border Security, Asylum and Immigration Bill",
+      "descriptions": {
+        "theguardian": "<p>This sets up the new Border Security Command, intended to limit the number of unofficial Channel crossings by asylum seekers, with other enforcement measures introduced.</p>",
+        "ft": "<p>This legislation sets up the new Border Security Command to crack down on criminal gangs bringing asylum seekers across the English Channel. It will also ensure stronger penalties against a range of organised immigration crimes.</p>",
+        "parliament": "<p>A Bill to make provision about border security; to make provision about immigration and asylum; to make provision about sharing customs data and trailer registration data; to make provision about articles for use in serious crime; to make provision about serious crime prevention orders; to make provision about fees paid in connection with the recognition, comparability or assessment of qualifications; and for connected purposes.</p>"
+      },
+      "display_stage": "commons",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passing"
+          },
+          {
+            "stage": "Lords",
+            "state": "future"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "01 May 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3929,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "opportunity",
+        "short": "Opportunity",
+        "title": "Break down the barriers to opportunity"
+      },
+      "title": "Skills England Bill",
+      "descriptions": {
+        "theguardian": "<p>This brings together employers, unions and others to try to boost skills training.</p>",
+        "ft": "<p>This sets up a new quango called Skills England to oversee skills training, initially transferring functions from an existing body called the Institute for Apprenticeships and Technical Education.</p>",
+        "parliament": null
+      },
+      "display_stage": null,
+      "progress": null,
+      "enacted": null,
+      "parliament_id": null,
+      "context_url": "https://www.gov.uk/government/collections/skills-england"
+    },
+    {
+      "group": {
+        "id": "economy",
+        "short": "Economy",
+        "title": "Economic stability and growth"
+      },
+      "title": "Bank Resolution (Recapitalisation) Bill",
+      "descriptions": {
+        "theguardian": "<p>A technical bill about what happens if a bank fails, including efforts to make sure taxpayers do not bear the costs.</p>",
+        "ft": "<p>Measures will empower the Bank of England to use funds drawn from the Financial Services Compensation Scheme to deal with the administration and sale of any failed bank, particularly smaller institutions. The FSCS’s funds would also be used to meet a failing bank’s recapitalisation costs.</p>",
+        "parliament": "<p>A Bill to make provision about recapitalisation costs in relation to the special resolution regime under the Banking Act 2009.</p>"
+      },
+      "display_stage": "lords",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Lords",
+            "state": "passing"
+          },
+          {
+            "stage": "Commons",
+            "state": "future"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "02 May 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3734,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "economy",
+        "short": "Economy",
+        "title": "Economic stability and growth"
+      },
+      "title": "Arbitration Act",
+      "descriptions": {
+        "theguardian": "<p>A bill that aims to modernise and hasten dispute resolution systems.</p>",
+        "ft": "<p>The bill will deliver on recommendations set out by the Law Commission in 2022, after the previous government failed to enact legislation before leaving office. Measures to strengthen arbitrator immunity and revise the framework for challenge is meant to make a sector worth £2.5bn to the UK economy more robust.</p>",
+        "parliament": "<p>A Bill to amend the Arbitration Act 1996; and for connected purposes.</p>"
+      },
+      "display_stage": "final",
+      "progress": null,
+      "enacted": {
+        "enacted_for": "2 months"
+      },
+      "parliament_id": 3733,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "economy",
+        "short": "Economy",
+        "title": "Economic stability and growth"
+      },
+      "title": "Product Regulation and Metrology Bill",
+      "descriptions": {
+        "theguardian": "<p>Metrology means measurement – this is another quite specific bill intended to increase economic efficiency and growth.</p>",
+        "ft": null,
+        "parliament": "<p>A Bill to make provision about the marketing or use of products in the United Kingdom; about units of measurement and the quantities in which goods are marketed in the United Kingdom; and for connected purposes.</p>"
+      },
+      "display_stage": "commons",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Lords",
+            "state": "passed"
+          },
+          {
+            "stage": "Commons",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "25 April 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3752,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "economy",
+        "short": "Economy",
+        "title": "Economic stability and growth"
+      },
+      "title": "Data (Use and Access) Bill",
+      "descriptions": {
+        "theguardian": "<p>…This would change data-sharing standards and introduce a proper system for digital verification services.</p>",
+        "ft": null,
+        "parliament": "<p>A bill to make provision about access to customer data and business data; to make provision about services consisting of the use of information to ascertain and verify facts about individuals; to make provision about the recording and sharing, and keeping of registers, of information relating to apparatus in streets; to make provision about the keeping and maintenance of registers of births and deaths; to make provision for the regulation of the processing of information relating to identified or identifiable living individuals; to make provision about privacy and electronic communications; to establish the Information Commission; to make provision about information standards for health and social care; to make provision about the grant of smart meter communication licences; to make provision about the disclosure of information to improve public service delivery; to make provision about the retention of information by providers of internet services in connection with investigations into child deaths; to make provision about providing information for purposes related to the carrying out of independent research into online safety matters; to make provision about the retention of biometric data; to make provision about services for the provision of electronic signatures, electronic seals and other trust services; to make provision about the creation and solicitation of purported intimate images and for connected purposes.</p>"
+      },
+      "display_stage": "commons",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Lords",
+            "state": "passed"
+          },
+          {
+            "stage": "Commons",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "02 May 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3825,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "economy",
+        "short": "Economy",
+        "title": "Economic stability and growth"
+      },
+      "title": "Draft Audit Reform and Corporate Governance Bill",
+      "descriptions": {
+        "theguardian": "<p>A more technical piece of legislation setting out a revamped regulator for the auditing sector.</p>",
+        "ft": "<p>The Financial Reporting Council will be replaced with a new Audit, Reporting and Governance Authority in a move designed to “tackle bad financial reporting”. This follows large corporate failures including BHS and Carillion. The authority will be empowered to investigate and impose sanctions on directors for printing dodgy accounts.</p>",
+        "parliament": null
+      },
+      "display_stage": null,
+      "progress": null,
+      "enacted": null,
+      "parliament_id": null,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "energy",
+        "short": "Energy",
+        "title": "Great British Energy and becoming a Clean Energy Superpower"
+      },
+      "title": "Crown Estate Act",
+      "descriptions": {
+        "theguardian": "<p>This aims to modernise the crown estate, the semi-detached property management arms of the state, including improving its ability to invest.</p>",
+        "ft": "<p>This will end “outdated restrictions” on the activities of the Crown Estate, which owns the seabed around England and Wales — where the government wants to build a new generation of offshore wind turbines. The estate will get the power to borrow and its powers to invest will be widened.</p>",
+        "parliament": "<p>A Bill to amend the Crown Estate Act 1961.</p>"
+      },
+      "display_stage": "final",
+      "progress": null,
+      "enacted": {
+        "enacted_for": "a month"
+      },
+      "parliament_id": 3739,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "energy",
+        "short": "Energy",
+        "title": "Great British Energy and becoming a Clean Energy Superpower"
+      },
+      "title": "Sustainable Aviation Fuel (Revenue Support Mechanism) Bill",
+      "descriptions": {
+        "theguardian": "<p>An attempt to increase investment in UK plants to make lower-emission aviation fuels.</p>",
+        "ft": null,
+        "parliament": null
+      },
+      "display_stage": null,
+      "progress": null,
+      "enacted": null,
+      "parliament_id": null,
+      "context_url": "https://www.gov.uk/government/consultations/saf-revenue-certainty-mechanism-approach-to-industry-funding"
+    },
+    {
+      "group": {
+        "id": "security",
+        "short": "Security",
+        "title": "Secure borders, cracking down on anti-social behaviour and taking back our streets"
+      },
+      "title": "Crime and Policing Bill",
+      "descriptions": {
+        "theguardian": "<p>A more general policing bill, including measures on neighbourhood policing and stronger rules for the inspectorate to intervene in failing police forces.</p>",
+        "ft": "<p>This will expand the powers of HM Inspectorate of Constabulary and Fire & Rescue Services to intervene in failing police forces and will introduce higher mandatory national vetting standards across policing.</p>",
+        "parliament": "<p>A Bill to make provision about anti-social behaviour, offensive weapons, offences against people (including sexual offences), property offences, the criminal exploitation of persons, sex offenders, stalking and public order; to make provision about powers of the police, the border force and other similar persons; to make provision about confiscation; to make provision about the police; to make provision about terrorism and national security, and about international agreements relating to crime; to make provision about the criminal liability of bodies; and for connected purposes.</p>"
+      },
+      "display_stage": "commons",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passing"
+          },
+          {
+            "stage": "Lords",
+            "state": "future"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "02 May 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3938,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "security",
+        "short": "Security",
+        "title": "Secure borders, cracking down on anti-social behaviour and taking back our streets"
+      },
+      "title": "Terrorism (Protection of Premises) Act",
+      "descriptions": {
+        "theguardian": "<p>Otherwise known as Martyn’s Law after Martyn Hett who was among those killed in the Manchester Arena attack, this would make sure public buildings are better protected against such attacks.</p>",
+        "ft": null,
+        "parliament": "<p>A Bill to require persons with control of certain premises or events to take steps to reduce the vulnerability of the premises or event to, and the risk of physical harm to individuals arising from, acts of terrorism; to confer related functions on the Security Industry Authority; to limit the disclosure of information about licensed premises that is likely to be useful to a person committing or preparing an act of terrorism; and for connected purposes.</p>"
+      },
+      "display_stage": "final",
+      "progress": null,
+      "enacted": {
+        "enacted_for": "a month"
+      },
+      "parliament_id": 3765,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "security",
+        "short": "Security",
+        "title": "Secure borders, cracking down on anti-social behaviour and taking back our streets"
+      },
+      "title": "Victims, Courts and Public Protection Bill",
+      "descriptions": {
+        "theguardian": "<p>Among other measures, this would boost the powers of the Victims’ commissioner.</p>",
+        "ft": null,
+        "parliament": null
+      },
+      "display_stage": null,
+      "progress": null,
+      "enacted": null,
+      "parliament_id": null,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "opportunity",
+        "short": "Opportunity",
+        "title": "Break down the barriers to opportunity"
+      },
+      "title": "Football Governance Bill",
+      "descriptions": {
+        "theguardian": "<p>This would introduce a fans-friendly independent football regulator.</p>",
+        "ft": "<p>The government will establish a new independent regulator to address financial sustainability of the soccer industry and ensure fans’ voices are heard. This regulator would operate a licensing system and would have to make sure clubs are financially sound.</p>",
+        "parliament": "<p>A bill to establish the Independent Football Regulator; to make provision for the licensing of football clubs; to make provision about the distribution of revenue received by organisers of football competitions; and for connected purposes.</p>"
+      },
+      "display_stage": "commons",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Lords",
+            "state": "passed"
+          },
+          {
+            "stage": "Commons",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "30 April 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3832,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "opportunity",
+        "short": "Opportunity",
+        "title": "Break down the barriers to opportunity"
+      },
+      "title": "Equality (Race and Disability) Bill",
+      "descriptions": {
+        "theguardian": "<p>This would set out equal pay rights for people from minority ethnic groups and disabled people, including mandatory ethnicity and disability pay reporting for bigger employers.</p>",
+        "ft": null,
+        "parliament": null
+      },
+      "display_stage": null,
+      "progress": null,
+      "enacted": null,
+      "parliament_id": null,
+      "context_url": "https://www.gov.uk/government/consultations/equality-race-and-disability-bill-mandatory-ethnicity-and-disability-pay-gap-reporting"
+    },
+    {
+      "group": {
+        "id": "opportunity",
+        "short": "Opportunity",
+        "title": "Break down the barriers to opportunity"
+      },
+      "title": "Conversion Practices (Prohibition) Bill",
+      "descriptions": {
+        "theguardian": "<p>Likely to be quite knotty – a bill to ban conversion practices, including those connected to gender.</p>",
+        "ft": null,
+        "parliament": "<p>A Bill to prohibit practices whose predetermined purpose is to change a person’s sexual orientation or to change a person to or from being transgender; and for connected purposes.</p>"
+      },
+      "display_stage": "commons",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passing"
+          },
+          {
+            "stage": "Lords",
+            "state": "future"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "31 May 2024"
+      },
+      "enacted": null,
+      "parliament_id": 3545,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "health",
+        "short": "Health",
+        "title": "Health"
+      },
+      "title": "Tobacco and Vapes Bill",
+      "descriptions": {
+        "theguardian": "<p>Left over from Rishi Sunak’s government, this would gradually ban smoking and stop vapes being marketed at children.</p>",
+        "ft": "<p>Labour is rolling over a previous Conservative bill that will gradually introduce a smoking ban for people born after January 2009. It will also crack down on child-friendly marketing of vapes.</p>",
+        "parliament": "<p>A Bill to make provision about the supply of tobacco, vapes and other products, including provision prohibiting the sale of tobacco to people born on or after 1 January 2009 and provision about the licensing of retail sales and the registration of retailers; to enable product and information requirements to be imposed in connection with tobacco, vapes and other products; to control the advertising and promotion of tobacco, vapes and other products; and to make provision about smoke-free places, vape-free places and heated tobacco-free places.</p>"
+      },
+      "display_stage": "lords",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passed"
+          },
+          {
+            "stage": "Lords",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "02 May 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3879,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "health",
+        "short": "Health",
+        "title": "Health"
+      },
+      "title": "Mental Health Bill",
+      "descriptions": {
+        "theguardian": "<p>A broad bill to modernise mental health provisions, including in areas such as how people can be detained and treated under the Mental Health Act.</p>",
+        "ft": null,
+        "parliament": "<p>A Bill to make provision to amend the Mental Health Act 1983 in relation to mentally disordered persons; and for connected purposes.</p>"
+      },
+      "display_stage": "commons",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Lords",
+            "state": "passed"
+          },
+          {
+            "stage": "Commons",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "25 April 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3884,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "national",
+        "short": "National",
+        "title": "National security and serving the country"
+      },
+      "title": "Hillsborough Law",
+      "descriptions": {
+        "theguardian": "<p>Introducing a legal duty of candour on public servants and authorities in an attempt to prevent Hillsborough-style cover ups.</p>",
+        "ft": null,
+        "parliament": null
+      },
+      "display_stage": null,
+      "progress": null,
+      "enacted": null,
+      "parliament_id": null,
+      "context_url": "https://committees.parliament.uk/publications/46794/documents/241301/default/"
+    },
+    {
+      "group": {
+        "id": "national",
+        "short": "National",
+        "title": "National security and serving the country"
+      },
+      "title": "Armed Forces Commissioner Bill",
+      "descriptions": {
+        "theguardian": "<p>A self-explanatory one – to create a commissioner for the armed forces.</p>",
+        "ft": null,
+        "parliament": "<p>A Bill to establish, and confer functions on, the Armed Forces Commissioner; to abolish the office of Service Complaints Ombudsman; and for connected purposes.</p>"
+      },
+      "display_stage": "lords",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passed"
+          },
+          {
+            "stage": "Lords",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "01 May 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3881,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "national",
+        "short": "National",
+        "title": "National security and serving the country"
+      },
+      "title": "Northern Ireland Legacy Legislation",
+      "descriptions": {
+        "theguardian": "<p>Another potentially tricky measure, aiming to replace the Northern Ireland Legacy Act, which was criticised for measures such as conditional amnesties for Troubles-era crimes.</p>",
+        "ft": null,
+        "parliament": null
+      },
+      "display_stage": null,
+      "progress": null,
+      "enacted": null,
+      "parliament_id": null,
+      "context_url": "https://committees.parliament.uk/work/8761/the-governments-new-approach-to-addressing-the-legacy-of-the-past-in-northern-ireland/"
+    },
+    {
+      "group": {
+        "id": "national",
+        "short": "National",
+        "title": "National security and serving the country"
+      },
+      "title": "House of Lords (Hereditary Peers) Bill",
+      "descriptions": {
+        "theguardian": "<p>No more hereditary peers will sit in the Lords.</p>",
+        "ft": "<p>Hereditary peers — around 92 male Lords entitled to seats as members of the British aristocracy — will no longer be able to sit and vote in the chamber. The government said reform was “long overdue and essential”. These peers will still be allowed to keep their passes to the Westminster estate, nicknamed the “best club in London”.</p>",
+        "parliament": "<p>A Bill to remove the remaining connection between hereditary peerage and membership of the House of Lords; to abolish the jurisdiction of the House of Lords in relation to claims to hereditary peerages; and for connected purposes.</p>"
+      },
+      "display_stage": "lords",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passed"
+          },
+          {
+            "stage": "Lords",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "03 April 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3755,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "national",
+        "short": "National",
+        "title": "National security and serving the country"
+      },
+      "title": "Cyber Security and Resilience Bill",
+      "descriptions": {
+        "theguardian": "<p>Another technical bill about protecting digital services.</p>",
+        "ft": null,
+        "parliament": null
+      },
+      "display_stage": null,
+      "progress": null,
+      "enacted": null,
+      "parliament_id": null,
+      "context_url": "https://www.gov.uk/government/collections/cyber-security-and-resilience-bill"
+    },
+    {
+      "group": {
+        "id": "national",
+        "short": "National",
+        "title": "National security and serving the country"
+      },
+      "title": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Act",
+      "descriptions": {
+        "theguardian": "<p>Perhaps the most specific bill of all: this would “treat the Commonwealth parliamentary association and the International Committee of the Red Cross in a manner comparable to that of an international organisation of which the United Kingdom, or His Majesty’s government in the United Kingdom, is a member”.</p>",
+        "ft": null,
+        "parliament": "<p>A Bill to make provision about the status of, and privileges and immunities in connection with, the Commonwealth Parliamentary Association and the International Committee of the Red Cross; and for connected purposes.</p>"
+      },
+      "display_stage": "final",
+      "progress": null,
+      "enacted": {
+        "enacted_for": "3 months"
+      },
+      "parliament_id": 3735,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "national",
+        "short": "National",
+        "title": "National security and serving the country"
+      },
+      "title": "Lords Spiritual (Women) Act 2015 (Extension) Bill",
+      "descriptions": {
+        "theguardian": "<p>This would aim to increase the number of female bishops in the Lords.</p>",
+        "ft": null,
+        "parliament": "<p>A Bill to extend the period within which vacancies among the Lords Spiritual are to be filled by bishops who are women.</p>"
+      },
+      "display_stage": "final",
+      "progress": null,
+      "enacted": {
+        "enacted_for": "3 months"
+      },
+      "parliament_id": 3744,
+      "context_url": null
+    },
+    {
+      "group": {
+        "id": "national",
+        "short": "National",
+        "title": "National security and serving the country"
+      },
+      "title": "Holocaust Memorial Bill",
+      "descriptions": {
+        "theguardian": "<p>To establish a national Holocaust memorial and learning centre next to parliament.</p>",
+        "ft": null,
+        "parliament": "<p>A Bill to make provision for expenditure by the Secretary of State and the removal of restrictions in respect of certain land for or in connection with the construction of a Holocaust Memorial and Learning Centre.</p>"
+      },
+      "display_stage": "lords",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passed"
+          },
+          {
+            "stage": "Lords",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "01 May 2025"
+      },
+      "enacted": null,
+      "parliament_id": 3421,
+      "context_url": null
+    }
+  ]
+}

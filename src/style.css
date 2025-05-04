@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@plugin "daisyui";
+
+@theme {
+    --color-commons: #006548;
+    --color-final: #5f2db4;
+    --color-lords: #9d0830;
+}

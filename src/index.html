@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description"
+        content="The 2024 King's Speech announced 40 key policies designed to put Britain back on track. The changes aren't clear yet. What's happening to the Labour reforms?">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Where are the Labour reforms? Tracking the 2024 King's Speech Bills</title>
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://labourreforms.uk">
+  <meta property="og:title" content="Where are the Labour reforms? Tracking the 2024 King's Speech Bills">
+  <meta property="og:description"
+        content="The 2024 King's Speech announced 40 key policies designed to put Britain back on track. The changes aren't clear yet. What's happening to the Labour reforms?">
+  <meta property="og:image" content="https://labourreforms.uk/social.png">
+  <meta property="og:locale" content="en_GB">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://labourreforms.uk">
+  <meta name="twitter:title" content="Where are the Labour reforms? Tracking the 2024 King's Speech Bills">
+  <meta name="twitter:description"
+        content="The 2024 King's Speech announced 40 key policies designed to put Britain back on track. The changes aren't clear yet. What's happening to the Labour reforms?">
+  <meta name="twitter:image" content="https://labourreforms.uk/social.png">
+  <meta name="twitter:creator" content="@dangroshev">
+
+  <link href="./style.css" rel="stylesheet" type="text/css"/>
+  <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌹</text></svg>">
+</head>
+<body>
+
+<div class="container mx-auto p-4 pb-8 w-full flex flex-col gap-8">
+  <header>
+    <h1 class="text-4xl md:text-6xl font-bold mt-4 mb-8">Where are the Labour reforms?</h1>
+
+    <p class="text-xl md:text-2xl mb-6">
+      The 2024 King's Speech announced 40 key policies designed to put Britain back on track.
+      The changes aren't clear yet. What's happening to the Labour reforms?
+    </p>
+
+    <div class="md:text-lg">
+      <p class="mb-4">
+        We track the bills announced in the King's Speech.
+        As of {{ last_update }}:
+      </p>
+      <ul class="list-disc list-inside">
+        <li><strong>{{ stats.commons }}</strong> bills are in the House of Commons</li>
+        <li><strong>{{ stats.lords }}</strong> bills are in the House of Lords</li>
+        <li><strong>{{ stats.enacted }}</strong> have passed and become law</li>
+      </ul>
+    </div>
+  </header>
+
+  <ul class="flex flex-col gap-4">
+    {% for bill in bills %}
+      {% set content_id = 'bill-content-' ~ loop.index %}
+      {% set title_id = 'bill-title-' ~ loop.index %}
+
+      {% if bill.display_stage == 'commons' %}
+        {% set class_bill_bg = 'bg-commons' %}
+        {% set class_bill_border = 'border-commons' %}
+        {% set class_bill_fg = 'text-white' %}
+      {% elif bill.display_stage == 'lords' %}
+        {% set class_bill_bg = 'bg-lords' %}
+        {% set class_bill_border = 'border-lords' %}
+        {% set class_bill_fg = 'text-white' %}
+      {% elif bill.display_stage == 'final' %}
+        {% set class_bill_bg = 'bg-final' %}
+        {% set class_bill_border = 'border-final' %}
+        {% set class_bill_fg = 'text-white' %}
+      {% else %}
+        {% set class_bill_bg = 'bg-base-300' %}
+        {% set class_bill_border = 'border-base-300' %}
+        {% set class_bill_fg = '' %}
+      {% endif %}
+      <li class="w-full shadow-lg rounded-lg">
+        <div
+            class="{{ class_bill_bg }} {{ class_bill_fg }} rounded-lg px-4 py-2 h-[6rem] flex items-center w-full cursor-pointer select-none"
+            data-toggle="trigger"
+            role="button"
+            tabindex="0"
+            aria-expanded="false"
+            id="{{ title_id }}"
+            aria-controls="{{ content_id }}">
+          <div class="grow flex flex-col gap-1 min-w-0 md:flex-row md:items-center">
+            <p class="grow text-lg md:text-xl font-semibold truncate">{{ bill.title }}</p>
+
+            <div>
+              {% if bill.progress %}
+                <p class="md:text-lg">
+                  {%- for stage in bill.progress.stages -%}
+                    {%- if stage.state == 'passed' -%}
+                      {%- set class_stage = "opacity-75" -%}
+                      {%- set class_arrow = "opacity-75" -%}
+                    {%- elif stage.state == 'passing' -%}
+                      {%- set class_stage = "underline decoration-dashed decoration-2 underline-offset-4" -%}
+                      {%- set class_arrow = "opacity-75" -%}
+                    {%- elif stage.state == 'future' -%}
+                      {%- set class_stage = "opacity-50" -%}
+                      {%- set class_arrow = "opacity-25" -%}
+                    {%- endif -%}
+                    {%- if not loop.first %}&nbsp;<span class="{{ class_arrow }}" aria-hidden="true">→</span>&nbsp;
+                    {%- endif -%}
+                    <span class="{{ class_stage }}">{{ stage.stage }}</span>
+                  {%- endfor -%}
+                </p>
+              {% elif bill.enacted %}
+                <p class="md:text-lg">
+                  <span class="opacity-80">Enacted for</span>
+                  <span class="font-semibold">{{ bill.enacted.enacted_for }}</span>
+                </p>
+              {% else %}
+                <p class="md:text-lg">Not yet introduced</p>
+              {% endif %}
+            </div>
+          </div>
+
+          <div class="ml-2 transition-transform duration-200 ease-in-out" data-toggle="indicator" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                 stroke="currentColor" class="size-6">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+            </svg>
+          </div>
+        </div>
+
+        <div id="{{ content_id }}" class="hidden rounded-b-lg border-2 {{ class_bill_border }} p-4 flex flex-col gap-4"
+             data-toggle="content" role="region" aria-labelledby="{{ title_id }}">
+          {% if bill.descriptions.theguardian %}
+            <div class="flex flex-col gap-2">
+              <blockquote class="border-l-4 border-neutral-content pl-4 italic text-lg">
+                {{ bill.descriptions.theguardian|safe }}
+              </blockquote>
+              <p class="pl-4 opacity-75">– <a
+                  class="link link-primary"
+                  href="https://www.theguardian.com/politics/article/2024/jul/17/what-bills-are-included-in-the-kings-speech-and-what-will-they-do"
+                  target="_blank">The
+                Guardian</a></p>
+            </div>
+          {% endif %}
+          {% if bill.descriptions.ft %}
+            <div class="flex flex-col gap-2">
+              <blockquote class="border-l-4 border-neutral-content pl-4 italic text-lg">
+                {{ bill.descriptions.ft|safe }}
+              </blockquote>
+              <p class="pl-4 opacity-75">– <a
+                  class="link link-primary"
+                  href="https://www.ft.com/content/becaeb4c-1c8a-4f6b-b412-dc93d707cd96"
+                  target="_blank">FT</a></p>
+            </div>
+          {% endif %}
+          {% if bill.descriptions.parliament %}
+            <div class="flex flex-col gap-2">
+              <blockquote class="border-l-4 border-neutral-content pl-4 italic text-lg">
+                {{ bill.descriptions.parliament|safe }}
+              </blockquote>
+              <p class="pl-4 opacity-75">– Official long title</p>
+            </div>
+          {% endif %}
+          {% if bill.parliament_id %}
+            <p>
+              More&nbsp;information:&nbsp;<a class="link link-primary break-all"
+                                             href="https://bills.parliament.uk/bills/{{ bill.parliament_id }}"
+                                             target="_blank">https://bills.parliament.uk/bills/{{ bill.parliament_id }}</a>
+            </p>
+          {% endif %}
+          {% if bill.context_url %}
+            <p>
+              More&nbsp;information:&nbsp;<a class="link link-primary break-all" href="{{ bill.context_url }}"
+                                             target="_blank">{{ bill.context_url }}</a>
+            </p>
+          {% endif %}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <footer>
+    <p class="text-center text-sm opacity-75">
+      Data from <a class="link link-primary" href="https://bills.parliament.uk/" target="_blank">parliament.uk</a>,
+      <a class="link link-primary" href="https://labourlist.org/2024/07/kings-speech-2024-what-policies-list-law-bills/"
+         target="_blank">LabourList.org</a>,
+      <a class="link link-primary"
+         href="https://www.theguardian.com/politics/2024/jul/17/what-bills-are-included-in-the-kings-speech-and-what-will-they-do"
+         target="_blank">The Guardian</a>,
+      and <a class="link link-primary" href="https://www.ft.com/content/becaeb4c-1c8a-4f6b-b412-dc93d707cd96"
+             target="_blank">FT</a>. Refreshed daily or so.
+      Made by <a class="link link-primary"
+                 href="https://dgroshev.com"
+                 target="_blank">Dan Groshev</a>.
+    </p>
+  </footer>
+</div>
+
+</body>
+
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        const triggers = document.querySelectorAll('[data-toggle="trigger"]');
+
+        function toggleContent(trigger) {
+            const listItem = trigger.closest('li');
+
+            const content = listItem.querySelector('[data-toggle="content"]');
+            const indicator = listItem.querySelector('[data-toggle="indicator"]');
+
+            const isExpanded = trigger.getAttribute('aria-expanded') === 'true';
+
+            if (isExpanded) {
+                // Collapse
+                content.classList.add('hidden');
+                trigger.classList.remove('rounded-b-none');
+                indicator.style.transform = 'rotate(0deg)';
+                trigger.setAttribute('aria-expanded', 'false');
+            } else {
+                // Expand
+                content.classList.remove('hidden');
+                trigger.classList.add('rounded-b-none');
+                indicator.style.transform = 'rotate(-90deg)';
+                trigger.setAttribute('aria-expanded', 'true');
+            }
+        }
+
+        triggers.forEach(trigger => {
+            // Handle clicks
+            trigger.addEventListener('click', function () {
+                toggleContent(this);
+            });
+
+            // Handle keyboard events (Enter and Space)
+            trigger.addEventListener('keydown', function (event) {
+                if (event.key === 'Enter' || event.key === ' ') {
+                    event.preventDefault(); // Prevent default action (e.g., scrolling for space)
+                    toggleContent(this);
+                }
+            });
+        });
+    });
+</script>
+</html>

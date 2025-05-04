@@ -1,0 +1,299 @@
+[[group]]
+id = "economy"
+short = "Economy"
+title = "Economic stability and growth"
+
+[[group]]
+id = "energy"
+short = "Energy"
+title = "Great British Energy and becoming a Clean Energy Superpower"
+
+[[group]]
+id = "security"
+short = "Security"
+title = "Secure borders, cracking down on anti-social behaviour and taking back our streets"
+
+[[group]]
+id = "opportunity"
+short = "Opportunity"
+title = "Break down the barriers to opportunity"
+
+[[group]]
+id = "health"
+short = "Health"
+title = "Health"
+
+[[group]]
+id = "national"
+short = "National"
+title = "National security and serving the country"
+
+# ---
+
+# sources:
+# https://labourlist.org/2024/07/kings-speech-2024-what-policies-list-law-bills/
+# https://www.theguardian.com/politics/article/2024/jul/17/what-bills-are-included-in-the-kings-speech-and-what-will-they-do
+# https://www.ft.com/content/becaeb4c-1c8a-4f6b-b412-dc93d707cd96
+# https://assets.publishing.service.gov.uk/media/6697f5c10808eaf43b50d18e/The_King_s_Speech_2024_background_briefing_notes.pdf
+
+[[bill]]
+group = "economy"
+title = "Budget Responsibility Act"
+parliament_id = 3731
+theguardian = """<p>Otherwise nicknamed the “Liz Truss bill”, this sets out, in the wake of the short-serving PM’s disastrous mini-budget, that all such fiscal measures must come with an independent assessment by the Office for Budget Responsibility.</p>"""
+ft = """<p>Measures in this bill are described by the government as delivering a “fiscal lock” by ensuring the Office for Budget Responsibility, the fiscal watchdog, assesses all tax and spending announcements.</p>
+<p>The legislation is partly a political move designed to highlight Labour’s respect for the OBR in contrast with Liz Truss, former Tory prime minister, who refused to get an assessment from the body before her disastrous “mini” Budget in 2022.</p>"""
+
+
+[[bill]]
+group = "economy"
+title = "National Wealth Fund Bill"
+context_url = "https://questions-statements.parliament.uk/written-statements/detail/2024-10-14/hcws130"
+theguardian = """<p>Setting out in law one of the government’s main wealth-creating efforts, a £7.3bn capitalised fund to spread investment.</p>"""
+ft = """<p>This will put the new £7.3bn “national wealth fund” on a permanent statutory footing to deliver state funding to the decarbonisation of heavy industry such as steel, ports and the car industry.</p>
+<p>However, the NWF will not be a new standalone body. Instead the money will be initially spent through the UK Infrastructure Bank with “closer alignment” with another existing state lender called the British Business Bank.</p>"""
+
+[[bill]]
+group = "economy"
+title = "Pension Schemes Bill"
+context_url = "https://www.gov.uk/government/news/pension-reforms-to-go-further-to-unlock-billions-to-drive-growth-and-boost-working-peoples-pension-pots"
+theguardian = """<p>A broad pensions-based bill covering measures intended to help people get more from their retirement pots.</p>"""
+ft = "<p>Legislation will place an emphasis on preventing people losing track of various small pension pots by consolidating them. This move will help tackle a problem affecting some 2.8mn pots, according to the Pensions Policy Institute, a think-tank. An accompanying value for money framework is aimed at encouraging better pension fund performance in the interest of economic growth.</p>"
+
+[[bill]]
+group = "economy"
+title = "Planning and Infrastructure Bill"
+parliament_id = 3946
+theguardian = """<p>One of the government’s main measures, intended to streamline and speed up planning and associated infrastructure needs to get more housing built. It includes a more top-down approach, with penalties for councils that fail to get moving.</p>"""
+ft = "<p>Planning reform is at the centre of Labour’s ambitions to build houses and deliver renewable energy infrastructure, for example accelerating upgrades to the national grid. Reform of local planning committees is aimed at streamlining processes, while attempts to increase planning authorities’ capacity is aimed at boosting developer and investor confidence.</p>"
+
+[[bill]]
+group = "economy"
+title = "Employment Rights Bill"
+parliament_id = 3737
+theguardian = """<p>The long-promised bill, coming with a pledge that it will be introduced to parliament in the first 100 days of the government, would ban zero-hours contracts and fire and rehire practices, add extra rights such as on flexible working, and make parental leave, sick pay and protection from unfair dismissal immediate rights.</p>"""
+ft = "<p>An employment rights bill will enshrine in law a package of measures previously known as Labour’s “New Deal For Working People”. The bill will ban zero-hours contracts, end “fire and rehire” practices, and give immediate access to parental leave and sick pay. It will also make it easier for unions to take strike action by reversing recent Tory legislation.</p>"
+
+[[bill]]
+group = "economy"
+title = "Passenger Railway Services (Public Ownership) Act"
+parliament_id = 3732
+theguardian = """<p>A simple bill, but a potentially big change – bringing rail services back into public ownership.</p>"""
+ft = "<p>The government will bring rail services back into public ownership and amend legislation so a public-sector operator is the default position when current franchise contracts conclude. A new public body, Great British Railways, will also be created alongside measures to combine infrastructure and services under one roof.</p>"
+
+[[bill]]
+group = "economy"
+title = "Railways Bill"
+context_url = "https://www.gov.uk/government/consultations/a-railway-fit-for-britains-future"
+theguardian = """<p>This would formally establish Great British Railways, the state-run rail firm.</p>"""
+
+[[bill]]
+group = "energy"
+title = "Great British Energy Bill"
+parliament_id = 3738
+theguardian = """<p>Very much one of the big-ticket bills, this sets up Labour’s long-promised publicly owned clean energy production company.</p>"""
+ft = "<p>This will set up a new publicly-owned “energy production company” to own and operate clean power projects such as solar and wind in partnership with the private sector. The new group, headquartered in Scotland, will have £8.3bn of new money over the five-year parliament.</p>"
+
+[[bill]]
+group = "energy"
+title = "Water (Special Measures) Act"
+parliament_id = 3751
+theguardian = """<p>A law that taps into the anger about polluted waterways and privatised water companies that includes personal criminal liability for water bosses and powers to ban bonuses if environmental standards are not met.</p>"""
+ft = "<p>Britain’s struggling water industry will be subjected to new “tough special measures” designed to clean up dirty rivers, lakes and seas. Water bosses will face personal criminal liability for lawbreaking if their companies repeatedly flout sewage regulations. Water regulator Ofwat will get powers to ban executive bonuses if environmental standards are not met.</p>"
+
+[[bill]]
+group = "economy"
+title = "Bus Services (No. 2) Bill"
+parliament_id = 3910
+theguardian = """<p>A measure that could have a big impact, this changes the law to allow local authorities and mayors to bring bus services under local control, rather than being privately run.</p>"""
+
+[[bill]]
+group = "opportunity"
+title = "Renters' Rights Bill"
+parliament_id = 3764
+theguardian = """<p>Finally introducing an end to “no fault” evictions, as long promised but never delivered by Sunak’s government.</p>"""
+ft = "<p>This will end Section 21 “no fault” evictions for tenants, removing the threat of arbitrary evictions to increase tenant security. The Tories promised this in 2019 but failed to get similar legislation through parliament before they lost the general election in early July.</p>"
+
+[[bill]]
+group = "opportunity"
+title = "Children’s Wellbeing and Schools Bill"
+parliament_id = 3909
+theguardian = """<p>Introduces free breakfast clubs in primary schools as well as efforts to make uniforms cheaper.</p>"""
+
+[[bill]]
+group = "opportunity"
+title = "Leasehold and Commonhold Reform Bill"
+context_url = "https://commonslibrary.parliament.uk/leasehold-reform-in-england-and-wales/"
+theguardian = """<p>Another housing plan not delivered under Sunak, this attempts to reform the leasehold system, including with a ban on extortionate ground rents and on the sale of new leasehold flats.</p>"""
+ft = "<p>This draft bill would allow leaseholders to extend their lease and buy their freehold and take over the freeholder’s building management function. There will also be restriction on the sale of new leasehold flats. It also proposes tighter regulation of ground rents for existing leaseholders.</p>"
+
+[[bill]]
+group = "economy"
+title = "English Devolution Bill"
+context_url = "https://www.gov.uk/government/publications/english-devolution-white-paper-power-and-partnership-foundations-for-growth/english-devolution-white-paper"
+theguardian = """<p>Another much-touted measure, intended to extend devolution across England and giving mayors and local authorities the opportunity to take on extra powers.</p>"""
+ft = "<p>The government has promised to make the devolution of powers a default setting for England’s regions. Legislation will establish a new framework to move power out of Westminster, with the aim of empowering local leaders to make decisions over infrastructure planning, transport, skills and employment support.</p>"
+
+[[bill]]
+group = "economy"
+title = "High Speed Rail (Crewe to Manchester) Bill"
+parliament_id = 3094
+theguardian = """<p>An acknowledgment in law that Labour will not resurrect the Birmingham to Manchester leg of HS2, instead focusing on east to west links.</p>"""
+
+[[bill]]
+group = "security"
+title = "Border Security, Asylum and Immigration Bill"
+parliament_id = 3929
+theguardian = """<p>This sets up the new Border Security Command, intended to limit the number of unofficial Channel crossings by asylum seekers, with other enforcement measures introduced.</p>"""
+ft = "<p>This legislation sets up the new Border Security Command to crack down on criminal gangs bringing asylum seekers across the English Channel. It will also ensure stronger penalties against a range of organised immigration crimes.</p>"
+
+[[bill]]
+group = "opportunity"
+title = "Skills England Bill"
+context_url = "https://www.gov.uk/government/collections/skills-england"
+theguardian = """<p>This brings together employers, unions and others to try to boost skills training.</p>"""
+ft = "<p>This sets up a new quango called Skills England to oversee skills training, initially transferring functions from an existing body called the Institute for Apprenticeships and Technical Education.</p>"
+
+[[bill]]
+group = "economy"
+title = "Bank Resolution (Recapitalisation) Bill"
+parliament_id = 3734
+theguardian = """<p>A technical bill about what happens if a bank fails, including efforts to make sure taxpayers do not bear the costs.</p>"""
+ft = "<p>Measures will empower the Bank of England to use funds drawn from the Financial Services Compensation Scheme to deal with the administration and sale of any failed bank, particularly smaller institutions. The FSCS’s funds would also be used to meet a failing bank’s recapitalisation costs.</p>"
+
+[[bill]]
+group = "economy"
+title = "Arbitration Act"
+parliament_id = 3733
+theguardian = """<p>A bill that aims to modernise and hasten dispute resolution systems.</p>"""
+ft = "<p>The bill will deliver on recommendations set out by the Law Commission in 2022, after the previous government failed to enact legislation before leaving office. Measures to strengthen arbitrator immunity and revise the framework for challenge is meant to make a sector worth £2.5bn to the UK economy more robust.</p>"
+
+[[bill]]
+group = "economy"
+title = "Product Regulation and Metrology Bill"
+parliament_id = 3752
+theguardian = """<p>Metrology means measurement – this is another quite specific bill intended to increase economic efficiency and growth.</p>"""
+
+[[bill]]
+group = "economy"
+title = "Data (Use and Access) Bill"
+parliament_id = 3825
+theguardian = """<p>…This would change data-sharing standards and introduce a proper system for digital verification services.</p>"""
+
+[[bill]]
+group = "economy"
+title = "Draft Audit Reform and Corporate Governance Bill"
+theguardian = """<p>A more technical piece of legislation setting out a revamped regulator for the auditing sector.</p>"""
+ft = "<p>The Financial Reporting Council will be replaced with a new Audit, Reporting and Governance Authority in a move designed to “tackle bad financial reporting”. This follows large corporate failures including BHS and Carillion. The authority will be empowered to investigate and impose sanctions on directors for printing dodgy accounts.</p>"
+
+[[bill]]
+group = "energy"
+title = "Crown Estate Act"
+parliament_id = 3739
+theguardian = """<p>This aims to modernise the crown estate, the semi-detached property management arms of the state, including improving its ability to invest.</p>"""
+ft = "<p>This will end “outdated restrictions” on the activities of the Crown Estate, which owns the seabed around England and Wales — where the government wants to build a new generation of offshore wind turbines. The estate will get the power to borrow and its powers to invest will be widened.</p>"
+
+[[bill]]
+group = "energy"
+title = "Sustainable Aviation Fuel (Revenue Support Mechanism) Bill"
+context_url = "https://www.gov.uk/government/consultations/saf-revenue-certainty-mechanism-approach-to-industry-funding"
+theguardian = """<p>An attempt to increase investment in UK plants to make lower-emission aviation fuels.</p>"""
+
+[[bill]]
+group = "security"
+title = "Crime and Policing Bill"
+parliament_id = 3938
+theguardian = """<p>A more general policing bill, including measures on neighbourhood policing and stronger rules for the inspectorate to intervene in failing police forces.</p>"""
+ft = "<p>This will expand the powers of HM Inspectorate of Constabulary and Fire & Rescue Services to intervene in failing police forces and will introduce higher mandatory national vetting standards across policing.</p>"
+
+[[bill]]
+group = "security"
+title = "Terrorism (Protection of Premises) Act"
+parliament_id = 3765
+theguardian = """<p>Otherwise known as Martyn’s Law after Martyn Hett who was among those killed in the Manchester Arena attack, this would make sure public buildings are better protected against such attacks.</p>"""
+
+[[bill]]
+group = "security"
+title = "Victims, Courts and Public Protection Bill"
+theguardian = """<p>Among other measures, this would boost the powers of the Victims’ commissioner.</p>"""
+
+[[bill]]
+group = "opportunity"
+title = "Football Governance Bill"
+parliament_id = 3832
+theguardian = """<p>This would introduce a fans-friendly independent football regulator.</p>"""
+ft = "<p>The government will establish a new independent regulator to address financial sustainability of the soccer industry and ensure fans’ voices are heard. This regulator would operate a licensing system and would have to make sure clubs are financially sound.</p>"
+
+[[bill]]
+group = "opportunity"
+title = "Equality (Race and Disability) Bill"
+context_url = "https://www.gov.uk/government/consultations/equality-race-and-disability-bill-mandatory-ethnicity-and-disability-pay-gap-reporting"
+theguardian = """<p>This would set out equal pay rights for people from minority ethnic groups and disabled people, including mandatory ethnicity and disability pay reporting for bigger employers.</p>"""
+
+[[bill]]
+group = "opportunity"
+title = "Conversion Practices (Prohibition) Bill"
+parliament_id = 3545
+theguardian = """<p>Likely to be quite knotty – a bill to ban conversion practices, including those connected to gender.</p>"""
+
+[[bill]]
+group = "health"
+title = "Tobacco and Vapes Bill"
+parliament_id = 3879
+theguardian = """<p>Left over from Rishi Sunak’s government, this would gradually ban smoking and stop vapes being marketed at children.</p>"""
+ft = "<p>Labour is rolling over a previous Conservative bill that will gradually introduce a smoking ban for people born after January 2009. It will also crack down on child-friendly marketing of vapes.</p>"
+
+[[bill]]
+group = "health"
+title = "Mental Health Bill"
+parliament_id = 3884
+theguardian = """<p>A broad bill to modernise mental health provisions, including in areas such as how people can be detained and treated under the Mental Health Act.</p>"""
+
+[[bill]]
+group = "national"
+title = "Hillsborough Law"
+context_url = "https://committees.parliament.uk/publications/46794/documents/241301/default/"
+theguardian = """<p>Introducing a legal duty of candour on public servants and authorities in an attempt to prevent Hillsborough-style cover ups.</p>"""
+
+[[bill]]
+group = "national"
+title = "Armed Forces Commissioner Bill"
+parliament_id = 3881
+theguardian = """<p>A self-explanatory one – to create a commissioner for the armed forces.</p>"""
+
+[[bill]]
+group = "national"
+title = "Northern Ireland Legacy Legislation"
+context_url = "https://committees.parliament.uk/work/8761/the-governments-new-approach-to-addressing-the-legacy-of-the-past-in-northern-ireland/"
+theguardian = """<p>Another potentially tricky measure, aiming to replace the Northern Ireland Legacy Act, which was criticised for measures such as conditional amnesties for Troubles-era crimes.</p>"""
+
+[[bill]]
+group = "national"
+title = "House of Lords (Hereditary Peers) Bill"
+parliament_id = 3755
+theguardian = """<p>No more hereditary peers will sit in the Lords.</p>"""
+ft = "<p>Hereditary peers — around 92 male Lords entitled to seats as members of the British aristocracy — will no longer be able to sit and vote in the chamber. The government said reform was “long overdue and essential”. These peers will still be allowed to keep their passes to the Westminster estate, nicknamed the “best club in London”.</p>"
+
+[[bill]]
+group = "national"
+title = "Cyber Security and Resilience Bill"
+context_url = "https://www.gov.uk/government/collections/cyber-security-and-resilience-bill"
+theguardian = """<p>Another technical bill about protecting digital services.</p>"""
+
+[[bill]]
+group = "national"
+title = "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Act"
+parliament_id = 3735
+theguardian = """<p>Perhaps the most specific bill of all: this would “treat the Commonwealth parliamentary association and the International Committee of the Red Cross in a manner comparable to that of an international organisation of which the United Kingdom, or His Majesty’s government in the United Kingdom, is a member”.</p>"""
+
+[[bill]]
+group = "national"
+title = "Lords Spiritual (Women) Act 2015 (Extension) Bill"
+parliament_id = 3744
+theguardian = """<p>This would aim to increase the number of female bishops in the Lords.</p>"""
+
+[[bill]]
+group = "national"
+title = "Holocaust Memorial Bill"
+parliament_id = 3421
+theguardian = """<p>To establish a national Holocaust memorial and learning centre next to parliament.</p>"""
