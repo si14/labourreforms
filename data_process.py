@@ -1,4 +1,6 @@
 from datetime import datetime
+from zoneinfo import ZoneInfo
+
 from enum import Enum
 from typing import Optional
 
@@ -209,7 +211,7 @@ def main():
     )
 
     result = Result(
-        last_update=datetime.now().strftime("%d %B %Y"),
+        last_update=datetime.now(ZoneInfo("Europe/London")) .strftime("%d %B %Y"),
         bills=processed_bills,
         stats=stats,
     )

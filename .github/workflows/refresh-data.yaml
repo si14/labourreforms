@@ -16,6 +16,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          # Need to use PAT explicitly to trigger actions on push
+          token: ${{ secrets.ACTIONS_PAT }}
+
 
       - name: Setup Just
         uses: extractions/setup-just@v2
