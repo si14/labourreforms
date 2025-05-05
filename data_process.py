@@ -65,6 +65,13 @@ class StageState(BaseModel):
     state: State
 
 
+class SeqStage(Enum):
+    NOT_INTRODUCED = "not_introduced"
+    FIRST_HOUSE = "first_house"
+    SECOND_HOUSE = "second_house"
+    FINAL = "final"
+
+
 class Progress(BaseModel):
     stages: list[StageState]
     last_update: str
@@ -79,6 +86,8 @@ class ProcessedBill(BaseModel):
     title: str
     descriptions: Descriptions
     display_stage: Optional[str]
+
+    seq_stage: SeqStage
 
     progress: Optional[Progress] = None
     enacted: Optional[Enacted] = None
@@ -162,6 +171,7 @@ def main():
                         ft=bill.ft,
                     ),
                     display_stage=None,
+                    seq_stage=SeqStage.NOT_INTRODUCED,
                 )
             )
             continue
@@ -181,6 +191,14 @@ def main():
                 stage for stage in progress.stages if stage.state == State.PASSING
             ][0].stage
 
+        seq_stage: SeqStage
+        if enacted is not None:
+            seq_stage = SeqStage.FINAL
+        else:
+            assert progress is not None
+            idx = [idx for idx, s in enumerate(progress.stages) if s.state == State.PASSING][0]
+            seq_stage = [SeqStage.FIRST_HOUSE, SeqStage.SECOND_HOUSE, SeqStage.FINAL][idx]
+
         processed_bills.append(
             ProcessedBill(
                 group=groups[bill.group],
@@ -197,6 +215,7 @@ def main():
                     Stage.LORDS: "lords",
                     Stage.FINAL: "final",
                 }[display_stage],
+                seq_stage=seq_stage,
                 progress=progress,
                 enacted=enacted,
             )

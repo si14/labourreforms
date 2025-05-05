@@ -6,4 +6,9 @@
     --color-commons: #006548;
     --color-final: #5f2db4;
     --color-lords: #9d0830;
+
+    --color-stage0: var(--color-base-300);
+    --color-stage1: color-mix(in oklab, var(--color-stage0) 70%, var(--color-stage3) 30%);
+    --color-stage2: color-mix(in oklab, var(--color-stage0) 30%, var(--color-stage3) 70%);
+    --color-stage3: var(--color-final);
 }

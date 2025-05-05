@@ -60,26 +60,26 @@
       {% set content_id = 'bill-content-' ~ loop.index %}
       {% set title_id = 'bill-title-' ~ loop.index %}
 
-      {% if bill.display_stage == 'commons' %}
-        {% set class_bill_bg = 'bg-commons' %}
-        {% set class_bill_border = 'border-commons' %}
-        {% set class_bill_fg = 'text-white' %}
-      {% elif bill.display_stage == 'lords' %}
-        {% set class_bill_bg = 'bg-lords' %}
-        {% set class_bill_border = 'border-lords' %}
-        {% set class_bill_fg = 'text-white' %}
-      {% elif bill.display_stage == 'final' %}
-        {% set class_bill_bg = 'bg-final' %}
-        {% set class_bill_border = 'border-final' %}
-        {% set class_bill_fg = 'text-white' %}
-      {% else %}
-        {% set class_bill_bg = 'bg-base-300' %}
-        {% set class_bill_border = 'border-base-300' %}
-        {% set class_bill_fg = '' %}
+      {% if bill.seq_stage == 'not_introduced' %}
+        {% set class_bill_bg = 'bg-stage0' %}
+        {% set class_bill_border = 'border-stage0' %}
+        {% set class_bill_text = 'text-black' %}
+      {% elif bill.seq_stage == 'first_house' %}
+        {% set class_bill_bg = 'bg-stage1' %}
+        {% set class_bill_border = 'border-stage1' %}
+        {% set class_bill_text = 'text-black' %}
+      {% elif bill.seq_stage == 'second_house' %}
+        {% set class_bill_bg = 'bg-stage2' %}
+        {% set class_bill_border = 'border-stage2' %}
+        {% set class_bill_text = 'text-white' %}
+      {% elif bill.seq_stage == 'final' %}
+        {% set class_bill_bg = 'bg-stage3' %}
+        {% set class_bill_border = 'border-stage3' %}
+        {% set class_bill_text = 'text-white' %}
       {% endif %}
       <li class="w-full shadow-lg rounded-lg">
         <div
-            class="{{ class_bill_bg }} {{ class_bill_fg }} rounded-lg px-4 py-2 h-[6rem] flex items-center w-full cursor-pointer select-none touch-manipulation"
+            class="{{ class_bill_bg }} {{ class_bill_text }} rounded-lg px-4 py-2 h-[6rem] flex items-center w-full cursor-pointer select-none touch-manipulation"
             data-toggle="trigger"
             role="button"
             tabindex="0"

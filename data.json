@@ -21,6 +21,7 @@
         "parliament": "<p>A Bill to impose duties on the Treasury and the Office for Budget Responsibility in respect of the announcement of fiscally significant measures.</p>"
       },
       "display_stage": "final",
+      "seq_stage": "final",
       "progress": null,
       "enacted": {
         "enacted_for": "7 months"
@@ -41,6 +42,7 @@
         "parliament": null
       },
       "display_stage": null,
+      "seq_stage": "not_introduced",
       "progress": null,
       "enacted": null,
       "parliament_id": null,
@@ -59,6 +61,7 @@
         "parliament": null
       },
       "display_stage": null,
+      "seq_stage": "not_introduced",
       "progress": null,
       "enacted": null,
       "parliament_id": null,
@@ -77,6 +80,7 @@
         "parliament": "<p>A Bill to make provision about infrastructure; to make provision about town and country planning; to make provision for a scheme, administered by Natural England, for a nature restoration levy payable by developers; to make provision about development corporations; to make provision about the compulsory purchase of land; to make provision about environmental outcomes reports; and for connected purposes.</p>"
       },
       "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
@@ -111,6 +115,7 @@
         "parliament": "<p>A Bill to make provision to amend the law relating to employment rights; to make provision about procedure for handling redundancies; to make provision about the treatment of workers involved in the supply of services under certain public contracts; to provide for duties to be imposed on employers in relation to equality; to amend the definition of “employment business” in the Employment Agencies Act 1973; to provide for the establishment of the School Support Staff Negotiating Body and the Social Care Negotiating Bodies; to amend the Seafarers’ Wages Act 2023; to make provision for the implementation of international agreements relating to maritime employment; to make provision about trade unions, industrial action, employers’ associations and the functions of the Certification Officer; to make provision about the enforcement of legislation relating to the labour market; and for connected purposes.</p>"
       },
       "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
@@ -145,6 +150,7 @@
         "parliament": "<p>A Bill to make provision for passenger railway services to be provided by public sector companies instead of by means of franchises.</p>"
       },
       "display_stage": "final",
+      "seq_stage": "final",
       "progress": null,
       "enacted": {
         "enacted_for": "5 months"
@@ -165,6 +171,7 @@
         "parliament": null
       },
       "display_stage": null,
+      "seq_stage": "not_introduced",
       "progress": null,
       "enacted": null,
       "parliament_id": null,
@@ -183,6 +190,7 @@
         "parliament": "<p>A Bill to make provision about Great British Energy.</p>"
       },
       "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
@@ -217,6 +225,7 @@
         "parliament": "<p>A Bill to make provision about the regulation, governance and special administration of water companies.</p>"
       },
       "display_stage": "final",
+      "seq_stage": "final",
       "progress": null,
       "enacted": {
         "enacted_for": "2 months"
@@ -237,6 +246,7 @@
         "parliament": "<p>A bill to make provision about local and school bus services; and for connected purposes.</p>"
       },
       "display_stage": "commons",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
@@ -271,6 +281,7 @@
         "parliament": "<p>A Bill to make provision changing the law about rented homes, including provision abolishing fixed term assured tenancies and assured shorthold tenancies; imposing obligations on landlords and others in relation to rented homes and temporary and supported accommodation; and for connected purposes.</p>"
       },
       "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
@@ -305,6 +316,7 @@
         "parliament": "<p>A Bill to make provision about the safeguarding and welfare of children; about support for children in care or leaving care; about regulation of care workers; about regulation of establishments and agencies under Part 2 of the Care Standards Act 2000; about employment of children; about breakfast club provision and school uniform; about attendance of children at school; about regulation of independent educational institutions; about inspections of schools and colleges; about teacher misconduct; about Academies and teachers at Academies; repealing section 128 of the Education Act 2002; about school places and admissions; about establishing new schools; and for connected purposes.</p>"
       },
       "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
@@ -339,6 +351,7 @@
         "parliament": null
       },
       "display_stage": null,
+      "seq_stage": "not_introduced",
       "progress": null,
       "enacted": null,
       "parliament_id": null,
@@ -357,6 +370,7 @@
         "parliament": null
       },
       "display_stage": null,
+      "seq_stage": "not_introduced",
       "progress": null,
       "enacted": null,
       "parliament_id": null,
@@ -375,6 +389,7 @@
         "parliament": "<p>A Bill to make provision for a railway between a junction with Phase 2a of High Speed 2 south of Crewe in Cheshire and Manchester Piccadilly Station; for a railway between Hoo Green in Cheshire and a junction with the West Coast Main Line at Bamfurlong, south of Wigan; and for connected purposes.</p>"
       },
       "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
@@ -409,6 +424,7 @@
         "parliament": "<p>A Bill to make provision about border security; to make provision about immigration and asylum; to make provision about sharing customs data and trailer registration data; to make provision about articles for use in serious crime; to make provision about serious crime prevention orders; to make provision about fees paid in connection with the recognition, comparability or assessment of qualifications; and for connected purposes.</p>"
       },
       "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
@@ -443,6 +459,7 @@
         "parliament": null
       },
       "display_stage": null,
+      "seq_stage": "not_introduced",
       "progress": null,
       "enacted": null,
       "parliament_id": null,
@@ -461,6 +478,7 @@
         "parliament": "<p>A Bill to make provision about recapitalisation costs in relation to the special resolution regime under the Banking Act 2009.</p>"
       },
       "display_stage": "lords",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
@@ -495,6 +513,7 @@
         "parliament": "<p>A Bill to amend the Arbitration Act 1996; and for connected purposes.</p>"
       },
       "display_stage": "final",
+      "seq_stage": "final",
       "progress": null,
       "enacted": {
         "enacted_for": "2 months"
@@ -515,6 +534,7 @@
         "parliament": "<p>A Bill to make provision about the marketing or use of products in the United Kingdom; about units of measurement and the quantities in which goods are marketed in the United Kingdom; and for connected purposes.</p>"
       },
       "display_stage": "commons",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
@@ -549,6 +569,7 @@
         "parliament": "<p>A bill to make provision about access to customer data and business data; to make provision about services consisting of the use of information to ascertain and verify facts about individuals; to make provision about the recording and sharing, and keeping of registers, of information relating to apparatus in streets; to make provision about the keeping and maintenance of registers of births and deaths; to make provision for the regulation of the processing of information relating to identified or identifiable living individuals; to make provision about privacy and electronic communications; to establish the Information Commission; to make provision about information standards for health and social care; to make provision about the grant of smart meter communication licences; to make provision about the disclosure of information to improve public service delivery; to make provision about the retention of information by providers of internet services in connection with investigations into child deaths; to make provision about providing information for purposes related to the carrying out of independent research into online safety matters; to make provision about the retention of biometric data; to make provision about services for the provision of electronic signatures, electronic seals and other trust services; to make provision about the creation and solicitation of purported intimate images and for connected purposes.</p>"
       },
       "display_stage": "commons",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
@@ -583,6 +604,7 @@
         "parliament": null
       },
       "display_stage": null,
+      "seq_stage": "not_introduced",
       "progress": null,
       "enacted": null,
       "parliament_id": null,
@@ -601,6 +623,7 @@
         "parliament": "<p>A Bill to amend the Crown Estate Act 1961.</p>"
       },
       "display_stage": "final",
+      "seq_stage": "final",
       "progress": null,
       "enacted": {
         "enacted_for": "a month"
@@ -621,6 +644,7 @@
         "parliament": null
       },
       "display_stage": null,
+      "seq_stage": "not_introduced",
       "progress": null,
       "enacted": null,
       "parliament_id": null,
@@ -639,6 +663,7 @@
         "parliament": "<p>A Bill to make provision about anti-social behaviour, offensive weapons, offences against people (including sexual offences), property offences, the criminal exploitation of persons, sex offenders, stalking and public order; to make provision about powers of the police, the border force and other similar persons; to make provision about confiscation; to make provision about the police; to make provision about terrorism and national security, and about international agreements relating to crime; to make provision about the criminal liability of bodies; and for connected purposes.</p>"
       },
       "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
@@ -673,6 +698,7 @@
         "parliament": "<p>A Bill to require persons with control of certain premises or events to take steps to reduce the vulnerability of the premises or event to, and the risk of physical harm to individuals arising from, acts of terrorism; to confer related functions on the Security Industry Authority; to limit the disclosure of information about licensed premises that is likely to be useful to a person committing or preparing an act of terrorism; and for connected purposes.</p>"
       },
       "display_stage": "final",
+      "seq_stage": "final",
       "progress": null,
       "enacted": {
         "enacted_for": "a month"
@@ -693,6 +719,7 @@
         "parliament": null
       },
       "display_stage": null,
+      "seq_stage": "not_introduced",
       "progress": null,
       "enacted": null,
       "parliament_id": null,
@@ -711,6 +738,7 @@
         "parliament": "<p>A bill to establish the Independent Football Regulator; to make provision for the licensing of football clubs; to make provision about the distribution of revenue received by organisers of football competitions; and for connected purposes.</p>"
       },
       "display_stage": "commons",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
@@ -745,6 +773,7 @@
         "parliament": null
       },
       "display_stage": null,
+      "seq_stage": "not_introduced",
       "progress": null,
       "enacted": null,
       "parliament_id": null,
@@ -763,6 +792,7 @@
         "parliament": "<p>A Bill to prohibit practices whose predetermined purpose is to change a person’s sexual orientation or to change a person to or from being transgender; and for connected purposes.</p>"
       },
       "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
@@ -797,6 +827,7 @@
         "parliament": "<p>A Bill to make provision about the supply of tobacco, vapes and other products, including provision prohibiting the sale of tobacco to people born on or after 1 January 2009 and provision about the licensing of retail sales and the registration of retailers; to enable product and information requirements to be imposed in connection with tobacco, vapes and other products; to control the advertising and promotion of tobacco, vapes and other products; and to make provision about smoke-free places, vape-free places and heated tobacco-free places.</p>"
       },
       "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
@@ -831,6 +862,7 @@
         "parliament": "<p>A Bill to make provision to amend the Mental Health Act 1983 in relation to mentally disordered persons; and for connected purposes.</p>"
       },
       "display_stage": "commons",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
@@ -865,6 +897,7 @@
         "parliament": null
       },
       "display_stage": null,
+      "seq_stage": "not_introduced",
       "progress": null,
       "enacted": null,
       "parliament_id": null,
@@ -883,6 +916,7 @@
         "parliament": "<p>A Bill to establish, and confer functions on, the Armed Forces Commissioner; to abolish the office of Service Complaints Ombudsman; and for connected purposes.</p>"
       },
       "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
@@ -917,6 +951,7 @@
         "parliament": null
       },
       "display_stage": null,
+      "seq_stage": "not_introduced",
       "progress": null,
       "enacted": null,
       "parliament_id": null,
@@ -935,6 +970,7 @@
         "parliament": "<p>A Bill to remove the remaining connection between hereditary peerage and membership of the House of Lords; to abolish the jurisdiction of the House of Lords in relation to claims to hereditary peerages; and for connected purposes.</p>"
       },
       "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
@@ -969,6 +1005,7 @@
         "parliament": null
       },
       "display_stage": null,
+      "seq_stage": "not_introduced",
       "progress": null,
       "enacted": null,
       "parliament_id": null,
@@ -987,6 +1024,7 @@
         "parliament": "<p>A Bill to make provision about the status of, and privileges and immunities in connection with, the Commonwealth Parliamentary Association and the International Committee of the Red Cross; and for connected purposes.</p>"
       },
       "display_stage": "final",
+      "seq_stage": "final",
       "progress": null,
       "enacted": {
         "enacted_for": "3 months"
@@ -1007,6 +1045,7 @@
         "parliament": "<p>A Bill to extend the period within which vacancies among the Lords Spiritual are to be filled by bishops who are women.</p>"
       },
       "display_stage": "final",
+      "seq_stage": "final",
       "progress": null,
       "enacted": {
         "enacted_for": "3 months"
@@ -1027,6 +1066,7 @@
         "parliament": "<p>A Bill to make provision for expenditure by the Secretary of State and the removal of restrictions in respect of certain land for or in connection with the construction of a Holocaust Memorial and Learning Centre.</p>"
       },
       "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
