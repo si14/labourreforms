@@ -63,11 +63,11 @@
       {% if bill.seq_stage == 'not_introduced' %}
         {% set class_bill_bg = 'bg-stage0' %}
         {% set class_bill_border = 'border-stage0' %}
-        {% set class_bill_text = 'text-black' %}
+        {% set class_bill_text = 'text-base-content' %}
       {% elif bill.seq_stage == 'first_house' %}
         {% set class_bill_bg = 'bg-stage1' %}
         {% set class_bill_border = 'border-stage1' %}
-        {% set class_bill_text = 'text-black' %}
+        {% set class_bill_text = 'text-base-content' %}
       {% elif bill.seq_stage == 'second_house' %}
         {% set class_bill_bg = 'bg-stage2' %}
         {% set class_bill_border = 'border-stage2' %}
