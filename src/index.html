@@ -119,7 +119,8 @@
             </div>
           </div>
 
-          <div class="ml-2 transition-transform duration-200 ease-in-out" data-toggle="indicator" aria-hidden="true">
+          <div class="ml-2 transition-transform duration-200 ease-in-out rotate-180" data-toggle="indicator"
+               aria-hidden="true">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                  stroke="currentColor" class="size-6">
               <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
@@ -220,7 +221,7 @@
                 // Expand
                 content.classList.remove('hidden');
                 trigger.classList.add('rounded-b-none');
-                indicator.style.transform = 'rotate(-90deg)';
+                indicator.style.transform = 'rotate(90deg)';
                 trigger.setAttribute('aria-expanded', 'true');
             }
         }
