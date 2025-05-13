@@ -1,9 +1,9 @@
 {
-  "last_update": "12 May 2025",
+  "last_update": "13 May 2025",
   "stats": {
     "total": 40,
-    "lords": 9,
-    "commons": 10,
+    "lords": 8,
+    "commons": 11,
     "final": 0,
     "enacted": 8
   },
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 May 2025"
+        "last_update": "12 May 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -206,7 +206,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 May 2025"
+        "last_update": "12 May 2025"
       },
       "enacted": null,
       "parliament_id": 3738,
@@ -297,7 +297,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 May 2025"
+        "last_update": "12 May 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -332,7 +332,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 May 2025"
+        "last_update": "12 May 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -440,7 +440,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 May 2025"
+        "last_update": "12 May 2025"
       },
       "enacted": null,
       "parliament_id": 3929,
@@ -550,7 +550,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 May 2025"
+        "last_update": "13 May 2025"
       },
       "enacted": null,
       "parliament_id": 3752,
@@ -568,24 +568,24 @@
         "ft": null,
         "parliament": "<p>A bill to make provision about access to customer data and business data; to make provision about services consisting of the use of information to ascertain and verify facts about individuals; to make provision about the recording and sharing, and keeping of registers, of information relating to apparatus in streets; to make provision about the keeping and maintenance of registers of births and deaths; to make provision for the regulation of the processing of information relating to identified or identifiable living individuals; to make provision about privacy and electronic communications; to establish the Information Commission; to make provision about information standards for health and social care; to make provision about the grant of smart meter communication licences; to make provision about the disclosure of information to improve public service delivery; to make provision about the retention of information by providers of internet services in connection with investigations into child deaths; to make provision about providing information for purposes related to the carrying out of independent research into online safety matters; to make provision about the retention of biometric data; to make provision about services for the provision of electronic signatures, electronic seals and other trust services; to make provision about the creation and solicitation of purported intimate images and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "first_house",
+      "display_stage": "commons",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Commons",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "09 May 2025"
+        "last_update": "12 May 2025"
       },
       "enacted": null,
       "parliament_id": 3825,
@@ -679,7 +679,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 May 2025"
+        "last_update": "12 May 2025"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -754,7 +754,7 @@
             "state": "future"
           }
         ],
-        "last_update": "30 April 2025"
+        "last_update": "13 May 2025"
       },
       "enacted": null,
       "parliament_id": 3832,
@@ -843,7 +843,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 May 2025"
+        "last_update": "12 May 2025"
       },
       "enacted": null,
       "parliament_id": 3879,
@@ -878,7 +878,7 @@
             "state": "future"
           }
         ],
-        "last_update": "07 May 2025"
+        "last_update": "12 May 2025"
       },
       "enacted": null,
       "parliament_id": 3884,
