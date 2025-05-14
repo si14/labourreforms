@@ -1,10 +1,10 @@
 {
-  "last_update": "13 May 2025",
+  "last_update": "14 May 2025",
   "stats": {
     "total": 40,
-    "lords": 8,
+    "lords": 7,
     "commons": 11,
-    "final": 0,
+    "final": 1,
     "enacted": 8
   },
   "bills": [
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "12 May 2025"
+        "last_update": "13 May 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -131,7 +131,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 May 2025"
+        "last_update": "13 May 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -206,7 +206,7 @@
             "state": "future"
           }
         ],
-        "last_update": "12 May 2025"
+        "last_update": "13 May 2025"
       },
       "enacted": null,
       "parliament_id": 3738,
@@ -297,7 +297,7 @@
             "state": "future"
           }
         ],
-        "last_update": "12 May 2025"
+        "last_update": "13 May 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -332,7 +332,7 @@
             "state": "future"
           }
         ],
-        "last_update": "12 May 2025"
+        "last_update": "13 May 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -423,24 +423,24 @@
         "ft": "<p>This legislation sets up the new Border Security Command to crack down on criminal gangs bringing asylum seekers across the English Channel. It will also ensure stronger penalties against a range of organised immigration crimes.</p>",
         "parliament": "<p>A Bill to make provision about border security; to make provision about immigration and asylum; to make provision about sharing customs data and trailer registration data; to make provision about articles for use in serious crime; to make provision about serious crime prevention orders; to make provision about fees paid in connection with the recognition, comparability or assessment of qualifications; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "12 May 2025"
+        "last_update": "13 May 2025"
       },
       "enacted": null,
       "parliament_id": 3929,
@@ -477,24 +477,24 @@
         "ft": "<p>Measures will empower the Bank of England to use funds drawn from the Financial Services Compensation Scheme to deal with the administration and sale of any failed bank, particularly smaller institutions. The FSCS’s funds would also be used to meet a failing bank’s recapitalisation costs.</p>",
         "parliament": "<p>A Bill to make provision about recapitalisation costs in relation to the special resolution regime under the Banking Act 2009.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "first_house",
+      "display_stage": "final",
+      "seq_stage": "final",
       "progress": {
         "stages": [
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Commons",
-            "state": "future"
+            "state": "passed"
           },
           {
             "stage": "Assent",
-            "state": "future"
+            "state": "passing"
           }
         ],
-        "last_update": "02 May 2025"
+        "last_update": "13 May 2025"
       },
       "enacted": null,
       "parliament_id": 3734,
@@ -550,7 +550,7 @@
             "state": "future"
           }
         ],
-        "last_update": "13 May 2025"
+        "last_update": "14 May 2025"
       },
       "enacted": null,
       "parliament_id": 3752,
@@ -585,7 +585,7 @@
             "state": "future"
           }
         ],
-        "last_update": "12 May 2025"
+        "last_update": "14 May 2025"
       },
       "enacted": null,
       "parliament_id": 3825,
@@ -679,7 +679,7 @@
             "state": "future"
           }
         ],
-        "last_update": "12 May 2025"
+        "last_update": "13 May 2025"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -843,7 +843,7 @@
             "state": "future"
           }
         ],
-        "last_update": "12 May 2025"
+        "last_update": "13 May 2025"
       },
       "enacted": null,
       "parliament_id": 3879,
@@ -878,7 +878,7 @@
             "state": "future"
           }
         ],
-        "last_update": "12 May 2025"
+        "last_update": "13 May 2025"
       },
       "enacted": null,
       "parliament_id": 3884,
@@ -915,24 +915,24 @@
         "ft": null,
         "parliament": "<p>A Bill to establish, and confer functions on, the Armed Forces Commissioner; to abolish the office of Service Complaints Ombudsman; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "08 May 2025"
+        "last_update": "13 May 2025"
       },
       "enacted": null,
       "parliament_id": 3881,
