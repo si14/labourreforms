@@ -1,11 +1,11 @@
 {
-  "last_update": "16 May 2025",
+  "last_update": "17 May 2025",
   "stats": {
     "total": 40,
     "lords": 8,
     "commons": 9,
-    "final": 2,
-    "enacted": 8
+    "final": 0,
+    "enacted": 10
   },
   "bills": [
     {
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 May 2025"
+        "last_update": "16 May 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -131,7 +131,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 May 2025"
+        "last_update": "16 May 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -191,24 +191,10 @@
       },
       "display_stage": "final",
       "seq_stage": "final",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Lords",
-            "state": "passed"
-          },
-          {
-            "stage": "Assent",
-            "state": "passing"
-          }
-        ],
-        "last_update": "15 May 2025"
+      "progress": null,
+      "enacted": {
+        "enacted_for": "2 days"
       },
-      "enacted": null,
       "parliament_id": 3738,
       "context_url": null
     },
@@ -297,7 +283,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 May 2025"
+        "last_update": "16 May 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -332,7 +318,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 May 2025"
+        "last_update": "16 May 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -479,24 +465,10 @@
       },
       "display_stage": "final",
       "seq_stage": "final",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Lords",
-            "state": "passed"
-          },
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Assent",
-            "state": "passing"
-          }
-        ],
-        "last_update": "15 May 2025"
+      "progress": null,
+      "enacted": {
+        "enacted_for": "2 days"
       },
-      "enacted": null,
       "parliament_id": 3734,
       "context_url": null
     },
@@ -550,7 +522,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 May 2025"
+        "last_update": "16 May 2025"
       },
       "enacted": null,
       "parliament_id": 3752,
@@ -585,7 +557,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 May 2025"
+        "last_update": "16 May 2025"
       },
       "enacted": null,
       "parliament_id": 3825,
@@ -679,7 +651,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 May 2025"
+        "last_update": "16 May 2025"
       },
       "enacted": null,
       "parliament_id": 3938,
