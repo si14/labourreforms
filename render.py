@@ -41,8 +41,7 @@ def render():
 def copy_public():
     BUILD_PATH.mkdir(exist_ok=True)
 
-    for f in PUBLIC_PATH.iterdir():
-        shutil.copy(f, BUILD_PATH / f.name)
+    shutil.copytree(PUBLIC_PATH, BUILD_PATH, dirs_exist_ok=True)
 
 
 def main():

@@ -196,8 +196,12 @@ def main():
             seq_stage = SeqStage.FINAL
         else:
             assert progress is not None
-            idx = [idx for idx, s in enumerate(progress.stages) if s.state == State.PASSING][0]
-            seq_stage = [SeqStage.FIRST_HOUSE, SeqStage.SECOND_HOUSE, SeqStage.FINAL][idx]
+            idx = [
+                idx for idx, s in enumerate(progress.stages) if s.state == State.PASSING
+            ][0]
+            seq_stage = [SeqStage.FIRST_HOUSE, SeqStage.SECOND_HOUSE, SeqStage.FINAL][
+                idx
+            ]
 
         processed_bills.append(
             ProcessedBill(
