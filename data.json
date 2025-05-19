@@ -2,10 +2,10 @@
   "last_update": "19 May 2025",
   "stats": {
     "total": 40,
-    "lords": 8,
-    "commons": 9,
+    "lords": 7,
+    "commons": 10,
     "final": 0,
-    "enacted": 10
+    "enacted": 11
   },
   "bills": [
     {
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 May 2025"
+        "last_update": "19 May 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -131,7 +131,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 May 2025"
+        "last_update": "19 May 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -248,7 +248,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 May 2025"
+        "last_update": "19 May 2025"
       },
       "enacted": null,
       "parliament_id": 3910,
@@ -318,7 +318,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 May 2025"
+        "last_update": "19 May 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -426,7 +426,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 May 2025"
+        "last_update": "19 May 2025"
       },
       "enacted": null,
       "parliament_id": 3929,
@@ -438,18 +438,20 @@
         "short": "Opportunity",
         "title": "Break down the barriers to opportunity"
       },
-      "title": "Skills England Bill",
+      "title": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act",
       "descriptions": {
         "theguardian": "<p>This brings together employers, unions and others to try to boost skills training.</p>",
         "ft": "<p>This sets up a new quango called Skills England to oversee skills training, initially transferring functions from an existing body called the Institute for Apprenticeships and Technical Education.</p>",
-        "parliament": null
+        "parliament": "<p>A bill to transfer the functions of the Institute for Apprenticeships and Technical Education, and its property, rights and liabilities, to the Secretary of State; to abolish the Institute; and to make amendments relating to the transferred functions.</p>"
       },
-      "display_stage": null,
-      "seq_stage": "not_introduced",
+      "display_stage": "final",
+      "seq_stage": "final",
       "progress": null,
-      "enacted": null,
-      "parliament_id": null,
-      "context_url": "https://www.gov.uk/government/collections/skills-england"
+      "enacted": {
+        "enacted_for": "4 days"
+      },
+      "parliament_id": 3772,
+      "context_url": null
     },
     {
       "group": {
@@ -540,24 +542,24 @@
         "ft": null,
         "parliament": "<p>A bill to make provision about access to customer data and business data; to make provision about services consisting of the use of information to ascertain and verify facts about individuals; to make provision about the recording and sharing, and keeping of registers, of information relating to apparatus in streets; to make provision about the keeping and maintenance of registers of births and deaths; to make provision for the regulation of the processing of information relating to identified or identifiable living individuals; to make provision about privacy and electronic communications; to establish the Information Commission; to make provision about information standards for health and social care; to make provision about the grant of smart meter communication licences; to make provision about the disclosure of information to improve public service delivery; to make provision about the retention of information by providers of internet services in connection with investigations into child deaths; to make provision about providing information for purposes related to the carrying out of independent research into online safety matters; to make provision about the retention of biometric data; to make provision about services for the provision of electronic signatures, electronic seals and other trust services; to make provision about the creation and solicitation of purported intimate images and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "first_house",
+      "display_stage": "commons",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Commons",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "16 May 2025"
+        "last_update": "19 May 2025"
       },
       "enacted": null,
       "parliament_id": 3825,
@@ -850,7 +852,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 May 2025"
+        "last_update": "19 May 2025"
       },
       "enacted": null,
       "parliament_id": 3884,
@@ -904,7 +906,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 May 2025"
+        "last_update": "19 May 2025"
       },
       "enacted": null,
       "parliament_id": 3881,

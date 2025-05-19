@@ -149,8 +149,8 @@ ft = "<p>This legislation sets up the new Border Security Command to crack down 
 
 [[bill]]
 group = "opportunity"
-title = "Skills England Bill"
-context_url = "https://www.gov.uk/government/collections/skills-england"
+title = "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act"
+parliament_id = 3772
 theguardian = """<p>This brings together employers, unions and others to try to boost skills training.</p>"""
 ft = "<p>This sets up a new quango called Skills England to oversee skills training, initially transferring functions from an existing body called the Institute for Apprenticeships and Technical Education.</p>"
 
