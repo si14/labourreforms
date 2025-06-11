@@ -1,5 +1,5 @@
 {
-  "last_update": "10 June 2025",
+  "last_update": "11 June 2025",
   "stats": {
     "total": 40,
     "lords": 8,
@@ -193,7 +193,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "26 days"
+        "enacted_for": "27 days"
       },
       "parliament_id": 3738,
       "context_url": null
@@ -248,7 +248,7 @@
             "state": "future"
           }
         ],
-        "last_update": "03 June 2025"
+        "last_update": "10 June 2025"
       },
       "enacted": null,
       "parliament_id": 3910,
@@ -318,7 +318,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 June 2025"
+        "last_update": "10 June 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -426,7 +426,7 @@
             "state": "future"
           }
         ],
-        "last_update": "06 June 2025"
+        "last_update": "10 June 2025"
       },
       "enacted": null,
       "parliament_id": 3929,
@@ -448,7 +448,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "26 days"
+        "enacted_for": "27 days"
       },
       "parliament_id": 3772,
       "context_url": null
@@ -469,7 +469,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "26 days"
+        "enacted_for": "27 days"
       },
       "parliament_id": 3734,
       "context_url": null
@@ -559,7 +559,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 June 2025"
+        "last_update": "10 June 2025"
       },
       "enacted": null,
       "parliament_id": 3825,
@@ -600,7 +600,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "2 months"
+        "enacted_for": "3 months"
       },
       "parliament_id": 3739,
       "context_url": null
@@ -653,7 +653,7 @@
             "state": "future"
           }
         ],
-        "last_update": "10 June 2025"
+        "last_update": "11 June 2025"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -906,7 +906,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 June 2025"
+        "last_update": "10 June 2025"
       },
       "enacted": null,
       "parliament_id": 3881,
