@@ -1,10 +1,10 @@
 {
-  "last_update": "12 June 2025",
+  "last_update": "13 June 2025",
   "stats": {
     "total": 40,
-    "lords": 9,
-    "commons": 8,
-    "final": 0,
+    "lords": 7,
+    "commons": 9,
+    "final": 1,
     "enacted": 11
   },
   "bills": [
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "11 June 2025"
+        "last_update": "12 June 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -131,7 +131,7 @@
             "state": "future"
           }
         ],
-        "last_update": "11 June 2025"
+        "last_update": "12 June 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -193,7 +193,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "28 days"
+        "enacted_for": "29 days"
       },
       "parliament_id": 3738,
       "context_url": null
@@ -318,7 +318,7 @@
             "state": "future"
           }
         ],
-        "last_update": "11 June 2025"
+        "last_update": "12 June 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -426,7 +426,7 @@
             "state": "future"
           }
         ],
-        "last_update": "11 June 2025"
+        "last_update": "12 June 2025"
       },
       "enacted": null,
       "parliament_id": 3929,
@@ -448,7 +448,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "28 days"
+        "enacted_for": "29 days"
       },
       "parliament_id": 3772,
       "context_url": null
@@ -469,7 +469,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "28 days"
+        "enacted_for": "29 days"
       },
       "parliament_id": 3734,
       "context_url": null
@@ -542,24 +542,24 @@
         "ft": null,
         "parliament": "<p>A bill to make provision about access to customer data and business data; to make provision about services consisting of the use of information to ascertain and verify facts about individuals; to make provision about the recording and sharing, and keeping of registers, of information relating to apparatus in streets; to make provision about the keeping and maintenance of registers of births and deaths; to make provision for the regulation of the processing of information relating to identified or identifiable living individuals; to make provision about privacy and electronic communications; to establish the Information Commission; to make provision about information standards for health and social care; to make provision about the grant of smart meter communication licences; to make provision about the disclosure of information to improve public service delivery; to make provision about the retention of information by providers of internet services in connection with investigations into child deaths; to make provision about providing information for purposes related to the carrying out of independent research into online safety matters; to make provision about the retention of biometric data; to make provision about services for the provision of electronic signatures, electronic seals and other trust services; to make provision about the creation and solicitation of purported intimate images and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "first_house",
+      "display_stage": "final",
+      "seq_stage": "final",
       "progress": {
         "stages": [
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Commons",
-            "state": "future"
+            "state": "passed"
           },
           {
             "stage": "Assent",
-            "state": "future"
+            "state": "passing"
           }
         ],
-        "last_update": "11 June 2025"
+        "last_update": "12 June 2025"
       },
       "enacted": null,
       "parliament_id": 3825,
@@ -653,7 +653,7 @@
             "state": "future"
           }
         ],
-        "last_update": "12 June 2025"
+        "last_update": "13 June 2025"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -728,7 +728,7 @@
             "state": "future"
           }
         ],
-        "last_update": "11 June 2025"
+        "last_update": "13 June 2025"
       },
       "enacted": null,
       "parliament_id": 3832,
@@ -852,7 +852,7 @@
             "state": "future"
           }
         ],
-        "last_update": "11 June 2025"
+        "last_update": "13 June 2025"
       },
       "enacted": null,
       "parliament_id": 3884,
@@ -889,24 +889,24 @@
         "ft": null,
         "parliament": "<p>A Bill to establish, and confer functions on, the Armed Forces Commissioner; to abolish the office of Service Complaints Ombudsman; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "10 June 2025"
+        "last_update": "12 June 2025"
       },
       "enacted": null,
       "parliament_id": 3881,
@@ -1056,7 +1056,7 @@
             "state": "future"
           }
         ],
-        "last_update": "11 June 2025"
+        "last_update": "12 June 2025"
       },
       "enacted": null,
       "parliament_id": 3421,
