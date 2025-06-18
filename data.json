@@ -1,5 +1,5 @@
 {
-  "last_update": "17 June 2025",
+  "last_update": "18 June 2025",
   "stats": {
     "total": 40,
     "lords": 8,
@@ -131,7 +131,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 June 2025"
+        "last_update": "17 June 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -283,7 +283,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 June 2025"
+        "last_update": "17 June 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -318,7 +318,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 June 2025"
+        "last_update": "17 June 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -426,7 +426,7 @@
             "state": "future"
           }
         ],
-        "last_update": "13 June 2025"
+        "last_update": "17 June 2025"
       },
       "enacted": null,
       "parliament_id": 3929,
@@ -559,7 +559,7 @@
             "state": "passing"
           }
         ],
-        "last_update": "12 June 2025"
+        "last_update": "17 June 2025"
       },
       "enacted": null,
       "parliament_id": 3825,
@@ -728,7 +728,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 June 2025"
+        "last_update": "17 June 2025"
       },
       "enacted": null,
       "parliament_id": 3832,
@@ -817,7 +817,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 June 2025"
+        "last_update": "17 June 2025"
       },
       "enacted": null,
       "parliament_id": 3879,
@@ -852,7 +852,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 June 2025"
+        "last_update": "17 June 2025"
       },
       "enacted": null,
       "parliament_id": 3884,
@@ -960,7 +960,7 @@
             "state": "future"
           }
         ],
-        "last_update": "13 June 2025"
+        "last_update": "17 June 2025"
       },
       "enacted": null,
       "parliament_id": 3755,
@@ -1001,7 +1001,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "4 months"
+        "enacted_for": "5 months"
       },
       "parliament_id": 3735,
       "context_url": null
@@ -1022,7 +1022,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "4 months"
+        "enacted_for": "5 months"
       },
       "parliament_id": 3744,
       "context_url": null
