@@ -1,9 +1,9 @@
 {
-  "last_update": "20 June 2025",
+  "last_update": "21 June 2025",
   "stats": {
     "total": 40,
-    "lords": 8,
-    "commons": 8,
+    "lords": 9,
+    "commons": 7,
     "final": 0,
     "enacted": 12
   },
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "13 June 2025"
+        "last_update": "20 June 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -131,7 +131,7 @@
             "state": "future"
           }
         ],
-        "last_update": "19 June 2025"
+        "last_update": "20 June 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -248,7 +248,7 @@
             "state": "future"
           }
         ],
-        "last_update": "19 June 2025"
+        "last_update": "20 June 2025"
       },
       "enacted": null,
       "parliament_id": 3910,
@@ -283,7 +283,7 @@
             "state": "future"
           }
         ],
-        "last_update": "19 June 2025"
+        "last_update": "20 June 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -318,7 +318,7 @@
             "state": "future"
           }
         ],
-        "last_update": "19 June 2025"
+        "last_update": "20 June 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -426,7 +426,7 @@
             "state": "future"
           }
         ],
-        "last_update": "19 June 2025"
+        "last_update": "20 June 2025"
       },
       "enacted": null,
       "parliament_id": 3929,
@@ -546,7 +546,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "a day"
+        "enacted_for": "2 days"
       },
       "parliament_id": 3825,
       "context_url": null
@@ -622,24 +622,24 @@
         "ft": "<p>This will expand the powers of HM Inspectorate of Constabulary and Fire & Rescue Services to intervene in failing police forces and will introduce higher mandatory national vetting standards across policing.</p>",
         "parliament": "<p>A Bill to make provision about anti-social behaviour, offensive weapons, offences against people (including sexual offences), property offences, the criminal exploitation of persons, sex offenders, stalking and public order; to make provision about powers of the police, the border force and other similar persons; to make provision about confiscation; to make provision about the police; to make provision about terrorism and national security, and about international agreements relating to crime; to make provision about the criminal liability of bodies; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "19 June 2025"
+        "last_update": "20 June 2025"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -714,7 +714,7 @@
             "state": "future"
           }
         ],
-        "last_update": "19 June 2025"
+        "last_update": "20 June 2025"
       },
       "enacted": null,
       "parliament_id": 3832,
@@ -838,7 +838,7 @@
             "state": "future"
           }
         ],
-        "last_update": "19 June 2025"
+        "last_update": "20 June 2025"
       },
       "enacted": null,
       "parliament_id": 3884,
@@ -892,7 +892,7 @@
             "state": "future"
           }
         ],
-        "last_update": "19 June 2025"
+        "last_update": "20 June 2025"
       },
       "enacted": null,
       "parliament_id": 3881,
