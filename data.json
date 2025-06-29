@@ -1,5 +1,5 @@
 {
-  "last_update": "28 June 2025",
+  "last_update": "29 June 2025",
   "stats": {
     "total": 40,
     "lords": 9,
@@ -546,7 +546,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "9 days"
+        "enacted_for": "10 days"
       },
       "parliament_id": 3825,
       "context_url": null
