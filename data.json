@@ -1,9 +1,9 @@
 {
-  "last_update": "01 July 2025",
+  "last_update": "02 July 2025",
   "stats": {
     "total": 40,
-    "lords": 9,
-    "commons": 7,
+    "lords": 10,
+    "commons": 6,
     "final": 0,
     "enacted": 12
   },
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "30 June 2025"
+        "last_update": "01 July 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -131,7 +131,7 @@
             "state": "future"
           }
         ],
-        "last_update": "30 June 2025"
+        "last_update": "01 July 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -248,7 +248,7 @@
             "state": "future"
           }
         ],
-        "last_update": "30 June 2025"
+        "last_update": "01 July 2025"
       },
       "enacted": null,
       "parliament_id": 3910,
@@ -283,7 +283,7 @@
             "state": "future"
           }
         ],
-        "last_update": "30 June 2025"
+        "last_update": "01 July 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -318,7 +318,7 @@
             "state": "future"
           }
         ],
-        "last_update": "27 June 2025"
+        "last_update": "01 July 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -426,7 +426,7 @@
             "state": "future"
           }
         ],
-        "last_update": "27 June 2025"
+        "last_update": "01 July 2025"
       },
       "enacted": null,
       "parliament_id": 3929,
@@ -524,7 +524,7 @@
             "state": "future"
           }
         ],
-        "last_update": "27 June 2025"
+        "last_update": "01 July 2025"
       },
       "enacted": null,
       "parliament_id": 3752,
@@ -546,7 +546,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "12 days"
+        "enacted_for": "13 days"
       },
       "parliament_id": 3825,
       "context_url": null
@@ -639,7 +639,7 @@
             "state": "future"
           }
         ],
-        "last_update": "27 June 2025"
+        "last_update": "01 July 2025"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -714,7 +714,7 @@
             "state": "future"
           }
         ],
-        "last_update": "27 June 2025"
+        "last_update": "01 July 2025"
       },
       "enacted": null,
       "parliament_id": 3832,
@@ -875,17 +875,17 @@
         "ft": null,
         "parliament": "<p>A Bill to establish, and confer functions on, the Armed Forces Commissioner; to abolish the office of Service Complaints Ombudsman; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
