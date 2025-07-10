@@ -1,2 +1,2 @@
-/lliframe
+/lliframe/*
     Content-Security-Policy: frame-ancestors 'self' https://labourlist.org;
