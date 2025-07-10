@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description"
+        content="The 2024 King's Speech announced 40 key policies designed to put Britain back on track. The changes aren't clear yet. What's happening to the Labour reforms?">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Where are the Labour reforms? Tracking the 2024 King's Speech Bills</title>
+
+  <!-- It's an iframe, let's point to the origin -->
+  <link rel="canonical" href="https://example.com/dresses/green-dresses"/>
+
+  <link href="../style.css?hash={{ style_hash }}" rel="stylesheet" type="text/css"/>
+
+
+  <!-- Standard favicon -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+  <!-- PNG favicon alternatives -->
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="48x48" href="/favicons/favicon-48x48.png">
+
+  <!-- Apple Touch Icons -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon/apple-touch-icon-180x180.png">
+
+  <script defer data-domain="labourreforms.uk" src="https://plausible.io/js/script.outbound-links.js"></script>
+</head>
+<body>
+
+<div class="w-full flex flex-col gap-8">
+  <ul class="flex flex-col gap-4">
+    {% for bill in bills %}
+      {% set content_id = 'bill-content-' ~ loop.index %}
+      {% set title_id = 'bill-title-' ~ loop.index %}
+
+      {% if bill.seq_stage == 'not_introduced' %}
+        {% set class_bill_bg = 'bg-lliframe-stage0' %}
+        {% set class_bill_border = 'border-lliframe-stage0' %}
+        {% set class_bill_text = 'text-base-content' %}
+      {% elif bill.seq_stage == 'first_house' %}
+        {% set class_bill_bg = 'bg-lliframe-stage1' %}
+        {% set class_bill_border = 'border-lliframe-stage1' %}
+        {% set class_bill_text = 'text-base-content' %}
+      {% elif bill.seq_stage == 'second_house' %}
+        {% set class_bill_bg = 'bg-lliframe-stage2' %}
+        {% set class_bill_border = 'border-lliframe-stage2' %}
+        {% set class_bill_text = 'text-white' %}
+      {% elif bill.seq_stage == 'final' %}
+        {% set class_bill_bg = 'bg-lliframe-stage3' %}
+        {% set class_bill_border = 'border-lliframe-stage3' %}
+        {% set class_bill_text = 'text-white' %}
+      {% endif %}
+      <li class="w-full shadow-lg rounded-lg">
+        <div
+          class="{{ class_bill_bg }} {{ class_bill_text }} rounded-lg px-4 py-2 h-[6rem] flex items-center w-full cursor-pointer select-none touch-manipulation"
+          data-toggle="trigger"
+          role="button"
+          tabindex="0"
+          aria-expanded="false"
+          id="{{ title_id }}"
+          aria-controls="{{ content_id }}">
+          <div class="grow flex flex-col gap-1 min-w-0 md:flex-row md:items-center">
+            <p class="grow text-lg md:text-xl font-semibold truncate">{{ bill.title }}</p>
+
+            <div>
+              {% if bill.progress %}
+                <p class="md:text-lg">
+                  {%- for stage in bill.progress.stages -%}
+                    {%- if stage.state == 'passed' -%}
+                      {%- set class_stage = "opacity-75" -%}
+                      {%- set class_arrow = "opacity-75" -%}
+                    {%- elif stage.state == 'passing' -%}
+                      {%- set class_stage = "underline decoration-dashed decoration-2 underline-offset-4" -%}
+                      {%- set class_arrow = "opacity-75" -%}
+                    {%- elif stage.state == 'future' -%}
+                      {%- set class_stage = "opacity-50" -%}
+                      {%- set class_arrow = "opacity-25" -%}
+                    {%- endif -%}
+                    {%- if not loop.first %}&nbsp;
+                      <span class="{{ class_arrow }}" aria-hidden="true">→</span>&nbsp;
+                    {%- endif -%}
+                    <span class="{{ class_stage }}">{{ stage.stage }}</span>
+                  {%- endfor -%}
+                </p>
+              {% elif bill.enacted %}
+                <p class="md:text-lg">
+                  <span class="opacity-80">Enacted for</span>
+                  <span class="font-semibold">{{ bill.enacted.enacted_for }}</span>
+                </p>
+              {% else %}
+                <p class="md:text-lg">Not yet introduced</p>
+              {% endif %}
+            </div>
+          </div>
+
+          <div class="ml-2 transition-transform duration-200 ease-in-out rotate-180" data-toggle="indicator"
+               aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                 stroke="currentColor" class="size-6">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+            </svg>
+          </div>
+        </div>
+
+        <div id="{{ content_id }}"
+             class="hidden rounded-b-lg border-2 border-t-0 {{ class_bill_border }} px-4 py-6 flex flex-col gap-6"
+             data-toggle="content" role="region" aria-labelledby="{{ title_id }}">
+          {% if bill.descriptions.theguardian %}
+            <div class="flex flex-col gap-2">
+              <blockquote class="border-l-4 border-neutral-content pl-4 italic text-lg">
+                {{ bill.descriptions.theguardian|safe }}
+              </blockquote>
+              <p class="pl-4 opacity-75">– <a
+                class="link link-primary"
+                href="https://www.theguardian.com/politics/article/2024/jul/17/what-bills-are-included-in-the-kings-speech-and-what-will-they-do"
+                target="_blank">The
+                Guardian</a></p>
+            </div>
+          {% endif %}
+          {% if bill.descriptions.ft %}
+            <div class="flex flex-col gap-2">
+              <blockquote class="border-l-4 border-neutral-content pl-4 italic text-lg">
+                {{ bill.descriptions.ft|safe }}
+              </blockquote>
+              <p class="pl-4 opacity-75">– <a
+                class="link link-primary"
+                href="https://www.ft.com/content/becaeb4c-1c8a-4f6b-b412-dc93d707cd96"
+                target="_blank">FT</a></p>
+            </div>
+          {% endif %}
+          {% if bill.descriptions.parliament %}
+            <div class="flex flex-col gap-2">
+              <blockquote class="border-l-4 border-neutral-content pl-4 italic text-lg">
+                {{ bill.descriptions.parliament|safe }}
+              </blockquote>
+              <p class="pl-4 opacity-75">– Official description</p>
+            </div>
+          {% endif %}
+          {% if bill.parliament_id %}
+            <p>
+              More&nbsp;information:&nbsp;<a class="link link-primary break-all"
+                                             href="https://bills.parliament.uk/bills/{{ bill.parliament_id }}"
+                                             target="_blank">https://bills.parliament.uk/bills/{{ bill.parliament_id }}</a>
+            </p>
+          {% endif %}
+          {% if bill.context_url %}
+            <p>
+              More&nbsp;information:&nbsp;<a class="link link-primary break-all"
+                                             href="{{ bill.context_url }}"
+                                             target="_blank">{{ bill.context_url }}</a>
+            </p>
+          {% endif %}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <footer>
+    <p class="text-center text-sm opacity-75">
+      Data from <a class="link link-primary" href="https://bills.parliament.uk/" target="_blank">parliament.uk</a>,
+      <a class="link link-primary"
+         href="https://labourlist.org/2024/07/kings-speech-2024-what-policies-list-law-bills/"
+         target="_blank">LabourList.org</a>,
+      <a class="link link-primary"
+         href="https://www.theguardian.com/politics/2024/jul/17/what-bills-are-included-in-the-kings-speech-and-what-will-they-do"
+         target="_blank">The Guardian</a>,
+      and <a class="link link-primary" href="https://www.ft.com/content/becaeb4c-1c8a-4f6b-b412-dc93d707cd96"
+             target="_blank">FT</a>.
+      <br>
+      Last refresh on {{ last_update }}.
+      Made by <a class="link link-primary"
+                 href="https://dgroshev.com"
+                 target="_blank">Dan&nbsp;Groshev</a>.
+    </p>
+  </footer>
+</div>
+
+</body>
+
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function () {
+    const triggers = document.querySelectorAll('[data-toggle="trigger"]');
+
+    function toggleContent(trigger) {
+      const listItem = trigger.closest('li');
+
+      const content = listItem.querySelector('[data-toggle="content"]');
+      const indicator = listItem.querySelector('[data-toggle="indicator"]');
+
+      const isExpanded = trigger.getAttribute('aria-expanded') === 'true';
+
+      if (isExpanded) {
+        // Collapse
+        content.classList.add('hidden');
+        trigger.classList.remove('rounded-b-none');
+        indicator.style.transform = 'rotate(0deg)';
+        trigger.setAttribute('aria-expanded', 'false');
+      } else {
+        // Expand
+        content.classList.remove('hidden');
+        trigger.classList.add('rounded-b-none');
+        indicator.style.transform = 'rotate(90deg)';
+        trigger.setAttribute('aria-expanded', 'true');
+      }
+    }
+
+    triggers.forEach(trigger => {
+      // Handle clicks
+      trigger.addEventListener('click', function () {
+        toggleContent(this);
+      });
+
+      // Handle keyboard events (Enter and Space)
+      trigger.addEventListener('keydown', function (event) {
+        if (event.key === 'Enter' || event.key === ' ') {
+          event.preventDefault(); // Prevent default action (e.g., scrolling for space)
+          toggleContent(this);
+        }
+      });
+    });
+  });
+</script>
+</html>

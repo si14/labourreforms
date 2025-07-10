@@ -6,9 +6,17 @@
     --color-commons: #006548;
     --color-final: #5f2db4;
     --color-lords: #9d0830;
-
+    
     --color-stage0: var(--color-base-300); /*oklch(0.95 0 0);*/
     --color-stage1: color-mix(in oklab, var(--color-stage0) 70%, var(--color-stage3) 30%);
     --color-stage2: color-mix(in oklab, var(--color-stage0) 40%, var(--color-stage3) 60%);
     --color-stage3: var(--color-final);
+
+    --color-lliframe-final: #d63528;
+
+    --color-lliframe-stage0: var(--color-base-300);
+    --color-lliframe-stage1: color-mix(in oklab, var(--color-lliframe-stage0) 70%, var(--color-lliframe-stage3) 30%);
+    --color-lliframe-stage2: color-mix(in oklab, var(--color-lliframe-stage0) 40%, var(--color-lliframe-stage3) 60%);
+    --color-lliframe-stage3: var(--color-lliframe-final);
+
 }

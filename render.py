@@ -30,10 +30,16 @@ def render() -> None:
     style_hash = calculate_file_hash(style_css_path)
 
     env = Environment(loader=FileSystemLoader(SRC_PATH))
-    template = env.get_template("index.html")
-    rendered_content = template.render(style_hash=style_hash, **data)
+    index_template = env.get_template("index.html")
+    index_rendered_content = index_template.render(style_hash=style_hash, **data)
     with open(BUILD_PATH / "index.html", "w") as f:
-        f.write(rendered_content)
+        f.write(index_rendered_content)
+
+    lliframe_template = env.get_template("lliframe/index.html")
+    lliframe_rendered_content = lliframe_template.render(style_hash=style_hash, **data)
+    (BUILD_PATH / "lliframe").mkdir(exist_ok=True)
+    with open(BUILD_PATH / "lliframe" / "index.html", "w") as f:
+        f.write(lliframe_rendered_content)
 
     print("Rendered")
 
