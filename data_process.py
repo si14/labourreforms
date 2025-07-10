@@ -204,6 +204,9 @@ def main() -> None:
                 idx
             ]
 
+        if enacted:
+            bill.title = bill.title.replace("Bill", "Act")
+
         processed_bills.append(
             ProcessedBill(
                 group=groups[bill.group],

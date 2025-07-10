@@ -2,8 +2,8 @@
   "last_update": "10 July 2025",
   "stats": {
     "total": 40,
-    "lords": 11,
-    "commons": 5,
+    "lords": 12,
+    "commons": 4,
     "final": 0,
     "enacted": 12
   },
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 July 2025"
+        "last_update": "10 July 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -131,7 +131,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 July 2025"
+        "last_update": "10 July 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -183,7 +183,7 @@
         "short": "Energy",
         "title": "Great British Energy and becoming a Clean Energy Superpower"
       },
-      "title": "Great British Energy Bill",
+      "title": "Great British Energy Act",
       "descriptions": {
         "theguardian": "<p>Very much one of the big-ticket bills, this sets up Labour’s long-promised publicly owned clean energy production company.</p>",
         "ft": "<p>This will set up a new publicly-owned “energy production company” to own and operate clean power projects such as solar and wind in partnership with the private sector. The new group, headquartered in Scotland, will have £8.3bn of new money over the five-year parliament.</p>",
@@ -248,7 +248,7 @@
             "state": "future"
           }
         ],
-        "last_update": "08 July 2025"
+        "last_update": "10 July 2025"
       },
       "enacted": null,
       "parliament_id": 3910,
@@ -318,7 +318,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 July 2025"
+        "last_update": "10 July 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -426,7 +426,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 July 2025"
+        "last_update": "10 July 2025"
       },
       "enacted": null,
       "parliament_id": 3929,
@@ -459,7 +459,7 @@
         "short": "Economy",
         "title": "Economic stability and growth"
       },
-      "title": "Bank Resolution (Recapitalisation) Bill",
+      "title": "Bank Resolution (Recapitalisation) Act",
       "descriptions": {
         "theguardian": "<p>A technical bill about what happens if a bank fails, including efforts to make sure taxpayers do not bear the costs.</p>",
         "ft": "<p>Measures will empower the Bank of England to use funds drawn from the Financial Services Compensation Scheme to deal with the administration and sale of any failed bank, particularly smaller institutions. The FSCS’s funds would also be used to meet a failing bank’s recapitalisation costs.</p>",
@@ -536,7 +536,7 @@
         "short": "Economy",
         "title": "Economic stability and growth"
       },
-      "title": "Data (Use and Access) Bill",
+      "title": "Data (Use and Access) Act",
       "descriptions": {
         "theguardian": "<p>…This would change data-sharing standards and introduce a proper system for digital verification services.</p>",
         "ft": null,
@@ -697,24 +697,24 @@
         "ft": "<p>The government will establish a new independent regulator to address financial sustainability of the soccer industry and ensure fans’ voices are heard. This regulator would operate a licensing system and would have to make sure clubs are financially sound.</p>",
         "parliament": "<p>A bill to establish the Independent Football Regulator; to make provision for the licensing of football clubs; to make provision about the distribution of revenue received by organisers of football competitions; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "second_house",
+      "display_stage": "lords",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Lords",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "09 July 2025"
+        "last_update": "10 July 2025"
       },
       "enacted": null,
       "parliament_id": 3832,
@@ -838,7 +838,7 @@
             "state": "future"
           }
         ],
-        "last_update": "04 July 2025"
+        "last_update": "10 July 2025"
       },
       "enacted": null,
       "parliament_id": 3884,
@@ -946,7 +946,7 @@
             "state": "future"
           }
         ],
-        "last_update": "08 July 2025"
+        "last_update": "10 July 2025"
       },
       "enacted": null,
       "parliament_id": 3755,
@@ -998,7 +998,7 @@
         "short": "National",
         "title": "National security and serving the country"
       },
-      "title": "Lords Spiritual (Women) Act 2015 (Extension) Bill",
+      "title": "Lords Spiritual (Women) Act 2015 (Extension) Act",
       "descriptions": {
         "theguardian": "<p>This would aim to increase the number of female bishops in the Lords.</p>",
         "ft": null,
