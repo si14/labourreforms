@@ -37,7 +37,6 @@ class BillDetails(BaseModel):
     isDefeated: bool
     lastUpdate: datetime
     longTitle: str
-    originatingHouse: HouseEnum
     shortTitle: str
     summary: Optional[str] = None
 
@@ -154,7 +153,7 @@ def count_bills_at(bills: list[ProcessedBill], stage: Stage) -> int:
     )
 
 
-def main():
+def main() -> None:
     groups, bills = read_bills()
 
     processed_bills = []
@@ -187,6 +186,8 @@ def main():
         if enacted is not None:
             display_stage = Stage.FINAL
         else:
+            assert progress is not None
+
             display_stage = [
                 stage for stage in progress.stages if stage.state == State.PASSING
             ][0].stage

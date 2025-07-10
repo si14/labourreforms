@@ -36,7 +36,7 @@ def read_bills() -> tuple[dict[str, Group], list[Bill]]:
 CACHE_DIR = Path("./data_cache")
 
 
-def main():
+def main() -> None:
     groups, bills = read_bills()
 
     for bill in bills:

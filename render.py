@@ -12,12 +12,12 @@ PUBLIC_PATH = Path("public")
 SRC_PATH = Path("src")
 
 
-def calculate_file_hash(file_path):
+def calculate_file_hash(file_path: Path) -> str:
     with open(file_path, "rb") as f:
         return hashlib.sha256(f.read()).hexdigest()[:8]
 
 
-def render():
+def render() -> None:
     BUILD_PATH.mkdir(exist_ok=True)
 
     with open("data.json", "r") as f:
@@ -38,13 +38,13 @@ def render():
     print("Rendered")
 
 
-def copy_public():
+def copy_public() -> None:
     BUILD_PATH.mkdir(exist_ok=True)
 
     shutil.copytree(PUBLIC_PATH, BUILD_PATH, dirs_exist_ok=True)
 
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--watch", action="store_true")
 

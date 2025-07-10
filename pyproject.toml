@@ -15,5 +15,15 @@ dependencies = [
 [dependency-groups]
 dev = [
     "ruff",
-    "watchfiles"
+    "watchfiles",
+    "mypy",
+    "types-requests",
+]
+
+[tool.mypy]
+strict = true
+files = [
+    "data_process.py",
+    "data_pull.py",
+    "render.py",
 ]
