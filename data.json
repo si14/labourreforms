@@ -1,10 +1,10 @@
 {
-  "last_update": "11 July 2025",
+  "last_update": "12 July 2025",
   "stats": {
     "total": 40,
-    "lords": 12,
+    "lords": 11,
     "commons": 4,
-    "final": 0,
+    "final": 1,
     "enacted": 12
   },
   "bills": [
@@ -24,7 +24,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "9 months"
+        "enacted_for": "10 months"
       },
       "parliament_id": 3731,
       "context_url": null
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "10 July 2025"
+        "last_update": "11 July 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -131,7 +131,7 @@
             "state": "future"
           }
         ],
-        "last_update": "10 July 2025"
+        "last_update": "11 July 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -283,7 +283,7 @@
             "state": "future"
           }
         ],
-        "last_update": "08 July 2025"
+        "last_update": "11 July 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -426,7 +426,7 @@
             "state": "future"
           }
         ],
-        "last_update": "10 July 2025"
+        "last_update": "11 July 2025"
       },
       "enacted": null,
       "parliament_id": 3929,
@@ -507,24 +507,24 @@
         "ft": null,
         "parliament": "<p>A Bill to make provision about the marketing or use of products in the United Kingdom; about units of measurement and the quantities in which goods are marketed in the United Kingdom; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "first_house",
+      "display_stage": "final",
+      "seq_stage": "final",
       "progress": {
         "stages": [
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Commons",
-            "state": "future"
+            "state": "passed"
           },
           {
             "stage": "Assent",
-            "state": "future"
+            "state": "passing"
           }
         ],
-        "last_update": "08 July 2025"
+        "last_update": "11 July 2025"
       },
       "enacted": null,
       "parliament_id": 3752,
@@ -546,7 +546,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "22 days"
+        "enacted_for": "23 days"
       },
       "parliament_id": 3825,
       "context_url": null
