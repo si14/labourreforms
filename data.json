@@ -1,10 +1,10 @@
 {
-  "last_update": "16 July 2025",
+  "last_update": "17 July 2025",
   "stats": {
     "total": 40,
-    "lords": 11,
+    "lords": 10,
     "commons": 4,
-    "final": 1,
+    "final": 2,
     "enacted": 12
   },
   "bills": [
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 July 2025"
+        "last_update": "16 July 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -283,7 +283,7 @@
             "state": "future"
           }
         ],
-        "last_update": "11 July 2025"
+        "last_update": "16 July 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -546,7 +546,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "27 days"
+        "enacted_for": "28 days"
       },
       "parliament_id": 3825,
       "context_url": null
@@ -697,24 +697,24 @@
         "ft": "<p>The government will establish a new independent regulator to address financial sustainability of the soccer industry and ensure fans’ voices are heard. This regulator would operate a licensing system and would have to make sure clubs are financially sound.</p>",
         "parliament": "<p>A bill to establish the Independent Football Regulator; to make provision for the licensing of football clubs; to make provision about the distribution of revenue received by organisers of football competitions; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "first_house",
+      "display_stage": "final",
+      "seq_stage": "final",
       "progress": {
         "stages": [
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Commons",
-            "state": "future"
+            "state": "passed"
           },
           {
             "stage": "Assent",
-            "state": "future"
+            "state": "passing"
           }
         ],
-        "last_update": "10 July 2025"
+        "last_update": "16 July 2025"
       },
       "enacted": null,
       "parliament_id": 3832,
