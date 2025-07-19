@@ -1,9 +1,9 @@
 {
-  "last_update": "18 July 2025",
+  "last_update": "19 July 2025",
   "stats": {
     "total": 40,
-    "lords": 10,
-    "commons": 4,
+    "lords": 9,
+    "commons": 5,
     "final": 2,
     "enacted": 12
   },
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "17 July 2025"
+        "last_update": "18 July 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -248,7 +248,7 @@
             "state": "future"
           }
         ],
-        "last_update": "17 July 2025"
+        "last_update": "18 July 2025"
       },
       "enacted": null,
       "parliament_id": 3910,
@@ -283,7 +283,7 @@
             "state": "future"
           }
         ],
-        "last_update": "17 July 2025"
+        "last_update": "18 July 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -318,7 +318,7 @@
             "state": "future"
           }
         ],
-        "last_update": "17 July 2025"
+        "last_update": "18 July 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -546,7 +546,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "29 days"
+        "enacted_for": "30 days"
       },
       "parliament_id": 3825,
       "context_url": null
@@ -946,7 +946,7 @@
             "state": "future"
           }
         ],
-        "last_update": "17 July 2025"
+        "last_update": "18 July 2025"
       },
       "enacted": null,
       "parliament_id": 3755,
@@ -1025,24 +1025,24 @@
         "ft": null,
         "parliament": "<p>A Bill to make provision for expenditure by the Secretary of State and the removal of restrictions in respect of certain land for or in connection with the construction of a Holocaust Memorial and Learning Centre.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "19 June 2025"
+        "last_update": "18 July 2025"
       },
       "enacted": null,
       "parliament_id": 3421,
