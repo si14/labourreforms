@@ -1,9 +1,9 @@
 {
-  "last_update": "20 July 2025",
+  "last_update": "21 July 2025",
   "stats": {
     "total": 40,
-    "lords": 9,
-    "commons": 5,
+    "lords": 8,
+    "commons": 6,
     "final": 2,
     "enacted": 12
   },
@@ -929,17 +929,17 @@
         "ft": "<p>Hereditary peers — around 92 male Lords entitled to seats as members of the British aristocracy — will no longer be able to sit and vote in the chamber. The government said reform was “long overdue and essential”. These peers will still be allowed to keep their passes to the Westminster estate, nicknamed the “best club in London”.</p>",
         "parliament": "<p>A Bill to remove the remaining connection between hereditary peerage and membership of the House of Lords; to abolish the jurisdiction of the House of Lords in relation to claims to hereditary peerages; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
