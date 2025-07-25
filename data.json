@@ -1,10 +1,10 @@
 {
-  "last_update": "24 July 2025",
+  "last_update": "25 July 2025",
   "stats": {
     "total": 40,
-    "lords": 7,
+    "lords": 6,
     "commons": 7,
-    "final": 0,
+    "final": 1,
     "enacted": 14
   },
   "bills": [
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "23 July 2025"
+        "last_update": "24 July 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -131,7 +131,7 @@
             "state": "future"
           }
         ],
-        "last_update": "23 July 2025"
+        "last_update": "24 July 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -318,7 +318,7 @@
             "state": "future"
           }
         ],
-        "last_update": "23 July 2025"
+        "last_update": "24 July 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -511,7 +511,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "3 days"
+        "enacted_for": "4 days"
       },
       "parliament_id": 3752,
       "context_url": null
@@ -625,7 +625,7 @@
             "state": "future"
           }
         ],
-        "last_update": "08 July 2025"
+        "last_update": "24 July 2025"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -687,7 +687,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "3 days"
+        "enacted_for": "4 days"
       },
       "parliament_id": 3832,
       "context_url": null
@@ -810,7 +810,7 @@
             "state": "future"
           }
         ],
-        "last_update": "22 July 2025"
+        "last_update": "24 July 2025"
       },
       "enacted": null,
       "parliament_id": 3884,
@@ -847,8 +847,8 @@
         "ft": null,
         "parliament": "<p>A Bill to establish, and confer functions on, the Armed Forces Commissioner; to abolish the office of Service Complaints Ombudsman; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "final",
+      "seq_stage": "final",
       "progress": {
         "stages": [
           {
@@ -857,14 +857,14 @@
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Assent",
-            "state": "future"
+            "state": "passing"
           }
         ],
-        "last_update": "22 July 2025"
+        "last_update": "24 July 2025"
       },
       "enacted": null,
       "parliament_id": 3881,
