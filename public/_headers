@@ -1,2 +1,8 @@
 /lliframe/*
     Content-Security-Policy: frame-ancestors 'self' https://labourlist.org;
+
+*
+    Cache-Control: public, max-age=60
+
+style.css
+    Cache-Control: public, max-age=604800, immutable
