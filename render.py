@@ -35,13 +35,13 @@ def render() -> None:
     with open(BUILD_PATH / "index.html", "w") as f:
         f.write(index_rendered_content)
 
-    lliframe_template = env.get_template("lliframe/index.html")
+    lliframe_template = env.get_template("lliframe2024/index.html")
     lliframe_rendered_content = lliframe_template.render(style_hash=style_hash, **data)
-    (BUILD_PATH / "lliframe").mkdir(exist_ok=True)
-    with open(BUILD_PATH / "lliframe/index.html", "w") as f:
+    (BUILD_PATH / "lliframe2024").mkdir(exist_ok=True)
+    with open(BUILD_PATH / "lliframe2024/index.html", "w") as f:
         f.write(lliframe_rendered_content)
 
-    shutil.copy(SRC_PATH / "lliframe/embed.js", BUILD_PATH / "lliframe/embed.js")
+    shutil.copy(SRC_PATH / "lliframe2024/embed.js", BUILD_PATH / "lliframe2024/embed.js")
 
     print("Rendered")
 
