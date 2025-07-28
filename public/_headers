@@ -1,5 +1,5 @@
 /lliframe/*
-    Content-Security-Policy: frame-ancestors 'self' https://labourlist.org;
+    Content-Security-Policy: frame-ancestors 'self' https://labourlist.org http://localhost:8080;
 
 *
     Cache-Control: public, max-age=60
