@@ -38,8 +38,10 @@ def render() -> None:
     lliframe_template = env.get_template("lliframe/index.html")
     lliframe_rendered_content = lliframe_template.render(style_hash=style_hash, **data)
     (BUILD_PATH / "lliframe").mkdir(exist_ok=True)
-    with open(BUILD_PATH / "lliframe" / "index.html", "w") as f:
+    with open(BUILD_PATH / "lliframe/index.html", "w") as f:
         f.write(lliframe_rendered_content)
+
+    shutil.copy(SRC_PATH / "lliframe/embed.js", BUILD_PATH / "lliframe/embed.js")
 
     print("Rendered")
 
