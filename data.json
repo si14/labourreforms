@@ -1,11 +1,11 @@
 {
-  "last_update": "03 September 2025",
+  "last_update": "04 September 2025",
   "stats": {
     "total": 40,
     "lords": 6,
     "commons": 7,
-    "final": 1,
-    "enacted": 14
+    "final": 0,
+    "enacted": 15
   },
   "bills": [
     {
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "02 September 2025"
+        "last_update": "03 September 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -248,7 +248,7 @@
             "state": "future"
           }
         ],
-        "last_update": "02 September 2025"
+        "last_update": "03 September 2025"
       },
       "enacted": null,
       "parliament_id": 3910,
@@ -283,7 +283,7 @@
             "state": "future"
           }
         ],
-        "last_update": "02 September 2025"
+        "last_update": "03 September 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -318,7 +318,7 @@
             "state": "future"
           }
         ],
-        "last_update": "02 September 2025"
+        "last_update": "03 September 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -841,7 +841,7 @@
         "short": "National",
         "title": "National security and serving the country"
       },
-      "title": "Armed Forces Commissioner Bill",
+      "title": "Armed Forces Commissioner Act",
       "descriptions": {
         "theguardian": "<p>A self-explanatory one – to create a commissioner for the armed forces.</p>",
         "ft": null,
@@ -849,24 +849,10 @@
       },
       "display_stage": "final",
       "seq_stage": "final",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Lords",
-            "state": "passed"
-          },
-          {
-            "stage": "Assent",
-            "state": "passing"
-          }
-        ],
-        "last_update": "02 September 2025"
+      "progress": null,
+      "enacted": {
+        "enacted_for": "a day"
       },
-      "enacted": null,
       "parliament_id": 3881,
       "context_url": null
     },
@@ -918,7 +904,7 @@
             "state": "future"
           }
         ],
-        "last_update": "02 September 2025"
+        "last_update": "03 September 2025"
       },
       "enacted": null,
       "parliament_id": 3755,
