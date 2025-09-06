@@ -1,5 +1,5 @@
 {
-  "last_update": "05 September 2025",
+  "last_update": "06 September 2025",
   "stats": {
     "total": 40,
     "lords": 5,
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "03 September 2025"
+        "last_update": "05 September 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -131,7 +131,7 @@
             "state": "future"
           }
         ],
-        "last_update": "04 September 2025"
+        "last_update": "05 September 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -248,7 +248,7 @@
             "state": "future"
           }
         ],
-        "last_update": "04 September 2025"
+        "last_update": "05 September 2025"
       },
       "enacted": null,
       "parliament_id": 3910,
@@ -283,7 +283,7 @@
             "state": "future"
           }
         ],
-        "last_update": "04 September 2025"
+        "last_update": "05 September 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -318,7 +318,7 @@
             "state": "future"
           }
         ],
-        "last_update": "04 September 2025"
+        "last_update": "05 September 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -851,7 +851,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "2 days"
+        "enacted_for": "3 days"
       },
       "parliament_id": 3881,
       "context_url": null
@@ -904,7 +904,7 @@
             "state": "future"
           }
         ],
-        "last_update": "04 September 2025"
+        "last_update": "05 September 2025"
       },
       "enacted": null,
       "parliament_id": 3755,
