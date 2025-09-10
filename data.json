@@ -1,9 +1,9 @@
 {
-  "last_update": "09 September 2025",
+  "last_update": "10 September 2025",
   "stats": {
     "total": 40,
-    "lords": 5,
-    "commons": 8,
+    "lords": 6,
+    "commons": 7,
     "final": 0,
     "enacted": 15
   },
@@ -24,7 +24,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "11 months"
+        "enacted_for": "a year"
       },
       "parliament_id": 3731,
       "context_url": null
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "08 September 2025"
+        "last_update": "09 September 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -131,7 +131,7 @@
             "state": "future"
           }
         ],
-        "last_update": "05 September 2025"
+        "last_update": "10 September 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -248,7 +248,7 @@
             "state": "future"
           }
         ],
-        "last_update": "08 September 2025"
+        "last_update": "09 September 2025"
       },
       "enacted": null,
       "parliament_id": 3910,
@@ -283,7 +283,7 @@
             "state": "future"
           }
         ],
-        "last_update": "08 September 2025"
+        "last_update": "09 September 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -426,7 +426,7 @@
             "state": "future"
           }
         ],
-        "last_update": "04 September 2025"
+        "last_update": "09 September 2025"
       },
       "enacted": null,
       "parliament_id": 3929,
@@ -572,7 +572,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "5 months"
+        "enacted_for": "6 months"
       },
       "parliament_id": 3739,
       "context_url": null
@@ -851,7 +851,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "6 days"
+        "enacted_for": "7 days"
       },
       "parliament_id": 3881,
       "context_url": null
@@ -887,24 +887,24 @@
         "ft": "<p>Hereditary peers — around 92 male Lords entitled to seats as members of the British aristocracy — will no longer be able to sit and vote in the chamber. The government said reform was “long overdue and essential”. These peers will still be allowed to keep their passes to the Westminster estate, nicknamed the “best club in London”.</p>",
         "parliament": "<p>A Bill to remove the remaining connection between hereditary peerage and membership of the House of Lords; to make provision about resignation from the House of Lords; to abolish the jurisdiction of the House of Lords in relation to claims to hereditary peerages; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "08 September 2025"
+        "last_update": "09 September 2025"
       },
       "enacted": null,
       "parliament_id": 3755,
