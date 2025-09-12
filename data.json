@@ -1,5 +1,5 @@
 {
-  "last_update": "11 September 2025",
+  "last_update": "12 September 2025",
   "stats": {
     "total": 40,
     "lords": 8,
@@ -24,7 +24,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 1 day"
+        "enacted_for": "1 year, 2 days"
       },
       "parliament_id": 3731,
       "context_url": null
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "10 September 2025"
+        "last_update": "11 September 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -131,7 +131,7 @@
             "state": "future"
           }
         ],
-        "last_update": "10 September 2025"
+        "last_update": "11 September 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -248,7 +248,7 @@
             "state": "future"
           }
         ],
-        "last_update": "10 September 2025"
+        "last_update": "11 September 2025"
       },
       "enacted": null,
       "parliament_id": 3910,
@@ -283,7 +283,7 @@
             "state": "future"
           }
         ],
-        "last_update": "10 September 2025"
+        "last_update": "11 September 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -318,7 +318,7 @@
             "state": "future"
           }
         ],
-        "last_update": "08 September 2025"
+        "last_update": "11 September 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -625,7 +625,7 @@
             "state": "future"
           }
         ],
-        "last_update": "04 September 2025"
+        "last_update": "11 September 2025"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -810,7 +810,7 @@
             "state": "future"
           }
         ],
-        "last_update": "29 August 2025"
+        "last_update": "11 September 2025"
       },
       "enacted": null,
       "parliament_id": 3884,
@@ -851,7 +851,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "8 days"
+        "enacted_for": "9 days"
       },
       "parliament_id": 3881,
       "context_url": null
