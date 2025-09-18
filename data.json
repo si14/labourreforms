@@ -1,9 +1,9 @@
 {
-  "last_update": "17 September 2025",
+  "last_update": "18 September 2025",
   "stats": {
     "total": 40,
-    "lords": 8,
-    "commons": 5,
+    "lords": 9,
+    "commons": 4,
     "final": 0,
     "enacted": 15
   },
@@ -24,7 +24,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 7 days"
+        "enacted_for": "1 year, 8 days"
       },
       "parliament_id": 3731,
       "context_url": null
@@ -114,24 +114,24 @@
         "ft": "<p>An employment rights bill will enshrine in law a package of measures previously known as Labour’s “New Deal For Working People”. The bill will ban zero-hours contracts, end “fire and rehire” practices, and give immediate access to parental leave and sick pay. It will also make it easier for unions to take strike action by reversing recent Tory legislation.</p>",
         "parliament": "<p>A Bill to make provision to amend the law relating to employment rights; to make provision about procedure for handling redundancies; to make provision about the treatment of workers involved in the supply of services under certain public contracts; to provide for duties to be imposed on employers in relation to equality; to amend the definition of “employment business” in the Employment Agencies Act 1973; to provide for the establishment of the School Support Staff Negotiating Body and the Social Care Negotiating Bodies; to amend the Seafarers’ Wages Act 2023; to make provision for the implementation of international agreements relating to maritime employment; to make provision about trade unions, industrial action, employers’ associations and the functions of the Certification Officer; to make provision about the enforcement of legislation relating to the labour market; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "16 September 2025"
+        "last_update": "17 September 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -248,7 +248,7 @@
             "state": "future"
           }
         ],
-        "last_update": "12 September 2025"
+        "last_update": "17 September 2025"
       },
       "enacted": null,
       "parliament_id": 3910,
@@ -283,7 +283,7 @@
             "state": "future"
           }
         ],
-        "last_update": "11 September 2025"
+        "last_update": "17 September 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -318,7 +318,7 @@
             "state": "future"
           }
         ],
-        "last_update": "12 September 2025"
+        "last_update": "17 September 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -625,7 +625,7 @@
             "state": "future"
           }
         ],
-        "last_update": "11 September 2025"
+        "last_update": "17 September 2025"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -851,7 +851,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "14 days"
+        "enacted_for": "15 days"
       },
       "parliament_id": 3881,
       "context_url": null
