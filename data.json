@@ -1,5 +1,5 @@
 {
-  "last_update": "16 October 2025",
+  "last_update": "17 October 2025",
   "stats": {
     "total": 40,
     "lords": 8,
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 October 2025"
+        "last_update": "16 October 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -266,24 +266,24 @@
         "ft": "<p>This will end Section 21 “no fault” evictions for tenants, removing the threat of arbitrary evictions to increase tenant security. The Tories promised this in 2019 but failed to get similar legislation through parliament before they lost the general election in early July.</p>",
         "parliament": "<p>A Bill to make provision changing the law about rented homes, including provision abolishing fixed term assured tenancies and assured shorthold tenancies; imposing obligations on landlords and others in relation to rented homes and temporary and supported accommodation; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "15 October 2025"
+        "last_update": "16 October 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -318,7 +318,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 October 2025"
+        "last_update": "16 October 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -793,24 +793,24 @@
         "ft": null,
         "parliament": "<p>A Bill to make provision to amend the Mental Health Act 1983 in relation to mentally disordered persons; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "second_house",
+      "display_stage": "lords",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Lords",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "15 October 2025"
+        "last_update": "16 October 2025"
       },
       "enacted": null,
       "parliament_id": 3884,
