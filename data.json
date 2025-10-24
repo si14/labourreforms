@@ -1,10 +1,10 @@
 {
-  "last_update": "23 October 2025",
+  "last_update": "24 October 2025",
   "stats": {
     "total": 40,
     "lords": 8,
-    "commons": 4,
-    "final": 1,
+    "commons": 3,
+    "final": 2,
     "enacted": 15
   },
   "bills": [
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "22 October 2025"
+        "last_update": "23 October 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -131,7 +131,7 @@
             "state": "future"
           }
         ],
-        "last_update": "21 October 2025"
+        "last_update": "23 October 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -266,24 +266,24 @@
         "ft": "<p>This will end Section 21 “no fault” evictions for tenants, removing the threat of arbitrary evictions to increase tenant security. The Tories promised this in 2019 but failed to get similar legislation through parliament before they lost the general election in early July.</p>",
         "parliament": "<p>A Bill to make provision changing the law about rented homes, including provision abolishing fixed term assured tenancies and assured shorthold tenancies; imposing obligations on landlords and others in relation to rented homes and temporary and supported accommodation; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "final",
+      "seq_stage": "final",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passed"
           },
           {
             "stage": "Assent",
-            "state": "future"
+            "state": "passing"
           }
         ],
-        "last_update": "22 October 2025"
+        "last_update": "23 October 2025"
       },
       "enacted": null,
       "parliament_id": 3764,
@@ -426,7 +426,7 @@
             "state": "future"
           }
         ],
-        "last_update": "22 October 2025"
+        "last_update": "23 October 2025"
       },
       "enacted": null,
       "parliament_id": 3929,
@@ -625,7 +625,7 @@
             "state": "future"
           }
         ],
-        "last_update": "22 October 2025"
+        "last_update": "23 October 2025"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -775,7 +775,7 @@
             "state": "future"
           }
         ],
-        "last_update": "22 October 2025"
+        "last_update": "23 October 2025"
       },
       "enacted": null,
       "parliament_id": 3879,
