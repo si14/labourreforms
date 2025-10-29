@@ -1,11 +1,11 @@
 {
-  "last_update": "28 October 2025",
+  "last_update": "29 October 2025",
   "stats": {
     "total": 40,
     "lords": 8,
     "commons": 3,
-    "final": 2,
-    "enacted": 15
+    "final": 0,
+    "enacted": 17
   },
   "bills": [
     {
@@ -96,7 +96,7 @@
             "state": "future"
           }
         ],
-        "last_update": "24 October 2025"
+        "last_update": "28 October 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -225,7 +225,7 @@
         "short": "Economy",
         "title": "Economic stability and growth"
       },
-      "title": "Bus Services (No. 2) Bill",
+      "title": "Bus Services (No. 2) Act",
       "descriptions": {
         "theguardian": "<p>A measure that could have a big impact, this changes the law to allow local authorities and mayors to bring bus services under local control, rather than being privately run.</p>",
         "ft": null,
@@ -233,24 +233,10 @@
       },
       "display_stage": "final",
       "seq_stage": "final",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Lords",
-            "state": "passed"
-          },
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Assent",
-            "state": "passing"
-          }
-        ],
-        "last_update": "27 October 2025"
+      "progress": null,
+      "enacted": {
+        "enacted_for": "2 days"
       },
-      "enacted": null,
       "parliament_id": 3910,
       "context_url": null
     },
@@ -260,7 +246,7 @@
         "short": "Opportunity",
         "title": "Break down the barriers to opportunity"
       },
-      "title": "Renters' Rights Bill",
+      "title": "Renters' Rights Act",
       "descriptions": {
         "theguardian": "<p>Finally introducing an end to “no fault” evictions, as long promised but never delivered by Sunak’s government.</p>",
         "ft": "<p>This will end Section 21 “no fault” evictions for tenants, removing the threat of arbitrary evictions to increase tenant security. The Tories promised this in 2019 but failed to get similar legislation through parliament before they lost the general election in early July.</p>",
@@ -268,24 +254,10 @@
       },
       "display_stage": "final",
       "seq_stage": "final",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Lords",
-            "state": "passed"
-          },
-          {
-            "stage": "Assent",
-            "state": "passing"
-          }
-        ],
-        "last_update": "27 October 2025"
+      "progress": null,
+      "enacted": {
+        "enacted_for": "2 days"
       },
-      "enacted": null,
       "parliament_id": 3764,
       "context_url": null
     },
@@ -318,7 +290,7 @@
             "state": "future"
           }
         ],
-        "last_update": "27 October 2025"
+        "last_update": "28 October 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -426,7 +398,7 @@
             "state": "future"
           }
         ],
-        "last_update": "27 October 2025"
+        "last_update": "28 October 2025"
       },
       "enacted": null,
       "parliament_id": 3929,
@@ -625,7 +597,7 @@
             "state": "future"
           }
         ],
-        "last_update": "27 October 2025"
+        "last_update": "28 October 2025"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -775,7 +747,7 @@
             "state": "future"
           }
         ],
-        "last_update": "24 October 2025"
+        "last_update": "28 October 2025"
       },
       "enacted": null,
       "parliament_id": 3879,
@@ -1000,7 +972,7 @@
             "state": "future"
           }
         ],
-        "last_update": "18 July 2025"
+        "last_update": "28 October 2025"
       },
       "enacted": null,
       "parliament_id": 3421,
