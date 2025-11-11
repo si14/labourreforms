@@ -1,9 +1,9 @@
 {
-  "last_update": "10 November 2025",
+  "last_update": "11 November 2025",
   "stats": {
     "total": 40,
-    "lords": 8,
-    "commons": 3,
+    "lords": 7,
+    "commons": 4,
     "final": 0,
     "enacted": 17
   },
@@ -79,24 +79,24 @@
         "ft": "<p>Planning reform is at the centre of Labour’s ambitions to build houses and deliver renewable energy infrastructure, for example accelerating upgrades to the national grid. Reform of local planning committees is aimed at streamlining processes, while attempts to increase planning authorities’ capacity is aimed at boosting developer and investor confidence.</p>",
         "parliament": "<p>A Bill to make provision about infrastructure; to make provision about town and country planning; to make provision for a scheme, administered by Natural England, for a nature restoration levy payable by developers; to make provision about development corporations; to make provision about the compulsory purchase of land; to make provision about environmental outcomes reports; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "07 November 2025"
+        "last_update": "10 November 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -235,7 +235,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "14 days"
+        "enacted_for": "15 days"
       },
       "parliament_id": 3910,
       "context_url": null
@@ -256,7 +256,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "14 days"
+        "enacted_for": "15 days"
       },
       "parliament_id": 3764,
       "context_url": null
@@ -597,7 +597,7 @@
             "state": "future"
           }
         ],
-        "last_update": "07 November 2025"
+        "last_update": "10 November 2025"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -747,7 +747,7 @@
             "state": "future"
           }
         ],
-        "last_update": "07 November 2025"
+        "last_update": "10 November 2025"
       },
       "enacted": null,
       "parliament_id": 3879,
@@ -782,7 +782,7 @@
             "state": "future"
           }
         ],
-        "last_update": "05 November 2025"
+        "last_update": "10 November 2025"
       },
       "enacted": null,
       "parliament_id": 3884,
