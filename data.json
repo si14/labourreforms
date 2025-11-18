@@ -1,5 +1,5 @@
 {
-  "last_update": "17 November 2025",
+  "last_update": "18 November 2025",
   "stats": {
     "total": 40,
     "lords": 7,
@@ -79,24 +79,24 @@
         "ft": "<p>Planning reform is at the centre of Labour’s ambitions to build houses and deliver renewable energy infrastructure, for example accelerating upgrades to the national grid. Reform of local planning committees is aimed at streamlining processes, while attempts to increase planning authorities’ capacity is aimed at boosting developer and investor confidence.</p>",
         "parliament": "<p>A Bill to make provision about infrastructure; to make provision about town and country planning; to make provision for a scheme, administered by Natural England, for a nature restoration levy payable by developers; to make provision about development corporations; to make provision about the compulsory purchase of land; to make provision about environmental outcomes reports; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "14 November 2025"
+        "last_update": "17 November 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -235,7 +235,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "21 days"
+        "enacted_for": "22 days"
       },
       "parliament_id": 3910,
       "context_url": null
@@ -256,7 +256,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "21 days"
+        "enacted_for": "22 days"
       },
       "parliament_id": 3764,
       "context_url": null
@@ -381,24 +381,24 @@
         "ft": "<p>This legislation sets up the new Border Security Command to crack down on criminal gangs bringing asylum seekers across the English Channel. It will also ensure stronger penalties against a range of organised immigration crimes.</p>",
         "parliament": "<p>A Bill to make provision about border security; to make provision about immigration and asylum; to make provision about sharing customs data and trailer registration data; to make provision about articles for use in serious crime; to make provision about serious crime prevention orders; to make provision about fees paid in connection with the recognition, comparability or assessment of qualifications; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "12 November 2025"
+        "last_update": "18 November 2025"
       },
       "enacted": null,
       "parliament_id": 3929,
@@ -782,7 +782,7 @@
             "state": "future"
           }
         ],
-        "last_update": "12 November 2025"
+        "last_update": "17 November 2025"
       },
       "enacted": null,
       "parliament_id": 3884,
