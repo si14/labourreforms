@@ -1,10 +1,10 @@
 {
-  "last_update": "25 November 2025",
+  "last_update": "26 November 2025",
   "stats": {
     "total": 40,
-    "lords": 8,
-    "commons": 3,
-    "final": 0,
+    "lords": 6,
+    "commons": 4,
+    "final": 1,
     "enacted": 17
   },
   "bills": [
@@ -79,24 +79,24 @@
         "ft": "<p>Planning reform is at the centre of Labour’s ambitions to build houses and deliver renewable energy infrastructure, for example accelerating upgrades to the national grid. Reform of local planning committees is aimed at streamlining processes, while attempts to increase planning authorities’ capacity is aimed at boosting developer and investor confidence.</p>",
         "parliament": "<p>A Bill to make provision about infrastructure; to make provision about town and country planning; to make provision for a scheme, administered by Natural England, for a nature restoration levy payable by developers; to make provision about development corporations; to make provision about the compulsory purchase of land; to make provision about environmental outcomes reports; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "21 November 2025"
+        "last_update": "25 November 2025"
       },
       "enacted": null,
       "parliament_id": 3946,
@@ -214,7 +214,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "8 months"
+        "enacted_for": "9 months"
       },
       "parliament_id": 3751,
       "context_url": null
@@ -235,7 +235,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "29 days"
+        "enacted_for": "30 days"
       },
       "parliament_id": 3910,
       "context_url": null
@@ -256,7 +256,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "29 days"
+        "enacted_for": "30 days"
       },
       "parliament_id": 3764,
       "context_url": null
@@ -290,7 +290,7 @@
             "state": "future"
           }
         ],
-        "last_update": "24 November 2025"
+        "last_update": "25 November 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -381,8 +381,8 @@
         "ft": "<p>This legislation sets up the new Border Security Command to crack down on criminal gangs bringing asylum seekers across the English Channel. It will also ensure stronger penalties against a range of organised immigration crimes.</p>",
         "parliament": "<p>A Bill to make provision about border security; to make provision about immigration and asylum; to make provision about sharing customs data and trailer registration data; to make provision about articles for use in serious crime; to make provision about serious crime prevention orders; to make provision about fees paid in connection with the recognition, comparability or assessment of qualifications; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "final",
+      "seq_stage": "final",
       "progress": {
         "stages": [
           {
@@ -391,14 +391,14 @@
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Assent",
-            "state": "future"
+            "state": "passing"
           }
         ],
-        "last_update": "21 November 2025"
+        "last_update": "25 November 2025"
       },
       "enacted": null,
       "parliament_id": 3929,
@@ -462,7 +462,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "8 months"
+        "enacted_for": "9 months"
       },
       "parliament_id": 3733,
       "context_url": null
@@ -597,7 +597,7 @@
             "state": "future"
           }
         ],
-        "last_update": "24 November 2025"
+        "last_update": "25 November 2025"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -782,7 +782,7 @@
             "state": "future"
           }
         ],
-        "last_update": "21 November 2025"
+        "last_update": "25 November 2025"
       },
       "enacted": null,
       "parliament_id": 3884,
