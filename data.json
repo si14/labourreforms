@@ -1,11 +1,11 @@
 {
-  "last_update": "03 December 2025",
+  "last_update": "04 December 2025",
   "stats": {
     "total": 40,
     "lords": 4,
     "commons": 6,
-    "final": 1,
-    "enacted": 17
+    "final": 0,
+    "enacted": 18
   },
   "bills": [
     {
@@ -131,7 +131,7 @@
             "state": "future"
           }
         ],
-        "last_update": "02 December 2025"
+        "last_update": "03 December 2025"
       },
       "enacted": null,
       "parliament_id": 3737,
@@ -153,7 +153,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 5 days"
+        "enacted_for": "1 year, 6 days"
       },
       "parliament_id": 3732,
       "context_url": null
@@ -290,7 +290,7 @@
             "state": "future"
           }
         ],
-        "last_update": "02 December 2025"
+        "last_update": "03 December 2025"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -375,7 +375,7 @@
         "short": "Security",
         "title": "Secure borders, cracking down on anti-social behaviour and taking back our streets"
       },
-      "title": "Border Security, Asylum and Immigration Bill",
+      "title": "Border Security, Asylum and Immigration Act",
       "descriptions": {
         "theguardian": "<p>This sets up the new Border Security Command, intended to limit the number of unofficial Channel crossings by asylum seekers, with other enforcement measures introduced.</p>",
         "ft": "<p>This legislation sets up the new Border Security Command to crack down on criminal gangs bringing asylum seekers across the English Channel. It will also ensure stronger penalties against a range of organised immigration crimes.</p>",
@@ -383,24 +383,10 @@
       },
       "display_stage": "final",
       "seq_stage": "final",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Lords",
-            "state": "passed"
-          },
-          {
-            "stage": "Assent",
-            "state": "passing"
-          }
-        ],
-        "last_update": "02 December 2025"
+      "progress": null,
+      "enacted": {
+        "enacted_for": "2 days"
       },
-      "enacted": null,
       "parliament_id": 3929,
       "context_url": null
     },
@@ -597,7 +583,7 @@
             "state": "future"
           }
         ],
-        "last_update": "02 December 2025"
+        "last_update": "03 December 2025"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -782,7 +768,7 @@
             "state": "future"
           }
         ],
-        "last_update": "27 November 2025"
+        "last_update": "03 December 2025"
       },
       "enacted": null,
       "parliament_id": 3884,
@@ -823,7 +809,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "2 months"
+        "enacted_for": "3 months"
       },
       "parliament_id": 3881,
       "context_url": null
