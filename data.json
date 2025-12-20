@@ -1,11 +1,11 @@
 {
-  "last_update": "19 December 2025",
+  "last_update": "20 December 2025",
   "stats": {
     "total": 40,
     "lords": 4,
     "commons": 3,
-    "final": 3,
-    "enacted": 18
+    "final": 0,
+    "enacted": 21
   },
   "bills": [
     {
@@ -73,7 +73,7 @@
         "short": "Economy",
         "title": "Economic stability and growth"
       },
-      "title": "Planning and Infrastructure Bill",
+      "title": "Planning and Infrastructure Act",
       "descriptions": {
         "theguardian": "<p>One of the government’s main measures, intended to streamline and speed up planning and associated infrastructure needs to get more housing built. It includes a more top-down approach, with penalties for councils that fail to get moving.</p>",
         "ft": "<p>Planning reform is at the centre of Labour’s ambitions to build houses and deliver renewable energy infrastructure, for example accelerating upgrades to the national grid. Reform of local planning committees is aimed at streamlining processes, while attempts to increase planning authorities’ capacity is aimed at boosting developer and investor confidence.</p>",
@@ -81,24 +81,10 @@
       },
       "display_stage": "final",
       "seq_stage": "final",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Lords",
-            "state": "passed"
-          },
-          {
-            "stage": "Assent",
-            "state": "passing"
-          }
-        ],
-        "last_update": "18 December 2025"
+      "progress": null,
+      "enacted": {
+        "enacted_for": "2 days"
       },
-      "enacted": null,
       "parliament_id": 3946,
       "context_url": null
     },
@@ -108,7 +94,7 @@
         "short": "Economy",
         "title": "Economic stability and growth"
       },
-      "title": "Employment Rights Bill",
+      "title": "Employment Rights Act",
       "descriptions": {
         "theguardian": "<p>The long-promised bill, coming with a pledge that it will be introduced to parliament in the first 100 days of the government, would ban zero-hours contracts and fire and rehire practices, add extra rights such as on flexible working, and make parental leave, sick pay and protection from unfair dismissal immediate rights.</p>",
         "ft": "<p>An employment rights bill will enshrine in law a package of measures previously known as Labour’s “New Deal For Working People”. The bill will ban zero-hours contracts, end “fire and rehire” practices, and give immediate access to parental leave and sick pay. It will also make it easier for unions to take strike action by reversing recent Tory legislation.</p>",
@@ -116,24 +102,10 @@
       },
       "display_stage": "final",
       "seq_stage": "final",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Lords",
-            "state": "passed"
-          },
-          {
-            "stage": "Assent",
-            "state": "passing"
-          }
-        ],
-        "last_update": "17 December 2025"
+      "progress": null,
+      "enacted": {
+        "enacted_for": "2 days"
       },
-      "enacted": null,
       "parliament_id": 3737,
       "context_url": null
     },
@@ -153,7 +125,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 21 days"
+        "enacted_for": "1 year, 22 days"
       },
       "parliament_id": 3732,
       "context_url": null
@@ -385,7 +357,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "17 days"
+        "enacted_for": "18 days"
       },
       "parliament_id": 3929,
       "context_url": null
@@ -745,7 +717,7 @@
         "short": "Health",
         "title": "Health"
       },
-      "title": "Mental Health Bill",
+      "title": "Mental Health Act",
       "descriptions": {
         "theguardian": "<p>A broad bill to modernise mental health provisions, including in areas such as how people can be detained and treated under the Mental Health Act.</p>",
         "ft": null,
@@ -753,24 +725,10 @@
       },
       "display_stage": "final",
       "seq_stage": "final",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Lords",
-            "state": "passed"
-          },
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Assent",
-            "state": "passing"
-          }
-        ],
-        "last_update": "18 December 2025"
+      "progress": null,
+      "enacted": {
+        "enacted_for": "2 days"
       },
-      "enacted": null,
       "parliament_id": 3884,
       "context_url": null
     },
