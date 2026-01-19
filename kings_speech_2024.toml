@@ -237,8 +237,9 @@ theguardian = """<p>This would set out equal pay rights for people from minority
 
 [[bill]]
 group = "opportunity"
-title = "Conversion Practices (Prohibition) Bill"
+title = "Draft Conversion Practices Bill"
 # parliament_id = 3545
+context_url = "https://fullfact.org/government-tracker/trans-conversion-practices-ban/"
 theguardian = """<p>Likely to be quite knotty – a bill to ban conversion practices, including those connected to gender.</p>"""
 
 [[bill]]
