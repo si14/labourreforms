@@ -56,7 +56,8 @@ ft = """<p>This will put the new £7.3bn “national wealth fund” on a permane
 [[bill]]
 group = "economy"
 title = "Pension Schemes Bill"
-context_url = "https://www.gov.uk/government/news/pension-reforms-to-go-further-to-unlock-billions-to-drive-growth-and-boost-working-peoples-pension-pots"
+parliament_id = 3982
+# context_url = "https://www.gov.uk/government/news/pension-reforms-to-go-further-to-unlock-billions-to-drive-growth-and-boost-working-peoples-pension-pots"
 theguardian = """<p>A broad pensions-based bill covering measures intended to help people get more from their retirement pots.</p>"""
 ft = "<p>Legislation will place an emphasis on preventing people losing track of various small pension pots by consolidating them. This move will help tackle a problem affecting some 2.8mn pots, according to the Pensions Policy Institute, a think-tank. An accompanying value for money framework is aimed at encouraging better pension fund performance in the interest of economic growth.</p>"
 
@@ -84,7 +85,8 @@ ft = "<p>The government will bring rail services back into public ownership and 
 [[bill]]
 group = "economy"
 title = "Railways Bill"
-context_url = "https://www.gov.uk/government/consultations/a-railway-fit-for-britains-future"
+parliament_id = 4030
+# context_url = "https://www.gov.uk/government/consultations/a-railway-fit-for-britains-future"
 theguardian = """<p>This would formally establish Great British Railways, the state-run rail firm.</p>"""
 
 [[bill]]
@@ -129,8 +131,9 @@ ft = "<p>This draft bill would allow leaseholders to extend their lease and buy 
 
 [[bill]]
 group = "economy"
-title = "English Devolution Bill"
-context_url = "https://www.gov.uk/government/publications/english-devolution-white-paper-power-and-partnership-foundations-for-growth/english-devolution-white-paper"
+title = "English Devolution and Community Empowerment Bill"
+parliament_id = 4002
+# context_url = "https://www.gov.uk/government/publications/english-devolution-white-paper-power-and-partnership-foundations-for-growth/english-devolution-white-paper"
 theguardian = """<p>Another much-touted measure, intended to extend devolution across England and giving mayors and local authorities the opportunity to take on extra powers.</p>"""
 ft = "<p>The government has promised to make the devolution of powers a default setting for England’s regions. Legislation will establish a new framework to move power out of Westminster, with the aim of empowering local leaders to make decisions over infrastructure planning, transport, skills and employment support.</p>"
 
@@ -195,8 +198,9 @@ ft = "<p>This will end “outdated restrictions” on the activities of the Crow
 
 [[bill]]
 group = "energy"
-title = "Sustainable Aviation Fuel (Revenue Support Mechanism) Bill"
-context_url = "https://www.gov.uk/government/consultations/saf-revenue-certainty-mechanism-approach-to-industry-funding"
+title = "Sustainable Aviation Fuel Bill"
+parliament_id = 3972
+# context_url = "https://www.gov.uk/government/consultations/saf-revenue-certainty-mechanism-approach-to-industry-funding"
 theguardian = """<p>An attempt to increase investment in UK plants to make lower-emission aviation fuels.</p>"""
 
 [[bill]]
@@ -214,7 +218,8 @@ theguardian = """<p>Otherwise known as Martyn’s Law after Martyn Hett who was 
 
 [[bill]]
 group = "security"
-title = "Victims, Courts and Public Protection Bill"
+title = "Victims and Courts Bill"
+parliament_id = 3968
 theguardian = """<p>Among other measures, this would boost the powers of the Victims’ commissioner.</p>"""
 
 [[bill]]
@@ -277,7 +282,8 @@ ft = "<p>Hereditary peers — around 92 male Lords entitled to seats as members 
 [[bill]]
 group = "national"
 title = "Cyber Security and Resilience Bill"
-context_url = "https://www.gov.uk/government/collections/cyber-security-and-resilience-bill"
+parliament_id = 4035
+# context_url = "https://www.gov.uk/government/collections/cyber-security-and-resilience-bill"
 theguardian = """<p>Another technical bill about protecting digital services.</p>"""
 
 [[bill]]

@@ -2,8 +2,8 @@
   "last_update": "19 January 2026",
   "stats": {
     "total": 40,
-    "lords": 4,
-    "commons": 3,
+    "lords": 8,
+    "commons": 5,
     "final": 0,
     "enacted": 21
   },
@@ -58,14 +58,30 @@
       "descriptions": {
         "theguardian": "<p>A broad pensions-based bill covering measures intended to help people get more from their retirement pots.</p>",
         "ft": "<p>Legislation will place an emphasis on preventing people losing track of various small pension pots by consolidating them. This move will help tackle a problem affecting some 2.8mn pots, according to the Pensions Policy Institute, a think-tank. An accompanying value for money framework is aimed at encouraging better pension fund performance in the interest of economic growth.</p>",
-        "parliament": null
+        "parliament": "<p>A Bill to make provision about pension schemes; and for connected purposes.</p>"
       },
-      "display_stage": null,
-      "seq_stage": "not_introduced",
-      "progress": null,
+      "display_stage": "lords",
+      "seq_stage": "second_house",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passed"
+          },
+          {
+            "stage": "Lords",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "16 January 2026"
+      },
       "enacted": null,
-      "parliament_id": null,
-      "context_url": "https://www.gov.uk/government/news/pension-reforms-to-go-further-to-unlock-billions-to-drive-growth-and-boost-working-peoples-pension-pots"
+      "parliament_id": 3982,
+      "context_url": null
     },
     {
       "group": {
@@ -140,14 +156,30 @@
       "descriptions": {
         "theguardian": "<p>This would formally establish Great British Railways, the state-run rail firm.</p>",
         "ft": null,
-        "parliament": null
+        "parliament": "<p>A Bill to make provision about railways and railway services; and for connected purposes.</p>"
       },
-      "display_stage": null,
-      "seq_stage": "not_introduced",
-      "progress": null,
+      "display_stage": "commons",
+      "seq_stage": "first_house",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passing"
+          },
+          {
+            "stage": "Lords",
+            "state": "future"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "16 January 2026"
+      },
       "enacted": null,
-      "parliament_id": null,
-      "context_url": "https://www.gov.uk/government/consultations/a-railway-fit-for-britains-future"
+      "parliament_id": 4030,
+      "context_url": null
     },
     {
       "group": {
@@ -293,18 +325,34 @@
         "short": "Economy",
         "title": "Economic stability and growth"
       },
-      "title": "English Devolution Bill",
+      "title": "English Devolution and Community Empowerment Bill",
       "descriptions": {
         "theguardian": "<p>Another much-touted measure, intended to extend devolution across England and giving mayors and local authorities the opportunity to take on extra powers.</p>",
         "ft": "<p>The government has promised to make the devolution of powers a default setting for England’s regions. Legislation will establish a new framework to move power out of Westminster, with the aim of empowering local leaders to make decisions over infrastructure planning, transport, skills and employment support.</p>",
-        "parliament": null
+        "parliament": "<p>A Bill to make provision about combined authorities, combined county authorities, the Greater London Authority, local councils, police and crime commissioners and fire and rescue authorities, local audit and terms in business tenancies about rent.</p>"
       },
-      "display_stage": null,
-      "seq_stage": "not_introduced",
-      "progress": null,
+      "display_stage": "lords",
+      "seq_stage": "second_house",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passed"
+          },
+          {
+            "stage": "Lords",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "16 January 2026"
+      },
       "enacted": null,
-      "parliament_id": null,
-      "context_url": "https://www.gov.uk/government/publications/english-devolution-white-paper-power-and-partnership-foundations-for-growth/english-devolution-white-paper"
+      "parliament_id": 4002,
+      "context_url": null
     },
     {
       "group": {
@@ -513,18 +561,34 @@
         "short": "Energy",
         "title": "Great British Energy and becoming a Clean Energy Superpower"
       },
-      "title": "Sustainable Aviation Fuel (Revenue Support Mechanism) Bill",
+      "title": "Sustainable Aviation Fuel Bill",
       "descriptions": {
         "theguardian": "<p>An attempt to increase investment in UK plants to make lower-emission aviation fuels.</p>",
         "ft": null,
-        "parliament": null
+        "parliament": "<p>A Bill to Make provision about sustainable aviation fuel.</p>"
       },
-      "display_stage": null,
-      "seq_stage": "not_introduced",
-      "progress": null,
+      "display_stage": "lords",
+      "seq_stage": "second_house",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passed"
+          },
+          {
+            "stage": "Lords",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "15 January 2026"
+      },
       "enacted": null,
-      "parliament_id": null,
-      "context_url": "https://www.gov.uk/government/consultations/saf-revenue-certainty-mechanism-approach-to-industry-funding"
+      "parliament_id": 3972,
+      "context_url": null
     },
     {
       "group": {
@@ -588,17 +652,33 @@
         "short": "Security",
         "title": "Secure borders, cracking down on anti-social behaviour and taking back our streets"
       },
-      "title": "Victims, Courts and Public Protection Bill",
+      "title": "Victims and Courts Bill",
       "descriptions": {
         "theguardian": "<p>Among other measures, this would boost the powers of the Victims’ commissioner.</p>",
         "ft": null,
-        "parliament": null
+        "parliament": "<p>A Bill to Make provision about the experience of victims within the criminal justice system; about the functions of the Commissioner for Victims and Witnesses; and about procedure and the administration of criminal justice.</p>"
       },
-      "display_stage": null,
-      "seq_stage": "not_introduced",
-      "progress": null,
+      "display_stage": "lords",
+      "seq_stage": "second_house",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passed"
+          },
+          {
+            "stage": "Lords",
+            "state": "passing"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "15 January 2026"
+      },
       "enacted": null,
-      "parliament_id": null,
+      "parliament_id": 3968,
       "context_url": null
     },
     {
@@ -836,14 +916,30 @@
       "descriptions": {
         "theguardian": "<p>Another technical bill about protecting digital services.</p>",
         "ft": null,
-        "parliament": null
+        "parliament": "<p>A Bill to Make provision, including provision amending the Network and Information Systems Regulations 2018, about the security and resilience of network and information systems used or relied on in connection with the carrying on of essential activities.</p>"
       },
-      "display_stage": null,
-      "seq_stage": "not_introduced",
-      "progress": null,
+      "display_stage": "commons",
+      "seq_stage": "first_house",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passing"
+          },
+          {
+            "stage": "Lords",
+            "state": "future"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "07 January 2026"
+      },
       "enacted": null,
-      "parliament_id": null,
-      "context_url": "https://www.gov.uk/government/collections/cyber-security-and-resilience-bill"
+      "parliament_id": 4035,
+      "context_url": null
     },
     {
       "group": {
