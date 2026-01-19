@@ -3,7 +3,7 @@
   "stats": {
     "total": 40,
     "lords": 8,
-    "commons": 5,
+    "commons": 7,
     "final": 0,
     "enacted": 21
   },
@@ -818,18 +818,34 @@
         "short": "National",
         "title": "National security and serving the country"
       },
-      "title": "Hillsborough Law",
+      "title": "Public Office (Accountability) Bill",
       "descriptions": {
         "theguardian": "<p>Introducing a legal duty of candour on public servants and authorities in an attempt to prevent Hillsborough-style cover ups.</p>",
         "ft": null,
-        "parliament": null
+        "parliament": "<p>A Bill to Impose a duty on public authorities and public officials to act with candour, transparency and frankness; to make provision for the enforcement of that duty in their dealings with inquiries and investigations; to require public authorities to promote and take steps to maintain ethical conduct within all parts of the authority; to create an offence in relation to public authorities and public officials who mislead the public; to create further offences in relation to the misconduct of persons who hold public office and to abolish the common law offence of misconduct in public office; to make provision enabling persons to participate at inquiries and investigations where the conduct of public authorities may be in issue; and for connected purposes.</p>"
       },
-      "display_stage": null,
-      "seq_stage": "not_introduced",
-      "progress": null,
+      "display_stage": "commons",
+      "seq_stage": "first_house",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passing"
+          },
+          {
+            "stage": "Lords",
+            "state": "future"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "16 January 2026"
+      },
       "enacted": null,
-      "parliament_id": null,
-      "context_url": "https://committees.parliament.uk/publications/46794/documents/241301/default/"
+      "parliament_id": 4019,
+      "context_url": null
     },
     {
       "group": {
@@ -858,18 +874,34 @@
         "short": "National",
         "title": "National security and serving the country"
       },
-      "title": "Northern Ireland Legacy Legislation",
+      "title": "Northern Ireland Troubles Bill",
       "descriptions": {
         "theguardian": "<p>Another potentially tricky measure, aiming to replace the Northern Ireland Legacy Act, which was criticised for measures such as conditional amnesties for Troubles-era crimes.</p>",
         "ft": null,
-        "parliament": null
+        "parliament": "<p>A Bill to make new provision to address the legacy of the Northern Ireland Troubles.</p>"
       },
-      "display_stage": null,
-      "seq_stage": "not_introduced",
-      "progress": null,
+      "display_stage": "commons",
+      "seq_stage": "first_house",
+      "progress": {
+        "stages": [
+          {
+            "stage": "Commons",
+            "state": "passing"
+          },
+          {
+            "stage": "Lords",
+            "state": "future"
+          },
+          {
+            "stage": "Assent",
+            "state": "future"
+          }
+        ],
+        "last_update": "15 January 2026"
+      },
       "enacted": null,
-      "parliament_id": null,
-      "context_url": "https://committees.parliament.uk/work/8761/the-governments-new-approach-to-addressing-the-legacy-of-the-past-in-northern-ireland/"
+      "parliament_id": 4022,
+      "context_url": null
     },
     {
       "group": {

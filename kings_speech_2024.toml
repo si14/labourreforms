@@ -256,8 +256,9 @@ theguardian = """<p>A broad bill to modernise mental health provisions, includin
 
 [[bill]]
 group = "national"
-title = "Hillsborough Law"
-context_url = "https://committees.parliament.uk/publications/46794/documents/241301/default/"
+title = "Public Office (Accountability) Bill"
+parliament_id = 4019
+# context_url = "https://committees.parliament.uk/publications/46794/documents/241301/default/"
 theguardian = """<p>Introducing a legal duty of candour on public servants and authorities in an attempt to prevent Hillsborough-style cover ups.</p>"""
 
 [[bill]]
@@ -268,8 +269,9 @@ theguardian = """<p>A self-explanatory one – to create a commissioner for the 
 
 [[bill]]
 group = "national"
-title = "Northern Ireland Legacy Legislation"
-context_url = "https://committees.parliament.uk/work/8761/the-governments-new-approach-to-addressing-the-legacy-of-the-past-in-northern-ireland/"
+title = "Northern Ireland Troubles Bill"
+parliament_id = 4022
+# context_url = "https://committees.parliament.uk/work/8761/the-governments-new-approach-to-addressing-the-legacy-of-the-past-in-northern-ireland/"
 theguardian = """<p>Another potentially tricky measure, aiming to replace the Northern Ireland Legacy Act, which was criticised for measures such as conditional amnesties for Troubles-era crimes.</p>"""
 
 [[bill]]
