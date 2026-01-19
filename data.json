@@ -3,7 +3,7 @@
   "stats": {
     "total": 40,
     "lords": 8,
-    "commons": 7,
+    "commons": 6,
     "final": 0,
     "enacted": 21
   },
@@ -731,29 +731,13 @@
       "descriptions": {
         "theguardian": "<p>Likely to be quite knotty – a bill to ban conversion practices, including those connected to gender.</p>",
         "ft": null,
-        "parliament": "<p>A Bill to prohibit practices whose predetermined purpose is to change a person’s sexual orientation or to change a person to or from being transgender; and for connected purposes.</p>"
+        "parliament": null
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Commons",
-            "state": "passing"
-          },
-          {
-            "stage": "Lords",
-            "state": "future"
-          },
-          {
-            "stage": "Assent",
-            "state": "future"
-          }
-        ],
-        "last_update": "31 May 2024"
-      },
+      "display_stage": null,
+      "seq_stage": "not_introduced",
+      "progress": null,
       "enacted": null,
-      "parliament_id": 3545,
+      "parliament_id": null,
       "context_url": null
     },
     {
