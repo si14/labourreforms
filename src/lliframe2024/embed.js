@@ -23,6 +23,6 @@ document.currentScript.insertAdjacentHTML('afterend', '<iframe\n' +
   `  src="${labourReformsIframeUrl}"\n` +
   '  frameborder="0"\n' +
   '  title="Labour Reforms"\n' +
-  '  sandbox="allow-same-origin allow-scripts"\n' +
+  '  sandbox="allow-same-origin allow-scripts allow-popups"\n' +
   '  style="width: 100%; height: 1000px;"\n' +
   '></iframe>');
