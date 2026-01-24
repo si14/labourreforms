@@ -1,11 +1,11 @@
 {
-  "last_update": "23 January 2026",
+  "last_update": "24 January 2026",
   "stats": {
     "total": 40,
     "lords": 8,
     "commons": 5,
-    "final": 1,
-    "enacted": 21
+    "final": 0,
+    "enacted": 22
   },
   "bills": [
     {
@@ -77,7 +77,7 @@
             "state": "future"
           }
         ],
-        "last_update": "22 January 2026"
+        "last_update": "23 January 2026"
       },
       "enacted": null,
       "parliament_id": 3982,
@@ -175,7 +175,7 @@
             "state": "future"
           }
         ],
-        "last_update": "22 January 2026"
+        "last_update": "23 January 2026"
       },
       "enacted": null,
       "parliament_id": 4030,
@@ -294,7 +294,7 @@
             "state": "future"
           }
         ],
-        "last_update": "22 January 2026"
+        "last_update": "23 January 2026"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -348,7 +348,7 @@
             "state": "future"
           }
         ],
-        "last_update": "22 January 2026"
+        "last_update": "23 January 2026"
       },
       "enacted": null,
       "parliament_id": 4002,
@@ -584,7 +584,7 @@
             "state": "future"
           }
         ],
-        "last_update": "22 January 2026"
+        "last_update": "23 January 2026"
       },
       "enacted": null,
       "parliament_id": 3972,
@@ -619,7 +619,7 @@
             "state": "future"
           }
         ],
-        "last_update": "21 January 2026"
+        "last_update": "23 January 2026"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -675,7 +675,7 @@
             "state": "future"
           }
         ],
-        "last_update": "22 January 2026"
+        "last_update": "23 January 2026"
       },
       "enacted": null,
       "parliament_id": 3968,
@@ -881,7 +881,7 @@
             "state": "future"
           }
         ],
-        "last_update": "21 January 2026"
+        "last_update": "23 January 2026"
       },
       "enacted": null,
       "parliament_id": 4022,
@@ -973,7 +973,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 7 days"
+        "enacted_for": "1 year, 8 days"
       },
       "parliament_id": 3735,
       "context_url": null
@@ -994,7 +994,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 7 days"
+        "enacted_for": "1 year, 8 days"
       },
       "parliament_id": 3744,
       "context_url": null
@@ -1005,7 +1005,7 @@
         "short": "National",
         "title": "National security and serving the country"
       },
-      "title": "Holocaust Memorial Bill",
+      "title": "Holocaust Memorial Act",
       "descriptions": {
         "theguardian": "<p>To establish a national Holocaust memorial and learning centre next to parliament.</p>",
         "ft": null,
@@ -1013,24 +1013,10 @@
       },
       "display_stage": "final",
       "seq_stage": "final",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Lords",
-            "state": "passed"
-          },
-          {
-            "stage": "Assent",
-            "state": "passing"
-          }
-        ],
-        "last_update": "22 January 2026"
+      "progress": null,
+      "enacted": {
+        "enacted_for": "2 days"
       },
-      "enacted": null,
       "parliament_id": 3421,
       "context_url": null
     }
