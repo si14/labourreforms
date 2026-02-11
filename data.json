@@ -1,9 +1,9 @@
 {
-  "last_update": "10 February 2026",
+  "last_update": "11 February 2026",
   "stats": {
     "total": 40,
-    "lords": 8,
-    "commons": 5,
+    "lords": 7,
+    "commons": 6,
     "final": 0,
     "enacted": 22
   },
@@ -77,7 +77,7 @@
             "state": "future"
           }
         ],
-        "last_update": "06 February 2026"
+        "last_update": "10 February 2026"
       },
       "enacted": null,
       "parliament_id": 3982,
@@ -175,7 +175,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 February 2026"
+        "last_update": "10 February 2026"
       },
       "enacted": null,
       "parliament_id": 4030,
@@ -277,24 +277,24 @@
         "ft": null,
         "parliament": "<p>A Bill to make provision about the safeguarding and welfare of children; about support for children in care or leaving care; about regulation of care workers; about regulation of establishments and agencies under Part 2 of the Care Standards Act 2000; about employment of children; about breakfast club provision and school uniform; about attendance of children at school; about regulation of independent educational institutions; about inspections of schools and colleges; about teacher misconduct; about Academies and teachers at Academies; repealing section 128 of the Education Act 2002; about school places and admissions; about establishing new schools; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "06 February 2026"
+        "last_update": "10 February 2026"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -348,7 +348,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 February 2026"
+        "last_update": "10 February 2026"
       },
       "enacted": null,
       "parliament_id": 4002,
@@ -619,7 +619,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 February 2026"
+        "last_update": "10 February 2026"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -675,7 +675,7 @@
             "state": "future"
           }
         ],
-        "last_update": "06 February 2026"
+        "last_update": "10 February 2026"
       },
       "enacted": null,
       "parliament_id": 3968,
@@ -769,7 +769,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 February 2026"
+        "last_update": "10 February 2026"
       },
       "enacted": null,
       "parliament_id": 3879,
@@ -881,7 +881,7 @@
             "state": "future"
           }
         ],
-        "last_update": "05 February 2026"
+        "last_update": "10 February 2026"
       },
       "enacted": null,
       "parliament_id": 4022,
@@ -951,7 +951,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 February 2026"
+        "last_update": "10 February 2026"
       },
       "enacted": null,
       "parliament_id": 4035,
@@ -973,7 +973,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 25 days"
+        "enacted_for": "1 year, 26 days"
       },
       "parliament_id": 3735,
       "context_url": null
@@ -994,7 +994,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 25 days"
+        "enacted_for": "1 year, 26 days"
       },
       "parliament_id": 3744,
       "context_url": null
@@ -1015,7 +1015,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "19 days"
+        "enacted_for": "20 days"
       },
       "parliament_id": 3421,
       "context_url": null
