@@ -1,10 +1,10 @@
 {
-  "last_update": "04 March 2026",
+  "last_update": "05 March 2026",
   "stats": {
     "total": 40,
     "lords": 6,
-    "commons": 7,
-    "final": 0,
+    "commons": 6,
+    "final": 1,
     "enacted": 22
   },
   "bills": [
@@ -77,7 +77,7 @@
             "state": "future"
           }
         ],
-        "last_update": "02 March 2026"
+        "last_update": "04 March 2026"
       },
       "enacted": null,
       "parliament_id": 3982,
@@ -175,7 +175,7 @@
             "state": "future"
           }
         ],
-        "last_update": "03 March 2026"
+        "last_update": "04 March 2026"
       },
       "enacted": null,
       "parliament_id": 4030,
@@ -218,7 +218,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 8 days"
+        "enacted_for": "1 year, 9 days"
       },
       "parliament_id": 3751,
       "context_url": null
@@ -294,7 +294,7 @@
             "state": "future"
           }
         ],
-        "last_update": "03 March 2026"
+        "last_update": "04 March 2026"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -348,7 +348,7 @@
             "state": "future"
           }
         ],
-        "last_update": "03 March 2026"
+        "last_update": "04 March 2026"
       },
       "enacted": null,
       "parliament_id": 4002,
@@ -468,7 +468,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 8 days"
+        "enacted_for": "1 year, 9 days"
       },
       "parliament_id": 3733,
       "context_url": null
@@ -567,24 +567,24 @@
         "ft": null,
         "parliament": "<p>A Bill to Make provision about sustainable aviation fuel.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "final",
+      "seq_stage": "final",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passed"
           },
           {
             "stage": "Assent",
-            "state": "future"
+            "state": "passing"
           }
         ],
-        "last_update": "03 March 2026"
+        "last_update": "04 March 2026"
       },
       "enacted": null,
       "parliament_id": 3972,
@@ -619,7 +619,7 @@
             "state": "future"
           }
         ],
-        "last_update": "03 March 2026"
+        "last_update": "04 March 2026"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -641,7 +641,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "10 months"
+        "enacted_for": "11 months"
       },
       "parliament_id": 3765,
       "context_url": null
@@ -675,7 +675,7 @@
             "state": "future"
           }
         ],
-        "last_update": "02 March 2026"
+        "last_update": "04 March 2026"
       },
       "enacted": null,
       "parliament_id": 3968,
@@ -769,7 +769,7 @@
             "state": "future"
           }
         ],
-        "last_update": "27 February 2026"
+        "last_update": "04 March 2026"
       },
       "enacted": null,
       "parliament_id": 3879,
@@ -847,7 +847,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "5 months"
+        "enacted_for": "6 months"
       },
       "parliament_id": 3881,
       "context_url": null
@@ -916,7 +916,7 @@
             "state": "future"
           }
         ],
-        "last_update": "30 September 2025"
+        "last_update": "04 March 2026"
       },
       "enacted": null,
       "parliament_id": 3755,
