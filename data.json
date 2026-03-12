@@ -1,10 +1,10 @@
 {
-  "last_update": "11 March 2026",
+  "last_update": "12 March 2026",
   "stats": {
     "total": 40,
     "lords": 5,
-    "commons": 7,
-    "final": 0,
+    "commons": 6,
+    "final": 1,
     "enacted": 23
   },
   "bills": [
@@ -24,7 +24,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 5 months"
+        "enacted_for": "1 year, 6 months"
       },
       "parliament_id": 3731,
       "context_url": null
@@ -77,7 +77,7 @@
             "state": "future"
           }
         ],
-        "last_update": "10 March 2026"
+        "last_update": "11 March 2026"
       },
       "enacted": null,
       "parliament_id": 3982,
@@ -175,7 +175,7 @@
             "state": "future"
           }
         ],
-        "last_update": "10 March 2026"
+        "last_update": "11 March 2026"
       },
       "enacted": null,
       "parliament_id": 4030,
@@ -218,7 +218,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 15 days"
+        "enacted_for": "1 year, 16 days"
       },
       "parliament_id": 3751,
       "context_url": null
@@ -277,24 +277,24 @@
         "ft": null,
         "parliament": "<p>A Bill to make provision about the safeguarding and welfare of children; about support for children in care or leaving care; about regulation of care workers; about regulation of establishments and agencies under Part 2 of the Care Standards Act 2000; about employment of children; about breakfast club provision and school uniform; about attendance of children at school; about regulation of independent educational institutions; about inspections of schools and colleges; about teacher misconduct; about Academies and teachers at Academies; repealing section 128 of the Education Act 2002; about school places and admissions; about establishing new schools; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "10 March 2026"
+        "last_update": "11 March 2026"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -348,7 +348,7 @@
             "state": "future"
           }
         ],
-        "last_update": "10 March 2026"
+        "last_update": "11 March 2026"
       },
       "enacted": null,
       "parliament_id": 4002,
@@ -468,7 +468,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 15 days"
+        "enacted_for": "1 year, 16 days"
       },
       "parliament_id": 3733,
       "context_url": null
@@ -550,7 +550,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "a year"
+        "enacted_for": "1 year, 1 day"
       },
       "parliament_id": 3739,
       "context_url": null
@@ -571,7 +571,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "6 days"
+        "enacted_for": "7 days"
       },
       "parliament_id": 3972,
       "context_url": null
@@ -605,7 +605,7 @@
             "state": "future"
           }
         ],
-        "last_update": "10 March 2026"
+        "last_update": "11 March 2026"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -661,7 +661,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 March 2026"
+        "last_update": "11 March 2026"
       },
       "enacted": null,
       "parliament_id": 3968,
@@ -885,8 +885,8 @@
         "ft": "<p>Hereditary peers — around 92 male Lords entitled to seats as members of the British aristocracy — will no longer be able to sit and vote in the chamber. The government said reform was “long overdue and essential”. These peers will still be allowed to keep their passes to the Westminster estate, nicknamed the “best club in London”.</p>",
         "parliament": "<p>A Bill to remove the remaining connection between hereditary peerage and membership of the House of Lords; to make provision about resignation from the House of Lords; to abolish the jurisdiction of the House of Lords in relation to claims to hereditary peerages; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "final",
+      "seq_stage": "final",
       "progress": {
         "stages": [
           {
@@ -895,14 +895,14 @@
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Assent",
-            "state": "future"
+            "state": "passing"
           }
         ],
-        "last_update": "09 March 2026"
+        "last_update": "11 March 2026"
       },
       "enacted": null,
       "parliament_id": 3755,
