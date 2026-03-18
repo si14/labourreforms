@@ -1,5 +1,5 @@
 {
-  "last_update": "17 March 2026",
+  "last_update": "18 March 2026",
   "stats": {
     "total": 40,
     "lords": 5,
@@ -77,7 +77,7 @@
             "state": "future"
           }
         ],
-        "last_update": "13 March 2026"
+        "last_update": "17 March 2026"
       },
       "enacted": null,
       "parliament_id": 3982,
@@ -175,7 +175,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 March 2026"
+        "last_update": "17 March 2026"
       },
       "enacted": null,
       "parliament_id": 4030,
@@ -218,7 +218,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 21 days"
+        "enacted_for": "1 year, 22 days"
       },
       "parliament_id": 3751,
       "context_url": null
@@ -348,7 +348,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 March 2026"
+        "last_update": "17 March 2026"
       },
       "enacted": null,
       "parliament_id": 4002,
@@ -468,7 +468,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 21 days"
+        "enacted_for": "1 year, 22 days"
       },
       "parliament_id": 3733,
       "context_url": null
@@ -550,7 +550,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 6 days"
+        "enacted_for": "1 year, 7 days"
       },
       "parliament_id": 3739,
       "context_url": null
@@ -571,7 +571,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "12 days"
+        "enacted_for": "13 days"
       },
       "parliament_id": 3972,
       "context_url": null
@@ -605,7 +605,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 March 2026"
+        "last_update": "17 March 2026"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -902,7 +902,7 @@
             "state": "passing"
           }
         ],
-        "last_update": "11 March 2026"
+        "last_update": "17 March 2026"
       },
       "enacted": null,
       "parliament_id": 3755,
@@ -937,7 +937,7 @@
             "state": "future"
           }
         ],
-        "last_update": "09 March 2026"
+        "last_update": "17 March 2026"
       },
       "enacted": null,
       "parliament_id": 4035,
@@ -959,7 +959,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 1 month"
+        "enacted_for": "1 year, 2 months"
       },
       "parliament_id": 3735,
       "context_url": null
@@ -980,7 +980,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 1 month"
+        "enacted_for": "1 year, 2 months"
       },
       "parliament_id": 3744,
       "context_url": null
