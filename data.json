@@ -1,9 +1,9 @@
 {
-  "last_update": "25 March 2026",
+  "last_update": "26 March 2026",
   "stats": {
     "total": 40,
-    "lords": 5,
-    "commons": 6,
+    "lords": 6,
+    "commons": 5,
     "final": 0,
     "enacted": 24
   },
@@ -77,7 +77,7 @@
             "state": "future"
           }
         ],
-        "last_update": "24 March 2026"
+        "last_update": "25 March 2026"
       },
       "enacted": null,
       "parliament_id": 3982,
@@ -175,7 +175,7 @@
             "state": "future"
           }
         ],
-        "last_update": "24 March 2026"
+        "last_update": "25 March 2026"
       },
       "enacted": null,
       "parliament_id": 4030,
@@ -218,7 +218,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 29 days"
+        "enacted_for": "1 year, 30 days"
       },
       "parliament_id": 3751,
       "context_url": null
@@ -348,7 +348,7 @@
             "state": "future"
           }
         ],
-        "last_update": "24 March 2026"
+        "last_update": "25 March 2026"
       },
       "enacted": null,
       "parliament_id": 4002,
@@ -468,7 +468,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 29 days"
+        "enacted_for": "1 year, 30 days"
       },
       "parliament_id": 3733,
       "context_url": null
@@ -550,7 +550,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 14 days"
+        "enacted_for": "1 year, 15 days"
       },
       "parliament_id": 3739,
       "context_url": null
@@ -571,7 +571,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "20 days"
+        "enacted_for": "21 days"
       },
       "parliament_id": 3972,
       "context_url": null
@@ -605,7 +605,7 @@
             "state": "future"
           }
         ],
-        "last_update": "24 March 2026"
+        "last_update": "25 March 2026"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -644,24 +644,24 @@
         "ft": null,
         "parliament": "<p>A Bill to Make provision about the experience of victims within the criminal justice system; about the functions of the Commissioner for Victims and Witnesses; and about procedure and the administration of criminal justice.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "24 March 2026"
+        "last_update": "25 March 2026"
       },
       "enacted": null,
       "parliament_id": 3968,
@@ -889,7 +889,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "7 days"
+        "enacted_for": "8 days"
       },
       "parliament_id": 3755,
       "context_url": null
@@ -923,7 +923,7 @@
             "state": "future"
           }
         ],
-        "last_update": "24 March 2026"
+        "last_update": "25 March 2026"
       },
       "enacted": null,
       "parliament_id": 4035,
