@@ -1,9 +1,9 @@
 {
-  "last_update": "26 March 2026",
+  "last_update": "27 March 2026",
   "stats": {
     "total": 40,
-    "lords": 6,
-    "commons": 5,
+    "lords": 3,
+    "commons": 8,
     "final": 0,
     "enacted": 24
   },
@@ -60,24 +60,24 @@
         "ft": "<p>Legislation will place an emphasis on preventing people losing track of various small pension pots by consolidating them. This move will help tackle a problem affecting some 2.8mn pots, according to the Pensions Policy Institute, a think-tank. An accompanying value for money framework is aimed at encouraging better pension fund performance in the interest of economic growth.</p>",
         "parliament": "<p>A Bill to make provision about pension schemes; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "25 March 2026"
+        "last_update": "26 March 2026"
       },
       "enacted": null,
       "parliament_id": 3982,
@@ -175,7 +175,7 @@
             "state": "future"
           }
         ],
-        "last_update": "25 March 2026"
+        "last_update": "26 March 2026"
       },
       "enacted": null,
       "parliament_id": 4030,
@@ -218,7 +218,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 30 days"
+        "enacted_for": "1 year, 1 month"
       },
       "parliament_id": 3751,
       "context_url": null
@@ -277,24 +277,24 @@
         "ft": null,
         "parliament": "<p>A Bill to make provision about the safeguarding and welfare of children; about support for children in care or leaving care; about regulation of care workers; about regulation of establishments and agencies under Part 2 of the Care Standards Act 2000; about employment of children; about breakfast club provision and school uniform; about attendance of children at school; about regulation of independent educational institutions; about inspections of schools and colleges; about teacher misconduct; about Academies and teachers at Academies; repealing section 128 of the Education Act 2002; about school places and admissions; about establishing new schools; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "24 March 2026"
+        "last_update": "26 March 2026"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -348,7 +348,7 @@
             "state": "future"
           }
         ],
-        "last_update": "25 March 2026"
+        "last_update": "26 March 2026"
       },
       "enacted": null,
       "parliament_id": 4002,
@@ -468,7 +468,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 30 days"
+        "enacted_for": "1 year, 1 month"
       },
       "parliament_id": 3733,
       "context_url": null
@@ -550,7 +550,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 15 days"
+        "enacted_for": "1 year, 16 days"
       },
       "parliament_id": 3739,
       "context_url": null
@@ -571,7 +571,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "21 days"
+        "enacted_for": "22 days"
       },
       "parliament_id": 3972,
       "context_url": null
@@ -588,24 +588,24 @@
         "ft": "<p>This will expand the powers of HM Inspectorate of Constabulary and Fire & Rescue Services to intervene in failing police forces and will introduce higher mandatory national vetting standards across policing.</p>",
         "parliament": "<p>A Bill to make provision about anti-social behaviour, offensive weapons, offences against people (including sexual offences), property offences, the criminal exploitation of persons, sex offenders, stalking and public order; to make provision about powers of the police, the border force and other similar persons; to make provision about confiscation; to make provision about the police; to make provision about terrorism and national security, and about international agreements relating to crime; to make provision about the criminal liability of bodies; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "25 March 2026"
+        "last_update": "26 March 2026"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -661,7 +661,7 @@
             "state": "future"
           }
         ],
-        "last_update": "25 March 2026"
+        "last_update": "26 March 2026"
       },
       "enacted": null,
       "parliament_id": 3968,
@@ -867,7 +867,7 @@
             "state": "future"
           }
         ],
-        "last_update": "24 March 2026"
+        "last_update": "26 March 2026"
       },
       "enacted": null,
       "parliament_id": 4022,
@@ -889,7 +889,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "8 days"
+        "enacted_for": "9 days"
       },
       "parliament_id": 3755,
       "context_url": null
@@ -923,7 +923,7 @@
             "state": "future"
           }
         ],
-        "last_update": "25 March 2026"
+        "last_update": "26 March 2026"
       },
       "enacted": null,
       "parliament_id": 4035,
