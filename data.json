@@ -1,9 +1,9 @@
 {
-  "last_update": "14 April 2026",
+  "last_update": "15 April 2026",
   "stats": {
     "total": 40,
-    "lords": 3,
-    "commons": 8,
+    "lords": 2,
+    "commons": 9,
     "final": 0,
     "enacted": 24
   },
@@ -175,7 +175,7 @@
             "state": "future"
           }
         ],
-        "last_update": "10 April 2026"
+        "last_update": "15 April 2026"
       },
       "enacted": null,
       "parliament_id": 4030,
@@ -348,7 +348,7 @@
             "state": "future"
           }
         ],
-        "last_update": "13 April 2026"
+        "last_update": "14 April 2026"
       },
       "enacted": null,
       "parliament_id": 4002,
@@ -627,7 +627,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 11 days"
+        "enacted_for": "1 year, 12 days"
       },
       "parliament_id": 3765,
       "context_url": null
@@ -644,24 +644,24 @@
         "ft": null,
         "parliament": "<p>A Bill to Make provision about the experience of victims within the criminal justice system; about the functions of the Commissioner for Victims and Witnesses; and about procedure and the administration of criminal justice.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "09 April 2026"
+        "last_update": "14 April 2026"
       },
       "enacted": null,
       "parliament_id": 3968,
@@ -889,7 +889,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "27 days"
+        "enacted_for": "28 days"
       },
       "parliament_id": 3755,
       "context_url": null
