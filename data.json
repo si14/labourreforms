@@ -1,9 +1,9 @@
 {
-  "last_update": "15 April 2026",
+  "last_update": "16 April 2026",
   "stats": {
     "total": 40,
-    "lords": 2,
-    "commons": 9,
+    "lords": 3,
+    "commons": 8,
     "final": 0,
     "enacted": 24
   },
@@ -77,7 +77,7 @@
             "state": "future"
           }
         ],
-        "last_update": "14 April 2026"
+        "last_update": "15 April 2026"
       },
       "enacted": null,
       "parliament_id": 3982,
@@ -197,7 +197,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "10 months"
+        "enacted_for": "11 months"
       },
       "parliament_id": 3738,
       "context_url": null
@@ -294,7 +294,7 @@
             "state": "future"
           }
         ],
-        "last_update": "14 April 2026"
+        "last_update": "15 April 2026"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -348,7 +348,7 @@
             "state": "future"
           }
         ],
-        "last_update": "14 April 2026"
+        "last_update": "15 April 2026"
       },
       "enacted": null,
       "parliament_id": 4002,
@@ -426,7 +426,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "10 months"
+        "enacted_for": "11 months"
       },
       "parliament_id": 3772,
       "context_url": null
@@ -447,7 +447,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "10 months"
+        "enacted_for": "11 months"
       },
       "parliament_id": 3734,
       "context_url": null
@@ -588,24 +588,24 @@
         "ft": "<p>This will expand the powers of HM Inspectorate of Constabulary and Fire & Rescue Services to intervene in failing police forces and will introduce higher mandatory national vetting standards across policing.</p>",
         "parliament": "<p>A Bill to make provision about anti-social behaviour, offensive weapons, offences against people (including sexual offences), property offences, the criminal exploitation of persons, sex offenders, stalking and public order; to make provision about powers of the police, the border force and other similar persons; to make provision about confiscation; to make provision about the police; to make provision about terrorism and national security, and about international agreements relating to crime; to make provision about the criminal liability of bodies; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "14 April 2026"
+        "last_update": "15 April 2026"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -627,7 +627,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 12 days"
+        "enacted_for": "1 year, 13 days"
       },
       "parliament_id": 3765,
       "context_url": null
@@ -755,7 +755,7 @@
             "state": "future"
           }
         ],
-        "last_update": "13 April 2026"
+        "last_update": "15 April 2026"
       },
       "enacted": null,
       "parliament_id": 3879,
@@ -889,7 +889,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "28 days"
+        "enacted_for": "29 days"
       },
       "parliament_id": 3755,
       "context_url": null
@@ -923,7 +923,7 @@
             "state": "future"
           }
         ],
-        "last_update": "14 April 2026"
+        "last_update": "15 April 2026"
       },
       "enacted": null,
       "parliament_id": 4035,
