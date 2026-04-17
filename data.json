@@ -1,5 +1,5 @@
 {
-  "last_update": "16 April 2026",
+  "last_update": "17 April 2026",
   "stats": {
     "total": 40,
     "lords": 3,
@@ -60,24 +60,24 @@
         "ft": "<p>Legislation will place an emphasis on preventing people losing track of various small pension pots by consolidating them. This move will help tackle a problem affecting some 2.8mn pots, according to the Pensions Policy Institute, a think-tank. An accompanying value for money framework is aimed at encouraging better pension fund performance in the interest of economic growth.</p>",
         "parliament": "<p>A Bill to make provision about pension schemes; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "15 April 2026"
+        "last_update": "16 April 2026"
       },
       "enacted": null,
       "parliament_id": 3982,
@@ -275,26 +275,26 @@
       "descriptions": {
         "theguardian": "<p>Introduces free breakfast clubs in primary schools as well as efforts to make uniforms cheaper.</p>",
         "ft": null,
-        "parliament": "<p>A Bill to make provision about the safeguarding and welfare of children; about support for children in care or leaving care; about regulation of care workers; about regulation of establishments and agencies under Part 2 of the Care Standards Act 2000; about employment of children; about breakfast club provision and school uniform; about attendance of children at school; about regulation of independent educational institutions; about inspections of schools and colleges; about teacher misconduct; about Academies and teachers at Academies; repealing section 128 of the Education Act 2002; about school places and admissions; about establishing new schools; and for connected purposes.</p>"
+        "parliament": "<p>A Bill to make provision about the safeguarding and welfare of children; about support for children in care or leaving care; about regulation of care workers; about regulation of establishments and agencies under Part 2 of the Care Standards Act 2000; about employment of children; about breakfast club provision and school uniform; about guidance relating to use of mobile phones and other interactive communication devices in schools; about attendance of children at school; about regulation of independent educational institutions; about inspections of schools and colleges; about teacher misconduct; about Academies and teachers at Academies; repealing section 128 of the Education Act 2002; about school places and admissions; about establishing new schools; about preventing or restricting access by children to internet services; about the age of consent in relation to processing of a child's personal data in relation to information society services; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "15 April 2026"
+        "last_update": "16 April 2026"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -331,24 +331,24 @@
         "ft": "<p>The government has promised to make the devolution of powers a default setting for England’s regions. Legislation will establish a new framework to move power out of Westminster, with the aim of empowering local leaders to make decisions over infrastructure planning, transport, skills and employment support.</p>",
         "parliament": "<p>A Bill to make provision about combined authorities, combined county authorities, the Greater London Authority, local councils, police and crime commissioners and fire and rescue authorities, local audit and terms in business tenancies about rent.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "15 April 2026"
+        "last_update": "16 April 2026"
       },
       "enacted": null,
       "parliament_id": 4002,
@@ -588,24 +588,24 @@
         "ft": "<p>This will expand the powers of HM Inspectorate of Constabulary and Fire & Rescue Services to intervene in failing police forces and will introduce higher mandatory national vetting standards across policing.</p>",
         "parliament": "<p>A Bill to make provision about anti-social behaviour, offensive weapons, offences against people (including sexual offences), property offences, the criminal exploitation of persons, sex offenders, stalking and public order; to make provision about powers of the police, the border force and other similar persons; to make provision about confiscation; to make provision about the police; to make provision about terrorism and national security, and about international agreements relating to crime; to make provision about the criminal liability of bodies; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "15 April 2026"
+        "last_update": "16 April 2026"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -627,7 +627,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 13 days"
+        "enacted_for": "1 year, 14 days"
       },
       "parliament_id": 3765,
       "context_url": null
@@ -661,7 +661,7 @@
             "state": "future"
           }
         ],
-        "last_update": "14 April 2026"
+        "last_update": "16 April 2026"
       },
       "enacted": null,
       "parliament_id": 3968,
@@ -867,7 +867,7 @@
             "state": "future"
           }
         ],
-        "last_update": "10 April 2026"
+        "last_update": "16 April 2026"
       },
       "enacted": null,
       "parliament_id": 4022,
@@ -889,7 +889,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "29 days"
+        "enacted_for": "30 days"
       },
       "parliament_id": 3755,
       "context_url": null
