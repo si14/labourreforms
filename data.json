@@ -1,5 +1,5 @@
 {
-  "last_update": "17 April 2026",
+  "last_update": "18 April 2026",
   "stats": {
     "total": 40,
     "lords": 3,
@@ -77,7 +77,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 April 2026"
+        "last_update": "17 April 2026"
       },
       "enacted": null,
       "parliament_id": 3982,
@@ -294,7 +294,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 April 2026"
+        "last_update": "17 April 2026"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -348,7 +348,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 April 2026"
+        "last_update": "17 April 2026"
       },
       "enacted": null,
       "parliament_id": 4002,
@@ -605,7 +605,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 April 2026"
+        "last_update": "17 April 2026"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -627,7 +627,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 14 days"
+        "enacted_for": "1 year, 15 days"
       },
       "parliament_id": 3765,
       "context_url": null
@@ -661,7 +661,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 April 2026"
+        "last_update": "17 April 2026"
       },
       "enacted": null,
       "parliament_id": 3968,
@@ -755,7 +755,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 April 2026"
+        "last_update": "17 April 2026"
       },
       "enacted": null,
       "parliament_id": 3879,
@@ -889,7 +889,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "30 days"
+        "enacted_for": "a month"
       },
       "parliament_id": 3755,
       "context_url": null
@@ -945,7 +945,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 2 months"
+        "enacted_for": "1 year, 3 months"
       },
       "parliament_id": 3735,
       "context_url": null
@@ -966,7 +966,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 2 months"
+        "enacted_for": "1 year, 3 months"
       },
       "parliament_id": 3744,
       "context_url": null
