@@ -1,9 +1,9 @@
 {
-  "last_update": "20 April 2026",
+  "last_update": "21 April 2026",
   "stats": {
     "total": 40,
-    "lords": 3,
-    "commons": 8,
+    "lords": 1,
+    "commons": 10,
     "final": 0,
     "enacted": 24
   },
@@ -60,24 +60,24 @@
         "ft": "<p>Legislation will place an emphasis on preventing people losing track of various small pension pots by consolidating them. This move will help tackle a problem affecting some 2.8mn pots, according to the Pensions Policy Institute, a think-tank. An accompanying value for money framework is aimed at encouraging better pension fund performance in the interest of economic growth.</p>",
         "parliament": "<p>A Bill to make provision about pension schemes; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "17 April 2026"
+        "last_update": "20 April 2026"
       },
       "enacted": null,
       "parliament_id": 3982,
@@ -175,7 +175,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 April 2026"
+        "last_update": "21 April 2026"
       },
       "enacted": null,
       "parliament_id": 4030,
@@ -277,24 +277,24 @@
         "ft": null,
         "parliament": "<p>A Bill to make provision about the safeguarding and welfare of children; about support for children in care or leaving care; about regulation of care workers; about regulation of establishments and agencies under Part 2 of the Care Standards Act 2000; about employment of children; about breakfast club provision and school uniform; about guidance relating to use of mobile phones and other interactive communication devices in schools; about attendance of children at school; about regulation of independent educational institutions; about inspections of schools and colleges; about teacher misconduct; about Academies and teachers at Academies; repealing section 128 of the Education Act 2002; about school places and admissions; about establishing new schools; about preventing or restricting access by children to internet services; about the age of consent in relation to processing of a child's personal data in relation to information society services; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "17 April 2026"
+        "last_update": "20 April 2026"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -348,7 +348,7 @@
             "state": "future"
           }
         ],
-        "last_update": "17 April 2026"
+        "last_update": "21 April 2026"
       },
       "enacted": null,
       "parliament_id": 4002,
@@ -605,7 +605,7 @@
             "state": "future"
           }
         ],
-        "last_update": "17 April 2026"
+        "last_update": "21 April 2026"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -627,7 +627,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 17 days"
+        "enacted_for": "1 year, 18 days"
       },
       "parliament_id": 3765,
       "context_url": null
@@ -661,7 +661,7 @@
             "state": "future"
           }
         ],
-        "last_update": "17 April 2026"
+        "last_update": "20 April 2026"
       },
       "enacted": null,
       "parliament_id": 3968,
@@ -755,7 +755,7 @@
             "state": "future"
           }
         ],
-        "last_update": "17 April 2026"
+        "last_update": "20 April 2026"
       },
       "enacted": null,
       "parliament_id": 3879,
@@ -811,7 +811,7 @@
             "state": "future"
           }
         ],
-        "last_update": "14 April 2026"
+        "last_update": "20 April 2026"
       },
       "enacted": null,
       "parliament_id": 4019,
@@ -867,7 +867,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 April 2026"
+        "last_update": "20 April 2026"
       },
       "enacted": null,
       "parliament_id": 4022,
