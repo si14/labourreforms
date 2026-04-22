@@ -1,10 +1,10 @@
 {
-  "last_update": "21 April 2026",
+  "last_update": "22 April 2026",
   "stats": {
     "total": 40,
-    "lords": 1,
+    "lords": 0,
     "commons": 10,
-    "final": 0,
+    "final": 1,
     "enacted": 24
   },
   "bills": [
@@ -77,7 +77,7 @@
             "state": "future"
           }
         ],
-        "last_update": "20 April 2026"
+        "last_update": "21 April 2026"
       },
       "enacted": null,
       "parliament_id": 3982,
@@ -294,7 +294,7 @@
             "state": "future"
           }
         ],
-        "last_update": "20 April 2026"
+        "last_update": "21 April 2026"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -489,7 +489,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "8 months"
+        "enacted_for": "9 months"
       },
       "parliament_id": 3752,
       "context_url": null
@@ -627,7 +627,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 18 days"
+        "enacted_for": "1 year, 19 days"
       },
       "parliament_id": 3765,
       "context_url": null
@@ -661,7 +661,7 @@
             "state": "future"
           }
         ],
-        "last_update": "20 April 2026"
+        "last_update": "21 April 2026"
       },
       "enacted": null,
       "parliament_id": 3968,
@@ -683,7 +683,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "8 months"
+        "enacted_for": "9 months"
       },
       "parliament_id": 3832,
       "context_url": null
@@ -738,8 +738,8 @@
         "ft": "<p>Labour is rolling over a previous Conservative bill that will gradually introduce a smoking ban for people born after January 2009. It will also crack down on child-friendly marketing of vapes.</p>",
         "parliament": "<p>A Bill to make provision about the supply of tobacco, vapes and other products, including provision prohibiting the sale of tobacco to people born on or after 1 January 2009 and provision about the licensing of retail sales and the registration of retailers; to enable product and information requirements to be imposed in connection with tobacco, vapes and other products; to control the advertising and promotion of tobacco, vapes and other products; and to make provision about smoke-free places, vape-free places and heated tobacco-free places.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "final",
+      "seq_stage": "final",
       "progress": {
         "stages": [
           {
@@ -748,14 +748,14 @@
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Assent",
-            "state": "future"
+            "state": "passing"
           }
         ],
-        "last_update": "20 April 2026"
+        "last_update": "21 April 2026"
       },
       "enacted": null,
       "parliament_id": 3879,
