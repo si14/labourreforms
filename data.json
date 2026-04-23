@@ -1,9 +1,9 @@
 {
-  "last_update": "22 April 2026",
+  "last_update": "23 April 2026",
   "stats": {
     "total": 40,
-    "lords": 0,
-    "commons": 10,
+    "lords": 3,
+    "commons": 7,
     "final": 1,
     "enacted": 24
   },
@@ -60,24 +60,24 @@
         "ft": "<p>Legislation will place an emphasis on preventing people losing track of various small pension pots by consolidating them. This move will help tackle a problem affecting some 2.8mn pots, according to the Pensions Policy Institute, a think-tank. An accompanying value for money framework is aimed at encouraging better pension fund performance in the interest of economic growth.</p>",
         "parliament": "<p>A Bill to make provision about pension schemes; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "21 April 2026"
+        "last_update": "22 April 2026"
       },
       "enacted": null,
       "parliament_id": 3982,
@@ -294,7 +294,7 @@
             "state": "future"
           }
         ],
-        "last_update": "21 April 2026"
+        "last_update": "22 April 2026"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -331,24 +331,24 @@
         "ft": "<p>The government has promised to make the devolution of powers a default setting for England’s regions. Legislation will establish a new framework to move power out of Westminster, with the aim of empowering local leaders to make decisions over infrastructure planning, transport, skills and employment support.</p>",
         "parliament": "<p>A Bill to make provision about combined authorities, combined county authorities, the Greater London Authority, local councils, police and crime commissioners and fire and rescue authorities, local audit and terms in business tenancies about rent.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "21 April 2026"
+        "last_update": "22 April 2026"
       },
       "enacted": null,
       "parliament_id": 4002,
@@ -605,7 +605,7 @@
             "state": "future"
           }
         ],
-        "last_update": "21 April 2026"
+        "last_update": "22 April 2026"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -627,7 +627,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 19 days"
+        "enacted_for": "1 year, 20 days"
       },
       "parliament_id": 3765,
       "context_url": null
@@ -644,24 +644,24 @@
         "ft": null,
         "parliament": "<p>A Bill to Make provision about the experience of victims within the criminal justice system; about the functions of the Commissioner for Victims and Witnesses; and about procedure and the administration of criminal justice.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "21 April 2026"
+        "last_update": "22 April 2026"
       },
       "enacted": null,
       "parliament_id": 3968,
