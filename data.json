@@ -1,10 +1,10 @@
 {
-  "last_update": "24 April 2026",
+  "last_update": "25 April 2026",
   "stats": {
     "total": 40,
-    "lords": 3,
+    "lords": 2,
     "commons": 7,
-    "final": 1,
+    "final": 2,
     "enacted": 24
   },
   "bills": [
@@ -77,7 +77,7 @@
             "state": "future"
           }
         ],
-        "last_update": "23 April 2026"
+        "last_update": "24 April 2026"
       },
       "enacted": null,
       "parliament_id": 3982,
@@ -294,7 +294,7 @@
             "state": "future"
           }
         ],
-        "last_update": "23 April 2026"
+        "last_update": "24 April 2026"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -348,7 +348,7 @@
             "state": "future"
           }
         ],
-        "last_update": "23 April 2026"
+        "last_update": "24 April 2026"
       },
       "enacted": null,
       "parliament_id": 4002,
@@ -605,7 +605,7 @@
             "state": "future"
           }
         ],
-        "last_update": "23 April 2026"
+        "last_update": "24 April 2026"
       },
       "enacted": null,
       "parliament_id": 3938,
@@ -627,7 +627,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 21 days"
+        "enacted_for": "1 year, 22 days"
       },
       "parliament_id": 3765,
       "context_url": null
@@ -644,8 +644,8 @@
         "ft": null,
         "parliament": "<p>A Bill to Make provision about the experience of victims within the criminal justice system; about the functions of the Commissioner for Victims and Witnesses; and about procedure and the administration of criminal justice.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "final",
+      "seq_stage": "final",
       "progress": {
         "stages": [
           {
@@ -654,14 +654,14 @@
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Assent",
-            "state": "future"
+            "state": "passing"
           }
         ],
-        "last_update": "22 April 2026"
+        "last_update": "24 April 2026"
       },
       "enacted": null,
       "parliament_id": 3968,
