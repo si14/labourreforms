@@ -1,9 +1,9 @@
 {
-  "last_update": "27 April 2026",
+  "last_update": "28 April 2026",
   "stats": {
     "total": 40,
-    "lords": 2,
-    "commons": 7,
+    "lords": 0,
+    "commons": 9,
     "final": 2,
     "enacted": 24
   },
@@ -60,24 +60,24 @@
         "ft": "<p>Legislation will place an emphasis on preventing people losing track of various small pension pots by consolidating them. This move will help tackle a problem affecting some 2.8mn pots, according to the Pensions Policy Institute, a think-tank. An accompanying value for money framework is aimed at encouraging better pension fund performance in the interest of economic growth.</p>",
         "parliament": "<p>A Bill to make provision about pension schemes; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "24 April 2026"
+        "last_update": "28 April 2026"
       },
       "enacted": null,
       "parliament_id": 3982,
@@ -175,7 +175,7 @@
             "state": "future"
           }
         ],
-        "last_update": "23 April 2026"
+        "last_update": "28 April 2026"
       },
       "enacted": null,
       "parliament_id": 4030,
@@ -239,7 +239,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "5 months"
+        "enacted_for": "6 months"
       },
       "parliament_id": 3910,
       "context_url": null
@@ -260,7 +260,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "5 months"
+        "enacted_for": "6 months"
       },
       "parliament_id": 3764,
       "context_url": null
@@ -294,7 +294,7 @@
             "state": "future"
           }
         ],
-        "last_update": "24 April 2026"
+        "last_update": "27 April 2026"
       },
       "enacted": null,
       "parliament_id": 3909,
@@ -331,24 +331,24 @@
         "ft": "<p>The government has promised to make the devolution of powers a default setting for England’s regions. Legislation will establish a new framework to move power out of Westminster, with the aim of empowering local leaders to make decisions over infrastructure planning, transport, skills and employment support.</p>",
         "parliament": "<p>A Bill to make provision about combined authorities, combined county authorities, the Greater London Authority, local councils, police and crime commissioners and fire and rescue authorities, local audit and terms in business tenancies about rent.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
+      "display_stage": "commons",
+      "seq_stage": "first_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passed"
+            "state": "passing"
           },
           {
             "stage": "Lords",
-            "state": "passing"
+            "state": "future"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "24 April 2026"
+        "last_update": "28 April 2026"
       },
       "enacted": null,
       "parliament_id": 4002,
@@ -627,7 +627,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 24 days"
+        "enacted_for": "1 year, 25 days"
       },
       "parliament_id": 3765,
       "context_url": null
@@ -867,7 +867,7 @@
             "state": "future"
           }
         ],
-        "last_update": "23 April 2026"
+        "last_update": "28 April 2026"
       },
       "enacted": null,
       "parliament_id": 4022,
@@ -923,7 +923,7 @@
             "state": "future"
           }
         ],
-        "last_update": "15 April 2026"
+        "last_update": "28 April 2026"
       },
       "enacted": null,
       "parliament_id": 4035,
