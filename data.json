@@ -1,11 +1,11 @@
 {
-  "last_update": "29 April 2026",
+  "last_update": "30 April 2026",
   "stats": {
     "total": 40,
-    "lords": 3,
+    "lords": 0,
     "commons": 5,
-    "final": 3,
-    "enacted": 24
+    "final": 0,
+    "enacted": 30
   },
   "bills": [
     {
@@ -54,32 +54,18 @@
         "short": "Economy",
         "title": "Economic stability and growth"
       },
-      "title": "Pension Schemes Bill",
+      "title": "Pension Schemes Act",
       "descriptions": {
         "theguardian": "<p>A broad pensions-based bill covering measures intended to help people get more from their retirement pots.</p>",
         "ft": "<p>Legislation will place an emphasis on preventing people losing track of various small pension pots by consolidating them. This move will help tackle a problem affecting some 2.8mn pots, according to the Pensions Policy Institute, a think-tank. An accompanying value for money framework is aimed at encouraging better pension fund performance in the interest of economic growth.</p>",
         "parliament": "<p>A Bill to make provision about pension schemes; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Lords",
-            "state": "passing"
-          },
-          {
-            "stage": "Assent",
-            "state": "future"
-          }
-        ],
-        "last_update": "28 April 2026"
+      "display_stage": "final",
+      "seq_stage": "final",
+      "progress": null,
+      "enacted": {
+        "enacted_for": "a day"
       },
-      "enacted": null,
       "parliament_id": 3982,
       "context_url": null
     },
@@ -141,7 +127,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 4 months"
+        "enacted_for": "1 year, 5 months"
       },
       "parliament_id": 3732,
       "context_url": null
@@ -175,7 +161,7 @@
             "state": "future"
           }
         ],
-        "last_update": "28 April 2026"
+        "last_update": "29 April 2026"
       },
       "enacted": null,
       "parliament_id": 4030,
@@ -271,32 +257,18 @@
         "short": "Opportunity",
         "title": "Break down the barriers to opportunity"
       },
-      "title": "Children’s Wellbeing and Schools Bill",
+      "title": "Children’s Wellbeing and Schools Act",
       "descriptions": {
         "theguardian": "<p>Introduces free breakfast clubs in primary schools as well as efforts to make uniforms cheaper.</p>",
         "ft": null,
         "parliament": "<p>A Bill to make provision about the safeguarding and welfare of children; about support for children in care or leaving care; about regulation of care workers; about regulation of establishments and agencies under Part 2 of the Care Standards Act 2000; about employment of children; about breakfast club provision and school uniform; about allergy safety in schools; about attendance of children at school; about regulation of independent educational institutions; about inspections of schools and colleges; about teacher misconduct; about Academies and teachers at Academies; repealing section 128 of the Education Act 2002; about school places and admissions; about establishing new schools; and for connected purposes.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Lords",
-            "state": "passing"
-          },
-          {
-            "stage": "Assent",
-            "state": "future"
-          }
-        ],
-        "last_update": "28 April 2026"
+      "display_stage": "final",
+      "seq_stage": "final",
+      "progress": null,
+      "enacted": {
+        "enacted_for": "a day"
       },
-      "enacted": null,
       "parliament_id": 3909,
       "context_url": null
     },
@@ -325,32 +297,18 @@
         "short": "Economy",
         "title": "Economic stability and growth"
       },
-      "title": "English Devolution and Community Empowerment Bill",
+      "title": "English Devolution and Community Empowerment Act",
       "descriptions": {
         "theguardian": "<p>Another much-touted measure, intended to extend devolution across England and giving mayors and local authorities the opportunity to take on extra powers.</p>",
         "ft": "<p>The government has promised to make the devolution of powers a default setting for England’s regions. Legislation will establish a new framework to move power out of Westminster, with the aim of empowering local leaders to make decisions over infrastructure planning, transport, skills and employment support.</p>",
         "parliament": "<p>A Bill to make provision about combined authorities, combined county authorities, the Greater London Authority, local councils, police and crime commissioners and fire and rescue authorities, local audit and terms in business tenancies about rent.</p>"
       },
-      "display_stage": "lords",
-      "seq_stage": "second_house",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Lords",
-            "state": "passing"
-          },
-          {
-            "stage": "Assent",
-            "state": "future"
-          }
-        ],
-        "last_update": "28 April 2026"
+      "display_stage": "final",
+      "seq_stage": "final",
+      "progress": null,
+      "enacted": {
+        "enacted_for": "a day"
       },
-      "enacted": null,
       "parliament_id": 4002,
       "context_url": null
     },
@@ -582,7 +540,7 @@
         "short": "Security",
         "title": "Secure borders, cracking down on anti-social behaviour and taking back our streets"
       },
-      "title": "Crime and Policing Bill",
+      "title": "Crime and Policing Act",
       "descriptions": {
         "theguardian": "<p>A more general policing bill, including measures on neighbourhood policing and stronger rules for the inspectorate to intervene in failing police forces.</p>",
         "ft": "<p>This will expand the powers of HM Inspectorate of Constabulary and Fire & Rescue Services to intervene in failing police forces and will introduce higher mandatory national vetting standards across policing.</p>",
@@ -590,24 +548,10 @@
       },
       "display_stage": "final",
       "seq_stage": "final",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Lords",
-            "state": "passed"
-          },
-          {
-            "stage": "Assent",
-            "state": "passing"
-          }
-        ],
-        "last_update": "28 April 2026"
+      "progress": null,
+      "enacted": {
+        "enacted_for": "a day"
       },
-      "enacted": null,
       "parliament_id": 3938,
       "context_url": null
     },
@@ -627,7 +571,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 26 days"
+        "enacted_for": "1 year, 27 days"
       },
       "parliament_id": 3765,
       "context_url": null
@@ -638,7 +582,7 @@
         "short": "Security",
         "title": "Secure borders, cracking down on anti-social behaviour and taking back our streets"
       },
-      "title": "Victims and Courts Bill",
+      "title": "Victims and Courts Act",
       "descriptions": {
         "theguardian": "<p>Among other measures, this would boost the powers of the Victims’ commissioner.</p>",
         "ft": null,
@@ -646,24 +590,10 @@
       },
       "display_stage": "final",
       "seq_stage": "final",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Lords",
-            "state": "passed"
-          },
-          {
-            "stage": "Assent",
-            "state": "passing"
-          }
-        ],
-        "last_update": "24 April 2026"
+      "progress": null,
+      "enacted": {
+        "enacted_for": "a day"
       },
-      "enacted": null,
       "parliament_id": 3968,
       "context_url": null
     },
@@ -732,7 +662,7 @@
         "short": "Health",
         "title": "Health"
       },
-      "title": "Tobacco and Vapes Bill",
+      "title": "Tobacco and Vapes Act",
       "descriptions": {
         "theguardian": "<p>Left over from Rishi Sunak’s government, this would gradually ban smoking and stop vapes being marketed at children.</p>",
         "ft": "<p>Labour is rolling over a previous Conservative bill that will gradually introduce a smoking ban for people born after January 2009. It will also crack down on child-friendly marketing of vapes.</p>",
@@ -740,24 +670,10 @@
       },
       "display_stage": "final",
       "seq_stage": "final",
-      "progress": {
-        "stages": [
-          {
-            "stage": "Commons",
-            "state": "passed"
-          },
-          {
-            "stage": "Lords",
-            "state": "passed"
-          },
-          {
-            "stage": "Assent",
-            "state": "passing"
-          }
-        ],
-        "last_update": "21 April 2026"
+      "progress": null,
+      "enacted": {
+        "enacted_for": "a day"
       },
-      "enacted": null,
       "parliament_id": 3879,
       "context_url": null
     },
@@ -811,7 +727,7 @@
             "state": "future"
           }
         ],
-        "last_update": "28 April 2026"
+        "last_update": "29 April 2026"
       },
       "enacted": null,
       "parliament_id": 4019,
@@ -923,7 +839,7 @@
             "state": "future"
           }
         ],
-        "last_update": "28 April 2026"
+        "last_update": "29 April 2026"
       },
       "enacted": null,
       "parliament_id": 4035,
