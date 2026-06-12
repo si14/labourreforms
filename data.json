@@ -1,9 +1,9 @@
 {
-  "last_update": "11 June 2026",
+  "last_update": "12 June 2026",
   "stats": {
     "total": 40,
-    "lords": 0,
-    "commons": 5,
+    "lords": 1,
+    "commons": 4,
     "final": 0,
     "enacted": 30
   },
@@ -24,7 +24,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 8 months"
+        "enacted_for": "1 year, 9 months"
       },
       "parliament_id": 3731,
       "context_url": null
@@ -144,17 +144,17 @@
         "ft": null,
         "parliament": "<p>A Bill to make provision about railways and railway services; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
@@ -183,7 +183,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 27 days"
+        "enacted_for": "1 year, 28 days"
       },
       "parliament_id": 3738,
       "context_url": null
@@ -384,7 +384,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 27 days"
+        "enacted_for": "1 year, 28 days"
       },
       "parliament_id": 3772,
       "context_url": null
@@ -405,7 +405,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 27 days"
+        "enacted_for": "1 year, 28 days"
       },
       "parliament_id": 3734,
       "context_url": null
@@ -727,7 +727,7 @@
             "state": "future"
           }
         ],
-        "last_update": "28 May 2026"
+        "last_update": "11 June 2026"
       },
       "enacted": null,
       "parliament_id": 4019,
@@ -839,7 +839,7 @@
             "state": "future"
           }
         ],
-        "last_update": "10 June 2026"
+        "last_update": "11 June 2026"
       },
       "enacted": null,
       "parliament_id": 4035,
