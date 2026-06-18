@@ -1,9 +1,9 @@
 {
-  "last_update": "17 June 2026",
+  "last_update": "18 June 2026",
   "stats": {
     "total": 40,
-    "lords": 1,
-    "commons": 4,
+    "lords": 2,
+    "commons": 3,
     "final": 0,
     "enacted": 30
   },
@@ -161,7 +161,7 @@
             "state": "future"
           }
         ],
-        "last_update": "12 June 2026"
+        "last_update": "17 June 2026"
       },
       "enacted": null,
       "parliament_id": 4030,
@@ -727,7 +727,7 @@
             "state": "future"
           }
         ],
-        "last_update": "16 June 2026"
+        "last_update": "17 June 2026"
       },
       "enacted": null,
       "parliament_id": 4019,
@@ -783,7 +783,7 @@
             "state": "future"
           }
         ],
-        "last_update": "28 May 2026"
+        "last_update": "17 June 2026"
       },
       "enacted": null,
       "parliament_id": 4022,
@@ -805,7 +805,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "2 months"
+        "enacted_for": "3 months"
       },
       "parliament_id": 3755,
       "context_url": null
@@ -822,24 +822,24 @@
         "ft": null,
         "parliament": "<p>A Bill to Make provision, including provision amending the Network and Information Systems Regulations 2018, about the security and resilience of network and information systems used or relied on in connection with the carrying on of essential activities.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "16 June 2026"
+        "last_update": "17 June 2026"
       },
       "enacted": null,
       "parliament_id": 4035,
@@ -861,7 +861,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 4 months"
+        "enacted_for": "1 year, 5 months"
       },
       "parliament_id": 3735,
       "context_url": null
@@ -882,7 +882,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 4 months"
+        "enacted_for": "1 year, 5 months"
       },
       "parliament_id": 3744,
       "context_url": null
