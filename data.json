@@ -1,5 +1,5 @@
 {
-  "last_update": "18 June 2026",
+  "last_update": "19 June 2026",
   "stats": {
     "total": 40,
     "lords": 2,
@@ -85,7 +85,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "5 months"
+        "enacted_for": "6 months"
       },
       "parliament_id": 3946,
       "context_url": null
@@ -106,7 +106,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "5 months"
+        "enacted_for": "6 months"
       },
       "parliament_id": 3737,
       "context_url": null
@@ -468,7 +468,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "11 months"
+        "enacted_for": "a year"
       },
       "parliament_id": 3825,
       "context_url": null
@@ -693,7 +693,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "5 months"
+        "enacted_for": "6 months"
       },
       "parliament_id": 3884,
       "context_url": null
@@ -839,7 +839,7 @@
             "state": "future"
           }
         ],
-        "last_update": "17 June 2026"
+        "last_update": "18 June 2026"
       },
       "enacted": null,
       "parliament_id": 4035,
