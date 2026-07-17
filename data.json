@@ -1,9 +1,9 @@
 {
-  "last_update": "16 July 2026",
+  "last_update": "17 July 2026",
   "stats": {
     "total": 40,
-    "lords": 2,
-    "commons": 3,
+    "lords": 3,
+    "commons": 2,
     "final": 0,
     "enacted": 30
   },
@@ -468,7 +468,7 @@
       "seq_stage": "final",
       "progress": null,
       "enacted": {
-        "enacted_for": "1 year, 27 days"
+        "enacted_for": "1 year, 28 days"
       },
       "parliament_id": 3825,
       "context_url": null
@@ -710,24 +710,24 @@
         "ft": null,
         "parliament": "<p>A Bill to Impose a duty on public authorities and public officials to act with candour, transparency and frankness; to make provision for the enforcement of that duty in their dealings with inquiries and investigations; to require public authorities to promote and take steps to maintain ethical conduct within all parts of the authority; to create an offence in relation to public authorities and public officials who mislead the public; to create further offences in relation to the misconduct of persons who hold public office and to abolish the common law offence of misconduct in public office; to make provision enabling persons to participate at inquiries and investigations where the conduct of public authorities may be in issue; and for connected purposes.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "15 July 2026"
+        "last_update": "16 July 2026"
       },
       "enacted": null,
       "parliament_id": 4019,
