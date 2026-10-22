@@ -1,9 +1,9 @@
 {
-  "last_update": "21 October 2026",
+  "last_update": "22 October 2026",
   "stats": {
     "total": 40,
-    "lords": 3,
-    "commons": 2,
+    "lords": 4,
+    "commons": 1,
     "final": 0,
     "enacted": 30
   },
@@ -161,7 +161,7 @@
             "state": "future"
           }
         ],
-        "last_update": "20 October 2026"
+        "last_update": "22 October 2026"
       },
       "enacted": null,
       "parliament_id": 4030,
@@ -727,7 +727,7 @@
             "state": "future"
           }
         ],
-        "last_update": "20 October 2026"
+        "last_update": "22 October 2026"
       },
       "enacted": null,
       "parliament_id": 4019,
@@ -766,24 +766,24 @@
         "ft": null,
         "parliament": "<p>A Bill to make new provision to address the legacy of the Northern Ireland Troubles.</p>"
       },
-      "display_stage": "commons",
-      "seq_stage": "first_house",
+      "display_stage": "lords",
+      "seq_stage": "second_house",
       "progress": {
         "stages": [
           {
             "stage": "Commons",
-            "state": "passing"
+            "state": "passed"
           },
           {
             "stage": "Lords",
-            "state": "future"
+            "state": "passing"
           },
           {
             "stage": "Assent",
             "state": "future"
           }
         ],
-        "last_update": "20 October 2026"
+        "last_update": "22 October 2026"
       },
       "enacted": null,
       "parliament_id": 4022,
@@ -839,7 +839,7 @@
             "state": "future"
           }
         ],
-        "last_update": "20 October 2026"
+        "last_update": "22 October 2026"
       },
       "enacted": null,
       "parliament_id": 4035,
